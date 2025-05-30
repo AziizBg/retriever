@@ -1,0 +1,49 @@
+subject,predicate,object
+Tuberculosis,has_symptom,prolonged cough
+Tuberculosis,has_symptom,chest pain
+Tuberculosis,has_symptom,weakness
+Tuberculosis,has_symptom,fatigue
+Tuberculosis,has_symptom,weight loss
+Tuberculosis,has_symptom,fever
+Tuberculosis,has_symptom,night sweats
+Tuberculosis,is_caused_by,bacteria
+Tuberculosis,is_treated_by,isoniazid
+Tuberculosis,is_treated_by,rifampicin
+Tuberculosis,is_treated_by,pyrazinamide
+Tuberculosis,is_treated_by,ethambutol
+Tuberculosis,is_prevented_by,Bacille Calmette-Guérin (BCG) vaccine
+Tuberculosis,has_risk_factor,diabetes
+Tuberculosis,has_risk_factor,weakened immune system
+Tuberculosis,has_risk_factor,malnourishment
+Tuberculosis,has_risk_factor,tobacco use
+Tuberculosis,has_risk_factor,harmful use of alcohol
+Tuberculosis,is_diagnosed_by,Xpert MTB/RIF Ultra
+Tuberculosis,is_diagnosed_by,Truenat assays
+Tuberculosis,is_diagnosed_by,tuberculin skin test (TST)
+Tuberculosis,is_diagnosed_by,interferon gamma release assay (IGRA)
+Tuberculosis,is_diagnosed_by,newer antigen-based skin tests (TBST)
+Tuberculosis,leads_to_complication,drug-resistant TB
+Tuberculosis,occurs_with,HIV
+Tuberculosis,associated_with,undernutrition
+Tuberculosis,associated_with,alcohol use disorders
+Tuberculosis,associated_with,smoking
+Tuberculosis,associated_with,HIV infection
+Tuberculosis,associated_with,diabetes
+Bacille Calmette-Guérin (BCG) vaccine,prevents,Tuberculosis
+Isoniazid,treats,Tuberculosis
+Rifampicin,treats,Tuberculosis
+Pyrazinamide,treats,Tuberculosis
+Ethambutol,treats,Tuberculosis
+Diabetes,causes,Tuberculosis
+Weakened immune system,causes,Tuberculosis
+Malnourishment,causes,Tuberculosis
+Tobacco use,causes,Tuberculosis
+Harmful use of alcohol,causes,Tuberculosis
+HIV,associated_with,Tuberculosis
+Undernutrition,associated_with,Tuberculosis
+Alcohol use disorders,associated_with,Tuberculosis
+Smoking,associated_with,Tuberculosis
+HIV infection,associated_with,Tuberculosis
+Diabetes,associated_with,Tuberculosis
+Drug-resistant TB,leads_to_complication,Tuberculosis
+Tuberculosis,leads_to_complication,drug-resistant TB

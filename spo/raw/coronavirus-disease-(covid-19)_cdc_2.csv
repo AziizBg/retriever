@@ -1,0 +1,72 @@
+subject,predicate,object
+coronavirus-disease-(covid-19),has_risk_factor,older adults
+coronavirus-disease-(covid-19),has_risk_factor,underlying medical conditions
+coronavirus-disease-(covid-19),leads_to_complication,hospitalization
+coronavirus-disease-(covid-19),leads_to_complication,intensive care
+coronavirus-disease-(covid-19),leads_to_complication,ventilator use
+coronavirus-disease-(covid-19),leads_to_complication,death
+coronavirus-disease-(covid-19),is_prevented_by,COVID-19 vaccines
+coronavirus-disease-(covid-19),is_prevented_by,preventive measures
+coronavirus-disease-(covid-19),has_risk_factor,age over 65
+coronavirus-disease-(covid-19),has_risk_factor,racial and ethnic minority groups
+coronavirus-disease-(covid-19),has_risk_factor,people with disabilities
+coronavirus-disease-(covid-19),has_risk_factor,medical complexity
+coronavirus-disease-(covid-19),has_risk_factor,genetic conditions
+coronavirus-disease-(covid-19),has_risk_factor,neurologic conditions
+coronavirus-disease-(covid-19),has_risk_factor,metabolic conditions
+coronavirus-disease-(covid-19),has_risk_factor,congenital heart disease
+coronavirus-disease-(covid-19),has_risk_factor,obesity
+coronavirus-disease-(covid-19),has_risk_factor,diabetes
+coronavirus-disease-(covid-19),has_risk_factor,asthma
+coronavirus-disease-(covid-19),has_risk_factor,chronic lung disease
+coronavirus-disease-(covid-19),has_risk_factor,sickle cell disease
+coronavirus-disease-(covid-19),has_risk_factor,immunocompromised state
+coronavirus-disease-(covid-19),is_treated_by,treatment within 5-7 days of symptom onset
+coronavirus-disease-(covid-19),is_treated_by,Test to Treat locations
+cancer,is_caused_by,treatments weakening immune system
+cerebrovascular disease,associated_with,stroke
+chronic kidney disease,associated_with,COVID-19 risk
+chronic liver disease,has_symptom,alcohol-related liver disease
+chronic liver disease,has_symptom,non-alcoholic fatty liver disease
+chronic liver disease,has_symptom,autoimmune hepatitis
+chronic liver disease,has_symptom,cirrhosis
+chronic lung disease,has_symptom,asthma
+chronic lung disease,has_symptom,bronchiectasis
+chronic lung disease,has_symptom,bronchopulmonary dysplasia
+chronic lung disease,has_symptom,chronic obstructive pulmonary disease (COPD)
+chronic lung disease,has_symptom,emphysema
+chronic lung disease,has_symptom,chronic bronchitis
+chronic lung disease,has_symptom,interstitial lung disease
+chronic lung disease,has_symptom,idiopathic pulmonary fibrosis
+chronic lung disease,has_symptom,pulmonary embolism
+chronic lung disease,has_symptom,pulmonary hypertension
+cystic fibrosis,associated_with,lung transplant
+cystic fibrosis,associated_with,solid organ transplant
+dementia,associated_with,neurological conditions
+diabetes,associated_with,COVID-19 risk
+disabilities,has_risk_factor,underlying medical conditions
+disabilities,has_risk_factor,living in congregate settings
+disabilities,has_risk_factor,systemic health inequities
+heart conditions,has_symptom,heart failure
+heart conditions,has_symptom,coronary artery disease
+heart conditions,has_symptom,cardiomyopathies
+heart conditions,has_symptom,hypertension
+hemoglobin blood disorders,associated_with,sickle cell disease
+hemoglobin blood disorders,associated_with,thalassemia
+HIV infection,is_caused_by,immunodeficiency virus
+immunocompromised condition,is_caused_by,chemotherapy
+immunocompromised condition,is_caused_by,solid organ transplant
+immunocompromised condition,is_caused_by,corticosteroid use
+immunocompromised condition,is_caused_by,primary immunodeficiency
+Pemivibart (Pemgarda™),treats,COVID-19 prevention
+mental health conditions,has_symptom,depression
+mental health conditions,has_symptom,schizophrenia spectrum disorders
+overweight and obesity,has_risk_factor,high BMI
+physical inactivity,associated_with,poor health
+pregnancy,has_risk_factor,COVID-19 severity
+smoking,associated_with,increased COVID-19 risk
+solid organ or blood stem cell transplant,associated_with,immunocompromised state
+substance use disorders,has_symptom,alcohol use disorder
+substance use disorders,has_symptom,opioid use disorder
+substance use disorders,has_symptom,cocaine use disorder
+tuberculosis (TB),associated_with,public health emergencies

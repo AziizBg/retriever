@@ -1,0 +1,36 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,cigarette smoking
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,exposure to tobacco smoke
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,exposure to air pollutants
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,family history of copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,exposure to air pollution
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,exposure to chemical fumes
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,exposure to dust
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,exposure to secondhand smoke
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smaller airways
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,conditions affecting lung growth and development
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking during pregnancy
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,childhood asthma
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,air pollution exposure during childhood
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,hiv infection
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,tuberculosis infection
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,age over 40 years
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,alpha-1 antitrypsin (aat) deficiency
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,vitamin d deficiency
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,mutations in chrna genes
+chronic-obstructive-pulmonary-disease-copd,occurs_with,loss of elastic quality in airways and air sacs
+chronic-obstructive-pulmonary-disease-copd,occurs_with,destruction of air sac walls
+chronic-obstructive-pulmonary-disease-copd,occurs_with,thickening and inflammation of airway walls
+chronic-obstructive-pulmonary-disease-copd,occurs_with,excessive mucus production in airways
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,reduced airflow in airways
+smoking,causes,lung damage
+exposure to tobacco smoke,causes,lung damage
+exposure to air pollutants,causes,lung damage
+alpha-1 antitrypsin (aat) deficiency,causes,lung damage
+mutations in chrna genes,associated_with,copd risk
+vitamin d deficiency,associated_with,copd risk
+hormonal differences,associated_with,differences in copd between men and women
+physiological differences,associated_with,differences in copd between men and women
+biological differences,associated_with,differences in copd between men and women
+smaller lung size in women,associated_with,increased airway narrowing risk

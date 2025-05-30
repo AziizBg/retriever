@@ -1,0 +1,30 @@
+subject,predicate,object
+Pneumonia,is_prevented_by,Vaccination and immunization
+Pneumonia,is_prevented_by,Healthy living practices
+Vaccination and immunization,treats,Haemophilus influenzae type b (Hib)
+Vaccination and immunization,treats,Pertussis (whooping cough)
+Vaccination and immunization,treats,Pneumococcal
+Vaccination and immunization,treats,COVID-19
+Vaccination and immunization,treats,Influenza (flu)
+Vaccination and immunization,treats,Measles
+Vaccination and immunization,treats,Respiratory syncytial virus (RSV)
+Vaccination and immunization,treats,Varicella (chickenpox)
+Healthy living practices,includes,Avoiding sick people
+Healthy living practices,includes,Hand washing
+Healthy living practices,includes,Cleaning and disinfecting surfaces
+Healthy living practices,includes,Coughing or sneezing into a tissue or elbow
+Healthy living practices,includes,Limited contact with cigarette smoke
+Healthy living practices,includes,Quitting smoking
+Healthy living practices,includes,Managing chronic medical conditions
+Asthma,is_a,Chronic medical condition
+Managing chronic medical conditions,includes,Asthma care
+Pneumonia,is_caused_by,Bacterial infections
+Pneumonia,is_caused_by,Viral infections
+Bacterial infections,includes,Haemophilus influenzae type b (Hib)
+Bacterial infections,includes,Pertussis (whooping cough)
+Bacterial infections,includes,Pneumococcal
+Viral infections,includes,COVID-19
+Viral infections,includes,Influenza (flu)
+Viral infections,includes,Measles
+Viral infections,includes,Respiratory syncytial virus (RSV)
+Viral infections,includes,Varicella (chickenpox)

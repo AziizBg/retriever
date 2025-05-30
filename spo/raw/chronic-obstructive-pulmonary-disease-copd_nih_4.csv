@@ -1,0 +1,16 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,quitting smoking
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding air pollution
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding chemical fumes
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding dust
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding secondhand smoke
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,smoking
+quitting smoking,treats,chronic-obstructive-pulmonary-disease-copd
+smoking,causes,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking
+chronic-obstructive-pulmonary-disease-copd,occurs_with,serious symptoms
+support group,associated_with,quitting smoking
+healthcare provider,associated_with,quitting smoking programs
+healthcare provider,associated_with,quitting smoking products
+e-cigarettes,associated_with,quitting smoking tobacco
+National Cancer Institute’s Smoking Quitline,associated_with,free help and support to quit smoking

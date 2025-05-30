@@ -1,0 +1,24 @@
+subject,predicate,object
+Pneumonia,is_caused_by,bacteria
+Pneumonia,is_caused_by,viruses
+Pneumonia,is_caused_by,fungi
+Pneumonia,has_symptom,cough with mucus
+Pneumonia,has_symptom,fever
+Pneumonia,has_symptom,chills
+Pneumonia,has_symptom,trouble breathing
+Pneumonia,is_diagnosed_by,review of medical history
+Pneumonia,is_diagnosed_by,physical exam
+Pneumonia,is_diagnosed_by,chest X-ray
+Pneumonia,is_treated_by,antibiotic medicines
+Pneumonia,is_treated_by,viral medicines
+Pneumonia,is_treated_by,fungal medicines
+Pneumonia,is_treated_by,intravenous antibiotics
+Pneumonia,is_treated_by,oxygen therapy
+Pneumonia,is_prevented_by,vaccines
+Pneumonia,is_prevented_by,good hygiene
+Pneumonia,is_prevented_by,heart-healthy living
+Pneumonia,leads_to_complication,severe pneumonia
+Severe pneumonia,leads_to_complication,hospitalization
+Pneumonia,associated_with,age
+Pneumonia,associated_with,overall health
+Pneumonia,associated_with,type of infection

@@ -1,0 +1,42 @@
+subject,predicate,object
+asthma,is_treated_by,inhaled corticosteroids
+asthma,has_symptom,asthma attacks
+asthma,is_prevented_by,flu vaccines
+asthma,is_prevented_by,pneumonia vaccines
+asthma,has_risk_factor,overweight
+asthma,has_risk_factor,obesity
+asthma,is_caused_by,animal fur
+asthma,is_caused_by,dust
+asthma,is_caused_by,mold
+asthma,is_caused_by,air pollution
+asthma,is_caused_by,tobacco smoke
+asthma,is_caused_by,secondhand smoke
+asthma,is_caused_by,occupational allergens
+asthma,is_caused_by,COVID-19
+asthma,leads_to_complication,preeclampsia
+asthma,leads_to_complication,preterm delivery
+asthma,leads_to_complication,low birth weight
+asthma,occurs_with,COVID-19
+asthma,is_treated_by,peak flow meter monitoring
+asthma,is_treated_by,asthma action plan
+asthma,is_treated_by,healthy weight management
+asthma,is_treated_by,heart-healthy foods
+asthma,is_treated_by,regular physical activity
+asthma,is_treated_by,stress management
+asthma,is_treated_by,smoking cessation
+asthma,is_treated_by,good quality sleep
+asthma,is_diagnosed_by,peak flow meter
+asthma,associated_with,anxiety
+asthma,associated_with,depression
+asthma,associated_with,panic attacks
+asthma,associated_with,occupational asthma
+asthma,associated_with,pregnancy
+asthma,associated_with,low air quality
+asthma,associated_with,thunderstorms
+asthma,associated_with,allergens
+asthma,associated_with,viruses
+asthma,associated_with,bacterial infections
+asthma,associated_with,aspirin
+asthma,associated_with,electronic cigarettes
+asthma,associated_with,nicotine
+asthma,associated_with,flavorings in e-cigarettes

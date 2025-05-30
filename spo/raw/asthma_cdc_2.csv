@@ -1,0 +1,33 @@
+subject,predicate,object
+Asthma Action Plan,treats,asthma
+asthma,is_treated_by,Asthma Action Plan
+asthma,has_symptom,asthma attack
+asthma,is_caused_by,asthma triggers
+asthma,has_risk_factor,not stopping medications
+asthma,has_risk_factor,changing treatment plan without consultation
+asthma,is_prevented_by,taking medications as prescribed
+asthma,is_prevented_by,avoiding asthma triggers
+asthma,is_prevented_by,using inhaler correctly
+asthma,is_prevented_by,having 30-day medication supply
+asthma,is_prevented_by,washing hands
+asthma,is_prevented_by,using alcohol-based hand sanitizer
+asthma,is_prevented_by,cleaning and disinfecting frequently touched items
+asthma,is_prevented_by,avoiding disinfectants that trigger asthma attacks
+asthma,is_prevented_by,avoiding cleaning product spray into air
+asthma,is_prevented_by,opening windows during cleaning
+asthma,is_prevented_by,using fan to blow air outdoors
+asthma,is_prevented_by,applying cleaner to cloth or paper towel
+asthma,is_prevented_by,following product label instructions
+asthma,is_prevented_by,coping with stress and anxiety
+asthma,leads_to_complication,asthma attack
+asthma,occurs_with,strong emotions
+strong emotions,causes,asthma attack
+asthma attack,associated_with,asthma
+asthma,associated_with,asthma triggers
+asthma triggers,causes,asthma attack
+asthma,has_risk_factor,poor hand hygiene
+asthma,has_risk_factor,close contact with sick individuals
+asthma,has_risk_factor,not cleaning frequently touched items
+asthma,has_risk_factor,using asthma-triggering disinfectants
+asthma,has_risk_factor,not following cleaning instructions
+asthma,has_risk_factor,unmanaged stress and anxiety

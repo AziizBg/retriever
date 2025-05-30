@@ -1,0 +1,272 @@
+subject,predicate,object
+coronavirus-disease-(covid-19),has_symptom,respiratory symptoms
+coronavirus-disease-(covid-19),has_symptom,cold-like symptoms
+coronavirus-disease-(covid-19),has_symptom,flu-like symptoms
+coronavirus-disease-(covid-19),has_symptom,pneumonia-like symptoms
+coronavirus-disease-(covid-19),leads_to_complication,post-covid conditions
+post-covid conditions,associated_with,long covid
+coronavirus-disease-(covid-19),is_caused_by,virus
+coronavirus-disease-(covid-19),occurs_with,attack on lungs
+coronavirus-disease-(covid-19),occurs_with,attack on respiratory system
+coronavirus-disease-(covid-19),occurs_with,attack on other body parts
+coronavirus-disease-(covid-19),is_spread_by,breathing out droplets
+coronavirus-disease-(covid-19),is_spread_by,breathing out small particles
+coronavirus-disease-(covid-19),is_spread_by,contaminated surfaces
+coronavirus-disease-(covid-19),is_spread_by,infected person
+coronavirus-disease-(covid-19),is_spread_by,asymptomatic person
+coronavirus-disease-(covid-19),is_spread_by,person to animal transmission
+coronavirus-disease-(covid-19),has_risk_factor,older age
+coronavirus-disease-(covid-19),has_risk_factor,immunocompromised state
+coronavirus-disease-(covid-19),has_risk_factor,certain disabilities
+coronavirus-disease-(covid-19),has_risk_factor,underlying health conditions
+coronavirus-disease-(covid-19),is_prevented_by,cdc's respiratory virus guidance
+cdc's respiratory virus guidance,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,protective actions
+protective actions,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,slowing the spread
+slowing the spread,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),leads_to_complication,new variants
+new variants,associated_with,different spreading ways
+coronavirus-disease-(covid-19),is_prevented_by,lowering transmission risk
+lowering transmission risk,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,lowering severe illness risk
+lowering severe illness risk,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),has_symptom,fever or chills
+coronavirus-disease-(covid-19),has_symptom,cough
+coronavirus-disease-(covid-19),has_symptom,shortness of breath or difficulty breathing
+coronavirus-disease-(covid-19),has_symptom,sore throat
+coronavirus-disease-(covid-19),has_symptom,congestion or runny nose
+coronavirus-disease-(covid-19),has_symptom,new loss of taste or smell
+coronavirus-disease-(covid-19),has_symptom,fatigue
+coronavirus-disease-(covid-19),has_symptom,muscle or body aches
+coronavirus-disease-(covid-19),has_symptom,headache
+coronavirus-disease-(covid-19),has_symptom,nausea or vomiting
+coronavirus-disease-(covid-19),has_symptom,diarrhea
+coronavirus-disease-(covid-19),leads_to_complication,trouble breathing
+coronavirus-disease-(covid-19),leads_to_complication,persistent pain or pressure in the chest
+coronavirus-disease-(covid-19),leads_to_complication,new confusion
+coronavirus-disease-(covid-19),leads_to_complication,inability to wake or stay awake
+coronavirus-disease-(covid-19),leads_to_complication,pale gray or blue lips nail beds and skin
+coronavirus-disease-(covid-19),is_caused_by,infection with sars-cov-2
+influenza (flu),is_caused_by,infection with influenza viruses
+coronavirus-disease-(covid-19),is_diagnosed_by,nucleic acid amplification tests (naats)
+coronavirus-disease-(covid-19),is_diagnosed_by,pcr tests
+coronavirus-disease-(covid-19),occurs_with,influenza (flu)
+coronavirus-disease-(covid-19),is_treated_by,health care treatment
+risk factors for severe illness,is_treated_by,health care treatment
+coronavirus-disease-(covid-19),has_risk_factor,risk factors for severe illness
+health care treatment,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),has_risk_factor,older adults
+coronavirus-disease-(covid-19),has_risk_factor,underlying medical conditions
+coronavirus-disease-(covid-19),leads_to_complication,hospitalization
+coronavirus-disease-(covid-19),leads_to_complication,intensive care
+coronavirus-disease-(covid-19),leads_to_complication,ventilator use
+coronavirus-disease-(covid-19),leads_to_complication,death
+coronavirus-disease-(covid-19),is_prevented_by,covid-19 vaccines
+coronavirus-disease-(covid-19),is_prevented_by,preventive measures
+coronavirus-disease-(covid-19),has_risk_factor,age over 65
+coronavirus-disease-(covid-19),has_risk_factor,racial and ethnic minority groups
+coronavirus-disease-(covid-19),has_risk_factor,people with disabilities
+coronavirus-disease-(covid-19),has_risk_factor,medical complexity
+coronavirus-disease-(covid-19),has_risk_factor,genetic conditions
+coronavirus-disease-(covid-19),has_risk_factor,neurologic conditions
+coronavirus-disease-(covid-19),has_risk_factor,metabolic conditions
+coronavirus-disease-(covid-19),has_risk_factor,congenital heart disease
+coronavirus-disease-(covid-19),has_risk_factor,obesity
+coronavirus-disease-(covid-19),has_risk_factor,diabetes
+coronavirus-disease-(covid-19),has_risk_factor,asthma
+coronavirus-disease-(covid-19),has_risk_factor,chronic lung disease
+coronavirus-disease-(covid-19),has_risk_factor,sickle cell disease
+coronavirus-disease-(covid-19),is_treated_by,treatment within 5-7 days of symptom onset
+coronavirus-disease-(covid-19),is_treated_by,test to treat locations
+cancer,is_caused_by,treatments weakening immune system
+cerebrovascular disease,associated_with,stroke
+chronic kidney disease,associated_with,covid-19 risk
+chronic liver disease,has_symptom,alcohol-related liver disease
+chronic liver disease,has_symptom,non-alcoholic fatty liver disease
+chronic liver disease,has_symptom,autoimmune hepatitis
+chronic liver disease,has_symptom,cirrhosis
+chronic lung disease,has_symptom,asthma
+chronic lung disease,has_symptom,bronchiectasis
+chronic lung disease,has_symptom,bronchopulmonary dysplasia
+chronic lung disease,has_symptom,chronic obstructive pulmonary disease (copd)
+chronic lung disease,has_symptom,emphysema
+chronic lung disease,has_symptom,chronic bronchitis
+chronic lung disease,has_symptom,interstitial lung disease
+chronic lung disease,has_symptom,idiopathic pulmonary fibrosis
+chronic lung disease,has_symptom,pulmonary embolism
+chronic lung disease,has_symptom,pulmonary hypertension
+cystic fibrosis,associated_with,lung transplant
+cystic fibrosis,associated_with,solid organ transplant
+dementia,associated_with,neurological conditions
+diabetes,associated_with,covid-19 risk
+disabilities,has_risk_factor,underlying medical conditions
+disabilities,has_risk_factor,living in congregate settings
+disabilities,has_risk_factor,systemic health inequities
+heart conditions,has_symptom,heart failure
+heart conditions,has_symptom,coronary artery disease
+heart conditions,has_symptom,cardiomyopathies
+heart conditions,has_symptom,hypertension
+hemoglobin blood disorders,associated_with,sickle cell disease
+hemoglobin blood disorders,associated_with,thalassemia
+hiv infection,is_caused_by,immunodeficiency virus
+immunocompromised condition,is_caused_by,chemotherapy
+immunocompromised condition,is_caused_by,solid organ transplant
+immunocompromised condition,is_caused_by,corticosteroid use
+immunocompromised condition,is_caused_by,primary immunodeficiency
+pemivibart (pemgarda™),treats,covid-19 prevention
+mental health conditions,has_symptom,depression
+mental health conditions,has_symptom,schizophrenia spectrum disorders
+overweight and obesity,has_risk_factor,high bmi
+physical inactivity,associated_with,poor health
+pregnancy,has_risk_factor,covid-19 severity
+smoking,associated_with,increased covid-19 risk
+solid organ or blood stem cell transplant,associated_with,immunocompromised state
+substance use disorders,has_symptom,alcohol use disorder
+substance use disorders,has_symptom,opioid use disorder
+substance use disorders,has_symptom,cocaine use disorder
+tuberculosis (tb),associated_with,public health emergencies
+sars-cov-2,is_caused_by,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_diagnosed_by,antigen tests
+nucleic acid amplification tests (naats),treats,coronavirus-disease-(covid-19)
+antigen tests,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),has_symptom,emergency warning signs
+coronavirus-disease-(covid-19),is_treated_by,treatment
+treatment,treats,coronavirus-disease-(covid-19)
+risk factors for severe illness,has_risk_factor,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),leads_to_complication,reinfections
+reinfections,occurs_with,coronavirus-disease-(covid-19)
+respiratory viruses,associated_with,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,prevent spreading covid-19
+pcr tests,is_a_type_of,nucleic acid amplification tests (naats)
+nucleic acid amplification tests (naats),is_a_type_of,pcr tests
+self-tests,is_a_type_of,antigen tests
+antigen tests,is_a_type_of,self-tests
+covid-19,is_treated_by,antiviral medications
+covid-19,is_treated_by,paxlovid
+covid-19,is_treated_by,lagevrio
+covid-19,is_treated_by,convalescent plasma
+covid-19,has_symptom,severe illness
+covid-19,has_risk_factor,older adults
+covid-19,has_risk_factor,unvaccinated individuals
+covid-19,has_risk_factor,chronic lung disease
+covid-19,has_risk_factor,heart disease
+covid-19,has_risk_factor,weakened immune system
+antiviral medications,treats,covid-19
+paxlovid,treats,covid-19
+lagevrio,treats,covid-19
+convalescent plasma,treats,covid-19
+covid-19,is_prevented_by,covid-19 vaccines
+covid-19,is_prevented_by,pemivibart (pemgarda™)
+covid-19 vaccines,prevents,covid-19
+pemivibart (pemgarda™),prevents,covid-19
+covid-19,occurs_with,virus multiplication
+antiviral medications,occurs_with,side effects
+paxlovid,occurs_with,metallic taste in mouth
+paxlovid,occurs_with,medication interactions
+covid-19,leads_to_complication,severe illness
+covid-19,leads_to_complication,death
+covid-19,leads_to_complication,hospitalization
+weakened immune system,associated_with,decreased vaccine response
+pre-exposure prophylaxis,associated_with,pemivibart (pemgarda™)
+covid-19 vaccination,associated_with,staying up to date
+covid-19 prevention,associated_with,good hygiene
+covid-19 prevention,associated_with,cleaner air
+covid-19 prevention,associated_with,staying home when sick
+covid-19,has_risk_factor,not staying up to date on covid-19 vaccines
+covid-19,is_prevented_by,good hygiene practices
+covid-19,is_prevented_by,steps for cleaner air
+covid-19,is_prevented_by,precautions to prevent spread
+precautions to prevent spread,includes,staying home
+precautions to prevent spread,includes,avoiding others
+covid-19,is_prevented_by,wearing a mask
+covid-19,is_prevented_by,putting distance between yourself and others
+covid-19,is_diagnosed_by,testing for covid-19
+testing for covid-19,helps,deciding next steps
+deciding next steps,includes,getting treatment
+getting treatment,helps,reduce risk of severe illness
+covid-19,is_treated_by,treatment started within a few days of symptom onset
+treatment started within a few days of symptom onset,lowers,risk of severe illness
+covid-19,has_risk_factor,exposure to respiratory viruses
+respiratory viruses,includes,covid-19
+respiratory viruses,includes,flu
+respiratory viruses,includes,rsv
+covid-19,occurs_with,flu
+covid-19,occurs_with,rsv
+risk factors for severe illness,associated_with,severe illness
+severe illness,associated_with,hospitalization
+severe illness,associated_with,death
+coronavirus-disease-(covid-19),is_caused_by,sars-cov-2 coronavirus
+coronavirus-disease-(covid-19),spreads_between,people in close contact
+covid-19 vaccines,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),has_symptom,fever
+coronavirus-disease-(covid-19),has_symptom,chills
+coronavirus-disease-(covid-19),has_symptom,muscle aches
+coronavirus-disease-(covid-19),has_symptom,heavy arms or legs
+coronavirus-disease-(covid-19),has_symptom,severe fatigue
+coronavirus-disease-(covid-19),has_symptom,runny or blocked nose
+coronavirus-disease-(covid-19),has_symptom,sneezing
+coronavirus-disease-(covid-19),has_symptom,sore eyes
+coronavirus-disease-(covid-19),has_symptom,dizziness
+coronavirus-disease-(covid-19),has_symptom,new and persistent cough
+coronavirus-disease-(covid-19),has_symptom,tight chest
+coronavirus-disease-(covid-19),has_symptom,chest pain
+coronavirus-disease-(covid-19),has_symptom,shortness of breath
+coronavirus-disease-(covid-19),has_symptom,hoarse voice
+coronavirus-disease-(covid-19),has_symptom,numbness or tingling
+coronavirus-disease-(covid-19),has_symptom,appetite loss
+coronavirus-disease-(covid-19),has_symptom,nausea
+coronavirus-disease-(covid-19),has_symptom,vomiting
+coronavirus-disease-(covid-19),has_symptom,abdominal pain
+coronavirus-disease-(covid-19),has_symptom,loss of sense of taste
+coronavirus-disease-(covid-19),has_symptom,loss of sense of smell
+coronavirus-disease-(covid-19),has_symptom,difficulty sleeping
+coronavirus-disease-(covid-19),leads_to_complication,respiratory failure
+coronavirus-disease-(covid-19),leads_to_complication,sepsis
+coronavirus-disease-(covid-19),leads_to_complication,thromboembolism
+coronavirus-disease-(covid-19),leads_to_complication,multiorgan failure
+coronavirus-disease-(covid-19),leads_to_complication,heart injury
+coronavirus-disease-(covid-19),leads_to_complication,liver injury
+coronavirus-disease-(covid-19),leads_to_complication,kidney injury
+coronavirus-disease-(covid-19),leads_to_complication,severe inflammatory syndrome in children
+coronavirus-disease-(covid-19),leads_to_complication,long covid
+long covid,has_symptom,fatigue
+long covid,has_symptom,breathlessness
+long covid,has_symptom,cognitive dysfunction
+coronavirus-disease-(covid-19),has_risk_factor,age over 60
+coronavirus-disease-(covid-19),has_risk_factor,high blood pressure
+coronavirus-disease-(covid-19),has_risk_factor,immunosuppression
+coronavirus-disease-(covid-19),has_risk_factor,hiv
+coronavirus-disease-(covid-19),has_risk_factor,cancer
+coronavirus-disease-(covid-19),has_risk_factor,pregnancy
+coronavirus-disease-(covid-19),has_risk_factor,unvaccinated status
+coronavirus-disease-(covid-19),is_treated_by,treatments based on disease severity
+coronavirus-disease-(covid-19),is_prevented_by,vaccination
+coronavirus-disease-(covid-19),is_prevented_by,avoiding crowds
+coronavirus-disease-(covid-19),is_prevented_by,wearing a mask
+coronavirus-disease-(covid-19),is_prevented_by,frequent hand cleaning
+coronavirus-disease-(covid-19),is_prevented_by,coughing into a bent elbow or tissue
+coronavirus-disease-(covid-19),is_prevented_by,self-isolation when symptomatic
+covid-19 vaccines,prevents,severe illness
+covid-19 vaccines,prevents,hospitalization
+covid-19 vaccines,prevents,death
+severe covid-19,requires,treatment as soon as possible
+people with pre-existing health problems,has_risk_factor,severe covid-19
+immunosuppressive medication,increases_risk,severe covid-19
+chronic heart problems,increases_risk,severe covid-19
+chronic lung problems,increases_risk,severe covid-19
+chronic liver problems,increases_risk,severe covid-19
+rheumatological problems,increases_risk,severe covid-19
+hiv,increases_risk,severe covid-19
+diabetes,increases_risk,severe covid-19
+cancer,increases_risk,severe covid-19
+obesity,increases_risk,severe covid-19
+dementia,increases_risk,severe covid-19
+vaccination,prioritizes,people aged 60 years and over
+vaccination,prioritizes,people with underlying medical problems
+vaccination,includes,primary series vaccination
+vaccination,includes,booster doses
+sars-cov-2 virus,circulates,geographically
+local health authority,provides,updated guidelines
+covid-19 vaccines,saves,lives
+vaccinated individuals,can_spread,sars-cov-2 coronavirus

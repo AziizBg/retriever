@@ -1,0 +1,326 @@
+subject,predicate,object
+pneumonia,is_prevented_by,hygienic_practices
+pneumonia,leads_to_complication,bronchopneumonia
+pneumonia,is_diagnosed_by,blood culture testing
+symptomatic relief medication,treats,febrile symptoms
+pneumonia,has_risk_factor,treatment non-adherence
+pneumonia,has_symptom,altered mental status
+oral antibiotics,treats,pneumonia
+pneumonia,is_treated_by,antibiotic_therapy
+physical activity,is_prevented_by,immune system strengthening
+pneumonia,occurs_with,viral infection
+community health worker intervention,supports,treatment of pneumonia
+pneumonia,is_prevented_by,smoking_cessation
+haemophilus influenzae type b vaccine,is_prevented_by,vaccination administration
+pertussis vaccine,is_type_of,vaccine
+pneumonia,is_treated_by,supportive_care
+haemophilus influenzae type b vaccine,causes,meningitis prevention
+pneumonia,associated_with,antimicrobial resistance
+pneumonia,is_treated_by,intravenous hydration
+hand hygiene,is_prevented_by,pathogen eradication
+pneumococcal vaccine,prevents,pneumonia
+pneumonia,is_prevented_by,smoking cessation
+pneumonia,is_prevented_by,hand washing
+pneumonia,has_symptom,chest_pain_during_breathing_or_coughing
+intravenous hydration,treats,fluid deficit
+pneumonia,has_symptom,rigors
+pneumonia,is_treated_by,thoracocentesis
+pneumonia,is_prevented_by,chronic_disease_management
+pneumonia,has_risk_factor,age_65_years_or_older
+pneumonia,is_caused_by,chlamydia_pneumoniae_infection
+pneumonia,is_diagnosed_by,medical history evaluation
+pneumonia,is_prevented_by,exclusive breastfeeding
+pneumonia,has_risk_factor,age_younger_than_5_years
+pneumonia,is_treated_by,antifungal_medications
+pneumonia,has_risk_factor,sickle cell disease
+pneumonia,is_caused_by,sars_cov_2_infection
+pneumonia,is_caused_by,human_parainfluenza_virus_infection
+pneumonia,leads_to_complication,exacerbated cardiovascular disease
+pneumonia,has_risk_factor,bronchiectasis
+pneumonia,leads_to_complication,mortality
+viral_pathogens,includes,adenovirus
+pneumonia,associated_with,lung histopathological analysis
+pneumonia,occurs_with,atypical pneumonia
+other_medical_conditions,has_risk_factor,critical_illness
+pneumonia,has_risk_factor,heart failure
+pneumonia,has_symptom,hypoxemia
+pneumonia,has_symptom,lethargy
+pneumonia,is_diagnosed_by,bronchoscopic examination
+babies_with_pneumonia,has_symptom,alar_flaring
+haemophilus influenzae type b vaccine,prevents,pneumonia
+viral_pathogens,includes,influenza_virus
+pneumonia,is_diagnosed_by,blood testing
+pneumonia,is_prevented_by,avoidance of secondhand smoke
+symptomatic relief medication,treats,myalgia
+pneumonia,occurs_with,walking pneumonia
+pneumonia,is_prevented_by,vaccination
+pneumonia,leads_to_complication,pulmonary necrosis
+pneumonia,has_risk_factor,diabetes
+other_medical_conditions,has_risk_factor,immunosuppression
+pneumonia,associated_with,hospitalization
+pneumonia,has_risk_factor,environmental_exposure
+pneumonia,is_prevented_by,regular exercise
+pneumonia,has_risk_factor,substance abuse
+pneumonia,has_symptom,altered_mental_status
+age,has_risk_factor,pediatric_age_group
+pneumonia,is_diagnosed_by,chest_radiograph
+community health worker intervention,supports,diagnosis of pneumonia
+healthy diet,is_prevented_by,immune system strengthening
+pneumonia,leads_to_complication,depressive disorder
+environment,has_risk_factor,overcrowding
+pneumonia,has_risk_factor,tobacco smoking
+pneumonia,is_prevented_by,measles immunization
+vaccines,include,pertussis vaccine
+older_adults_with_pneumonia,has_symptom,lethargy
+pneumonia,has_symptom,pulmonary_infiltrates
+pneumonia,leads_to_complication,exacerbated vascular disease
+pneumonia,is_caused_by,bacteria
+viruses,is_caused_by,influenza_a_virus
+pneumonia,is_diagnosed_by,laboratory_testing
+fungal pneumonia,is_caused_by,fungal pathogens
+pneumonia,is_caused_by,viruses
+pneumonia,is_prevented_by,respiratory etiquette
+pneumonia,leads_to_complication,septicemia
+pneumonia,occurs_with,microbial infection
+pneumonia,occurs_with,alveolar consolidation
+pneumonia,is_treated_by,oxygen supplementation
+surgical intervention,is_prevented_by,preoperative fasting protocol
+pneumonia,is_prevented_by,haemophilus influenzae type b immunization
+pneumonia,has_risk_factor,asthma
+pneumonia,is_diagnosed_by,medical_history_review
+pneumonia,has_risk_factor,immunocompromised_state
+pneumonia,has_risk_factor,exposure_to_sick_individuals
+pneumonia,is_diagnosed_by,chest computed tomography (ct) scanning
+pneumonia,is_caused_by,haemophilus_influenzae_infection
+antiviral therapy,treats,viral pneumonia
+pneumonia,is_caused_by,rhinovirus_infection
+vaccines,include,measles vaccine
+pneumonia,is_caused_by,viral_pathogens
+pneumonia,has_symptom,headache
+haemophilus influenzae type b vaccine,associated_with,pediatric population under 5
+pneumonia,associated_with,patient_age
+pneumonia,is_treated_by,mechanical ventilation
+pneumonia,is_caused_by,varicella_zoster_virus_infection
+pneumonia,is_treated_by,fluid resuscitation
+pneumonia,is_diagnosed_by,diagnostic testing
+reducing indoor air pollution,prevents,pneumonia
+pneumonia,associated_with,causative_pathogen
+viral_pathogens,includes,sars_cov_2
+pneumonia,has_risk_factor,pediatric_population
+pneumonia,is_treated_by,pulmonary rehabilitation
+pneumonia,is_diagnosed_by,physical_examination
+pneumonia,leads_to_complication,acute respiratory distress syndrome
+pneumonia,is_prevented_by,influenza_vaccination
+pneumonia,is_treated_by,surgical intervention
+bacterial_pathogens,includes,bordetella_pertussis
+older_adults_with_pneumonia,has_symptom,acute_confusion
+pneumonia,is_caused_by,fungi
+measles vaccine,is_type_of,vaccine
+pneumonia,is_treated_by,symptomatic relief medication
+pneumonia,is_treated_by,bronchoscopic intervention
+babies_with_pneumonia,has_symptom,paroxysmal_cough
+pneumonia,leads_to_complication,severe infection
+other_medical_conditions,has_risk_factor,prolonged_corticosteroid_therapy
+pneumonia,has_symptom,vomiting
+pneumonia,is_caused_by,influenza virus infection
+pneumonia,associated_with,pleural effusion
+immune system,has_risk_factor,immunodeficiency
+viruses,is_caused_by,human_rhinovirus
+asthma,is_a,chronic_respiratory_disease
+fungi,is_caused_by,pneumocystis_jirovecii
+pneumonia,has_risk_factor,diabetes_mellitus
+pneumonia,has_risk_factor,pediatric population under 5
+antifungal therapy,treats,fungal pneumonia
+pneumonia,has_symptom,chills
+pneumonia,has_risk_factor,ventilator-associated pneumonia
+influenza vaccine,is_type_of,vaccine
+pneumonia,occurs_with,fungal infection
+age,has_risk_factor,geriatric_age_group
+hospitalization,is_required_for,pneumonia
+pneumonia,associated_with,ventilator use
+pneumonia,is_diagnosed_by,primary healthcare evaluation
+pneumonia,has_symptom,myalgia
+bacterial pneumonia,is_caused_by,bacterial agents
+community_acquired_pneumonia,is_caused_by,pneumococcal_disease
+pneumonia,has_symptom,febrile chills
+alveolar consolidation,is_characteristic_of,pneumonia
+pneumonia,has_risk_factor,cystic fibrosis
+pneumonia,leads_to_complication,renal impairment
+pneumonia,has_risk_factor,avian or zoonotic exposure
+pneumonia,is_prevented_by,respiratory hygiene practice
+pneumonia,leads_to_complication,cardiac dysfunction
+pneumonia,is_treated_by,intravenous_antibiotics
+pneumonia,is_treated_by,antibiotic therapy
+pneumonia,leads_to_complication,life-threatening condition
+smoking,is_risk_factor,impaired pulmonary function
+pneumococcal vaccines,associated_with,immunocompromised individuals
+pneumonia,has_risk_factor,preexisting medical conditions
+bronchopneumonia,leads_to_complication,pulmonary_consultation
+pneumonia,has_risk_factor,tobacco_smoking
+influenza vaccine,prevents,pneumonia
+mechanical ventilation,treats,respiratory failure
+pneumonia,has_risk_factor,age_80_years_or_older
+pertussis vaccine,prevents,pneumonia
+bacterial pneumonia,is_caused_by,bacterial pathogens
+pneumonia,is_treated_by,antiviral therapy
+viruses,is_caused_by,sars_cov_2
+environment,has_risk_factor,air_pollution_exposure
+pneumonia,is_prevented_by,immune system enhancement
+bacterial_pathogens,includes,streptococcus_pneumoniae
+lifestyle_habits,has_risk_factor,substance_abuse
+pneumonia,leads_to_complication,necrotizing pneumonia
+pneumonia,is_prevented_by,hand hygiene practice
+pneumonia,leads_to_complication,multiorgan_failure
+pneumonia,is_caused_by,adenovirus_infection
+pneumonia,has_risk_factor,malnutrition
+antibiotic therapy,treats,bacterial pneumonia
+pneumonia,has_risk_factor,chronic_heart_disease
+pneumonia,is_caused_by,respiratory_syncytial_virus_infection
+babies_with_pneumonia,has_symptom,intercostal_retraction
+vaccines,include,pneumococcal vaccine
+smoking cessation,prevents,pneumonia
+bacteria,is_caused_by,mycoplasma_pneumoniae
+pneumonia,has_risk_factor,comorbidities
+pneumonia,has_symptom,cough
+vaccines,include,haemophilus influenzae type b vaccine
+pneumonia,is_caused_by,streptococcus pneumoniae infection
+pneumonia,is_treated_by,antibiotic_medications
+pneumococcal vaccines,associated_with,tobacco users
+pneumonia,is_treated_by,antiviral_medications
+healthy diet,prevents,pneumonia
+viral_pathogens,includes,respiratory_syncytial_virus
+pneumonia,is_prevented_by,social distancing measure
+dysphagia,leads_to_complication,salivary aspiration
+other_medical_conditions,has_risk_factor,nosocomial_pneumonia
+other_medical_conditions,has_risk_factor,neurological_disorders
+other_medical_conditions,has_risk_factor,chemotherapy_induced_immunosuppression
+pneumonia,associated_with,oxygen saturation levels
+pneumonia,has_symptom,shortness_of_breath
+pneumonia,associated_with,bronchoscopic airway evaluation
+pneumococcal vaccines,associated_with,older adult population
+pneumonia,is_prevented_by,substance abuse avoidance
+pneumonia,has_risk_factor,copd
+fungal pneumonia,is_caused_by,fungal agents
+pneumonia,is_prevented_by,reducing indoor air pollution
+pneumonia,is_prevented_by,pneumococcal immunization
+pneumonia,is_treated_by,physical therapy
+pneumonia,leads_to_complication,renal dysfunction
+babies_with_pneumonia,has_symptom,hyperthermia
+pneumonia,has_risk_factor,comorbid_conditions
+good hygiene,prevents,pneumonia
+pneumococcal vaccine,is_type_of,vaccine
+pneumonia,is_caused_by,parasites
+pneumonia,leads_to_complication,hepatic dysfunction
+hand washing,prevents,pneumonia
+pneumonia,has_symptom,pleuritic chest pain
+antibiotic therapy,treats,bacterial proliferation
+vaccines,include,influenza vaccine
+pneumonia,is_caused_by,influenza_virus_infection
+pneumonia,has_symptom,dyspnea
+pneumonia,leads_to_complication,acute_respiratory_distress_syndrome
+influenza vaccine,is_prevented_by,annual vaccination
+pneumonia,has_risk_factor,serious underlying condition
+viral pneumonia,is_caused_by,viral agents
+pneumonia,is_diagnosed_by,community health assessment
+pneumonia,has_symptom,nausea
+hydration,treats,pneumonia
+babies_with_pneumonia,has_symptom,projectile_vomiting
+pneumonia,has_symptom,fatigue
+pneumonia,is_treated_by,antifungal therapy
+older_adults_with_pneumonia,has_symptom,hypothermia
+pneumonia,leads_to_complication,lung infarction
+pneumonia,is_treated_by,oral antibiotic therapy
+pneumonia,associated_with,community health worker intervention
+healthcare_acquired_pneumonia,occurs_with,healthcare_facility_stay
+viral_pathogens,includes,varicella_zoster_virus
+pneumonia,has_risk_factor,exposure to infectious individuals
+pneumonia,is_treated_by,empiric_antib
+pneumonia,occurs_with,legionnaires' disease
+pneumonia,has_risk_factor,liver disease
+pneumonia,is_prevented_by,tobacco cessation
+pneumonia,has_symptom,cough_with_mucus_production
+pneumonia,associated_with,alveolar consolidation
+pneumonia,is_prevented_by,influenza immunization
+environment,has_risk_factor,chemical_fume_inhalation
+viruses,is_caused_by,respiratory_syncytial_virus
+pneumonia,is_caused_by,chlamydophila_psittaci_infection
+pneumonia,is_caused_by,human_metapneumovirus_infection
+viral pneumonia,is_caused_by,viral pathogens
+community_acquired_pneumonia,is_caused_by,mycoplasma_pneumoniae_infection
+chronic_disease_management,includes,asthma_management
+pneumonia,is_treated_by,amoxicillin therapy
+bacteria,is_caused_by,legionella_pneumophila
+measles vaccine,prevents,pneumonia
+pneumonia,is_caused_by,bordetella_pertussis_infection
+dysphagia,leads_to_complication,aspiration pneumonia
+pneumonia,is_diagnosed_by,pulse oximetry
+pneumonia,associated_with,pulmonary inflammatory response
+pneumonia,is_treated_by,pulmonary rehabilitation program
+bacterial_pathogens,includes,haemophilus_influenzae
+pneumonia,has_symptom,diarrhea
+pneumonia,is_treated_by,thoracocentesis procedure
+pneumonia,has_risk_factor,chronic_lung_disease
+pneumonia,leads_to_complication,pleural disorder development
+influenza vaccine,associated_with,influenza season
+pneumonia,has_risk_factor,untreated infection
+haemophilus influenzae type b vaccine,is_type_of,vaccine
+pneumonia,has_risk_factor,geriatric population over 65
+pneumonia,has_symptom,fever
+pneumonia,has_risk_factor,kidney disease
+pneumonia,leads_to_complication,sepsis
+pneumonia,has_risk_factor,excessive_alcohol_consumption
+rest,treats,pneumonia
+amoxicillin,treats,pneumonia
+pneumonia,leads_to_complication,respiratory failure
+pneumonia,is_prevented_by,immunization against pertussis
+pneumonia,is_treated_by,oxygen_therapy
+babies_with_pneumonia,has_symptom,lethargy
+regular exercise,prevents,pneumonia
+pneumonia,leads_to_complication,exacerbated cardiac disease
+pneumonia,is_treated_by,vaccination
+pneumonia,has_symptom,productive_cough
+babies_with_pneumonia,has_symptom,taachypnea
+pneumonia,is_diagnosed_by,polymerase chain reaction (pcr) testing
+pneumococcal vaccines,associated_with,young child population
+lifestyle_habits,has_risk_factor,tobacco_use
+other_medical_conditions,has_risk_factor,human_immunodeficiency_virus_infection
+pneumonia,has_risk_factor,chronic_liver_disease
+pneumonia,associated_with,underlying_health_status
+pneumonia,leads_to_complication,acute respiratory distress syndrome (ards)
+pneumonia,is_treated_by,rest therapy
+babies_with_pneumonia,has_symptom,cyanosis
+pneumonia,is_prevented_by,pneumococcal_vaccination
+pneumonia,is_treated_by,physical therapy intervention
+pneumonia,is_prevented_by,pneumococcal_polysaccharide_vaccine
+babies_with_pneumonia,has_symptom,grunting_respiration
+pneumonia,is_prevented_by,hygiene_measures
+pneumonia,has_risk_factor,behavioral_risk_factors
+pneumonia,has_risk_factor,underlying comorbidities
+pneumonia,is_caused_by,bacterial infectious process
+pneumonia,is_treated_by,antiviral_therapy
+pneumococcal vaccines,associated_with,chronic disease patients
+babies_with_pneumonia,has_symptom,agitation
+pneumonia,leads_to_complication,cardiac injury
+pneumonia,has_symptom,feverishness
+pneumonia,is_caused_by,legionella_pneumophila_infection
+bacteria,is_caused_by,streptococcus_pneumoniae
+other_medical_conditions,has_risk_factor,solid_organ_transplant
+pneumonia,is_diagnosed_by,pleural fluid culture testing
+pneumonia,has_risk_factor,incomplete vaccination
+pneumonia,is_prevented_by,healthy diet
+pneumonia,associated_with,weakened immune system
+ventilator_associated_pneumonia,occurs_with,invasive_ventilation
+pneumonia,is_caused_by,bacterial_pathogens
+pneumonia,has_risk_factor,geriatric_population
+pneumonia,leads_to_complication,lung abscess formation
+pneumonia,is_prevented_by,immunization
+oxygen supplementation,treats,hypoxemia
+pneumonia,has_risk_factor,recent travel history
+pneumococcal vaccines,is_prevented_by,vaccination administration
+exclusive breastfeeding,prevents,pneumonia
+other_medical_conditions,has_risk_factor,pregnancy
+pneumonia,is_diagnosed_by,sputum testing
+surgical intervention,treats,infected pulmonary tissue
+pneumonia,is_treated_by,antifungal_therapy
+pneumonia,is_diagnosed_by,arterial blood gas testing
+severe_pneumonia,leads_to_complication,intensive_care_unit_admission

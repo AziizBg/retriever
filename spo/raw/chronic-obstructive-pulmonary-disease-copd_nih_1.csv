@@ -1,0 +1,29 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,has_symptom,shortness of breath
+chronic-obstructive-pulmonary-disease-copd,has_symptom,ongoing cough
+chronic-obstructive-pulmonary-disease-copd,has_symptom,wheezing
+chronic-obstructive-pulmonary-disease-copd,has_symptom,chest tightness
+chronic-obstructive-pulmonary-disease-copd,has_symptom,fatigue
+chronic-obstructive-pulmonary-disease-copd,has_symptom,lack of appetite
+chronic-obstructive-pulmonary-disease-copd,has_symptom,loss of weight and muscle
+chronic-obstructive-pulmonary-disease-copd,has_symptom,anxiety
+chronic-obstructive-pulmonary-disease-copd,has_symptom,depression
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,infection
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,dust
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,smoke
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,flare-up
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,exacerbation
+flare-up,is_treated_by,antibiotics
+flare-up,is_treated_by,bronchodilators
+flare-up,is_treated_by,inhaled steroids
+flare-up,is_treated_by,oral steroids
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,heart disease
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,poor sleep
+chronic-obstructive-pulmonary-disease-copd,occurs_with,heart disease
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,healthcare provider
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,lifestyle adjustments
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,treatments
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,medicines
+flare-up,causes,low oxygen level in blood
+flare-up,causes,fast heartbeat
+flare-up,causes,mental alertness issues

@@ -1,0 +1,33 @@
+subject,predicate,object
+coronavirus-disease-(covid-19),has_symptom,respiratory symptoms
+coronavirus-disease-(covid-19),has_symptom,cold-like symptoms
+coronavirus-disease-(covid-19),has_symptom,flu-like symptoms
+coronavirus-disease-(covid-19),has_symptom,pneumonia-like symptoms
+coronavirus-disease-(covid-19),leads_to_complication,post-covid conditions
+post-covid conditions,associated_with,long covid
+coronavirus-disease-(covid-19),is_caused_by,virus
+coronavirus-disease-(covid-19),occurs_with,attack on lungs
+coronavirus-disease-(covid-19),occurs_with,attack on respiratory system
+coronavirus-disease-(covid-19),occurs_with,attack on other body parts
+coronavirus-disease-(covid-19),is_spread_by,breathing out droplets
+coronavirus-disease-(covid-19),is_spread_by,breathing out small particles
+coronavirus-disease-(covid-19),is_spread_by,contaminated surfaces
+coronavirus-disease-(covid-19),is_spread_by,infected person
+coronavirus-disease-(covid-19),is_spread_by,asymptomatic person
+coronavirus-disease-(covid-19),is_spread_by,person to animal transmission
+coronavirus-disease-(covid-19),has_risk_factor,older age
+coronavirus-disease-(covid-19),has_risk_factor,immunocompromised state
+coronavirus-disease-(covid-19),has_risk_factor,certain disabilities
+coronavirus-disease-(covid-19),has_risk_factor,underlying health conditions
+coronavirus-disease-(covid-19),is_prevented_by,cdc's respiratory virus guidance
+cdc's respiratory virus guidance,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,protective actions
+protective actions,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,slowing the spread
+slowing the spread,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),leads_to_complication,new variants
+new variants,associated_with,different spreading ways
+coronavirus-disease-(covid-19),is_prevented_by,lowering transmission risk
+lowering transmission risk,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,lowering severe illness risk
+lowering severe illness risk,treats,coronavirus-disease-(covid-19)

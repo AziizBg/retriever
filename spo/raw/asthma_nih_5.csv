@@ -1,0 +1,42 @@
+subject,predicate,object
+Asthma,is_treated_by,quick-relief medicines
+Asthma,is_treated_by,long-term control medicines
+Asthma,is_treated_by,bronchial thermoplasty
+Quick-relief medicines,treats,asthma attack
+Quick-relief medicines,has_symptom,tremors
+Quick-relief medicines,has_symptom,rapid heartbeat
+Oral corticosteroids,has_symptom,hoarse voice
+Oral corticosteroids,has_symptom,mouth infection called thrush
+Inhaled corticosteroids,has_risk_factor,cataracts
+Inhaled corticosteroids,has_risk_factor,osteoporosis
+Biologi medicines,treats,asthma that is difficult to control
+Leukotriene modifiers,prevents,airway swelling
+Inhaled mast cell stabilizers,prevents,airway swelling
+Inhaled long-acting bronchodilators,prevents,airway narrowing
+Allergy shots,prevents,allergic response to allergens
+Bronchial thermoplasty,has_risk_factor,worsening asthma
+Bronchial thermoplasty,has_risk_factor,airway or lung infections
+Bronchial thermoplasty,has_risk_factor,bronchiectasis
+Asthma action plan,includes,identifying allergens or triggers
+Asthma action plan,includes,medication schedule
+Asthma action plan,includes,emergency contact information
+Exercise-induced asthma,is_caused_by,physical activity
+Exercise-induced asthma,is_treated_by,reliever medicine before exercising
+Occupational asthma,is_caused_by,workplace allergens
+Occupational asthma,is_caused_by,sensitizing agents
+Allergic asthma,is_caused_by,allergens
+Allergic asthma,is_treated_by,inhaled corticosteroids
+Allergic asthma,is_treated_by,biologic medicines
+Allergic asthma,is_treated_by,allergy shots
+Seasonal allergic asthma,is_treated_by,daily controller medicine
+Seasonal allergic asthma,is_treated_by,reliever inhaler
+Nocturnal asthma,is_caused_by,poor symptom control
+Nocturnal asthma,is_caused_by,allergens during sleep
+Asthma,has_symptom,nighttime symptoms
+Asthma,has_symptom,early morning symptoms
+Asthma,leads_to_complication,frequent nighttime awakenings
+Asthma,occurs_with,allergens
+Asthma,associated_with,physical activity
+Asthma,associated_with,workplace exposures
+Asthma,associated_with,allergic reactions
+Asthma,associated_with,nighttime triggers

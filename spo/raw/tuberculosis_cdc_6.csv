@@ -1,0 +1,30 @@
+subject,predicate,object
+Tuberculosis,has_risk_factor,weakened immune systems
+Tuberculosis,has_risk_factor,HIV infection
+Tuberculosis,has_risk_factor,Substance use
+Tuberculosis,has_risk_factor,specialized treatment for rheumatoid arthritis
+Tuberculosis,has_risk_factor,specialized treatment for Crohn's disease
+Tuberculosis,has_risk_factor,Organ transplants
+Tuberculosis,has_risk_factor,Severe kidney disease
+Tuberculosis,has_risk_factor,Head and neck cancer
+Tuberculosis,has_risk_factor,Diabetes
+Tuberculosis,has_risk_factor,Medical treatments such as corticosteroids
+Tuberculosis,has_risk_factor,Silicosis
+Tuberculosis,has_risk_factor,Low body weight
+Tuberculosis,has_risk_factor,Babies and young children
+Tuberculosis,has_risk_factor,children under age five
+Tuberculosis,occurs_with,exposure in countries where TB is common
+Tuberculosis,occurs_with,exposure in large group settings
+Tuberculosis,occurs_with,exposure in hospitals
+Tuberculosis,occurs_with,exposure in homeless shelters
+Tuberculosis,occurs_with,exposure in correctional facilities
+Tuberculosis,occurs_with,exposure in nursing homes
+Inactive TB,is_treated_by,treatment to prevent active TB disease
+Active TB disease,is_prevented_by,treatment for inactive TB
+Weakened immune systems,causes,increased risk of active TB disease
+Exposure in countries where TB is common,causes,increased risk of TB germs exposure
+Exposure in large group settings,causes,increased risk of TB germs exposure
+Exposure in hospitals,causes,increased risk of TB germs exposure
+Exposure in homeless shelters,causes,increased risk of TB germs exposure
+Exposure in correctional facilities,causes,increased risk of TB germs exposure
+Exposure in nursing homes,causes,increased risk of TB germs exposure

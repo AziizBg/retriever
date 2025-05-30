@@ -1,0 +1,18 @@
+subject,predicate,object
+SARS-CoV-2,is_caused_by,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_diagnosed_by,Nucleic Acid Amplification Tests (NAATs)
+coronavirus-disease-(covid-19),is_diagnosed_by,Antigen Tests
+Nucleic Acid Amplification Tests (NAATs),treats,coronavirus-disease-(covid-19)
+Antigen Tests,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),has_symptom,emergency warning signs
+coronavirus-disease-(covid-19),is_treated_by,treatment
+treatment,treats,coronavirus-disease-(covid-19)
+risk factors for severe illness,has_risk_factor,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),leads_to_complication,reinfections
+reinfections,occurs_with,coronavirus-disease-(covid-19)
+respiratory viruses,associated_with,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),is_prevented_by,prevent spreading COVID-19
+PCR tests,is_a_type_of,Nucleic Acid Amplification Tests (NAATs)
+Nucleic Acid Amplification Tests (NAATs),is_a_type_of,PCR tests
+Self-tests,is_a_type_of,Antigen Tests
+Antigen Tests,is_a_type_of,Self-tests

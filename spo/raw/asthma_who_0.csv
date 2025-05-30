@@ -1,0 +1,86 @@
+subject,predicate,object
+Asthma,has_symptom,coughing
+Asthma,has_symptom,wheezing
+Asthma,has_symptom,shortness of breath
+Asthma,has_symptom,chest tightness
+Asthma,is_caused_by,inflammation
+Asthma,is_caused_by,muscle tightening around the airways
+Asthma,leads_to_complication,sleep disturbance
+Asthma,leads_to_complication,tiredness during the day
+Asthma,leads_to_complication,poor concentration
+Asthma,leads_to_complication,emergency health care
+Asthma,leads_to_complication,hospital admission
+Asthma,leads_to_complication,death
+Asthma,is_treated_by,inhaler
+Asthma,is_treated_by,bronchodilators
+Asthma,is_treated_by,steroids
+Asthma,has_risk_factor,family history of asthma
+Asthma,has_risk_factor,allergic conditions
+Asthma,has_risk_factor,urbanization
+Asthma,has_risk_factor,low birth weight
+Asthma,has_risk_factor,prematurity
+Asthma,has_risk_factor,exposure to tobacco smoke
+Asthma,has_risk_factor,air pollution
+Asthma,has_risk_factor,viral respiratory infections
+Asthma,has_risk_factor,environmental allergens
+Asthma,has_risk_factor,indoor air pollution
+Asthma,has_risk_factor,outdoor air pollution
+Asthma,has_risk_factor,house dust mites
+Asthma,has_risk_factor,moulds
+Asthma,has_risk_factor,occupational exposure to chemicals
+Asthma,has_risk_factor,overweight
+Asthma,has_risk_factor,obesity
+Asthma,occurs_with,asthma attack
+Asthma,associated_with,allergic conditions
+Asthma,associated_with,urbanization
+Asthma,associated_with,low birth weight
+Asthma,associated_with,prematurity
+Asthma,associated_with,exposure to tobacco smoke
+Asthma,associated_with,air pollution
+Asthma,associated_with,viral respiratory infections
+Asthma,associated_with,environmental allergens
+Asthma,associated_with,indoor air pollution
+Asthma,associated_with,outdoor air pollution
+Asthma,associated_with,house dust mites
+Asthma,associated_with,moulds
+Asthma,associated_with,occupational exposure to chemicals
+Asthma,associated_with,overweight
+Asthma,associated_with,obesity
+Inhaler,treats,Asthma
+Bronchodilators,treats,Asthma
+Steroids,treats,Asthma
+Spacer device,treats,Asthma
+Asthma,is_diagnosed_by,health professional
+Asthma,is_prevented_by,avoiding triggers
+Asthma,is_prevented_by,education
+Asthma,is_prevented_by,asthma action plan
+Health professional,diagnoses,Asthma
+Triggers,causes,Asthma symptoms
+Dust,causes,Asthma symptoms
+Smoke,causes,Asthma symptoms
+Fumes,causes,Asthma symptoms
+Grass pollen,causes,Asthma symptoms
+Tree pollen,causes,Asthma symptoms
+Animal fur,causes,Asthma symptoms
+Feathers,causes,Asthma symptoms
+Strong soaps,causes,Asthma symptoms
+Perfume,causes,Asthma symptoms
+Cold,causes,Asthma symptoms
+Weather changes,causes,Asthma symptoms
+Other conditions,causes,Asthma symptoms
+Low birth weight,causes,Asthma
+Prematurity,causes,Asthma
+Exposure to tobacco smoke,causes,Asthma
+Air pollution,causes,Asthma
+Viral respiratory infections,causes,Asthma
+Environmental allergens,causes,Asthma
+Indoor air pollution,causes,Asthma
+Outdoor air pollution,causes,Asthma
+House dust mites,causes,Asthma
+Moulds,causes,Asthma
+Occupational exposure to chemicals,causes,Asthma
+Overweight,causes,Asthma
+Obesity,causes,Asthma
+Family history of asthma,causes,Asthma
+Allergic conditions,causes,Asthma
+Urbanization,causes,Asthma

@@ -1,0 +1,421 @@
+node_id,node_attr
+0,pneumococcus vaccines
+1,people with weak immune systems
+2,people with chronic diseases
+3,adults age 65 or older
+4,vaccination
+5,children age 2 or younger
+6,community transmission
+7,pneumonia outbreak
+8,herd immunity
+9,close contact
+10,good hygiene practices
+11,flu vaccination
+12,annual vaccination
+13,high-risk populations
+14,pneumonia
+15,physical activity
+16,aspiration
+17,hospital-acquired_infection
+18,flu or pneumonia vaccinations
+19,hand_washing
+20,altered mental status
+21,weakness
+22,bacteremia
+23,antifungal_medications
+24,hospitalization
+25,indoor air pollution exposure
+26,sudden confusion
+27,vaccines
+28,intravenous_fluids
+29,respiratory_failure
+30,human metapneumovirus infection
+31,cardiovascular wellness
+32,age group
+33,antivirals
+34,lung tissue analysis
+35,exposure to sick people
+36,respiratory droplets
+37,rales
+38,chest_x-ray
+39,viral_infection
+40,blood_tests
+41,untreated_pneumonia
+42,dementia
+43,pleural disorders
+44,excessive alcohol consumption
+45,bacterial infection
+46,antifungal_medicines
+47,blood culture
+48,bluish tone to skin and lips
+49,atypical pneumonia
+50,physical_therapy
+51,life-threatening_illness
+52,lethargy
+53,pulmonary_rehabilitation
+54,haemophilus influenzae infection
+55,walking pneumonia
+56,substance abuse
+57,arterial_blood_gas_analysis
+58,past medical conditions
+59,bacterial_infection
+60,hygiene maintenance
+61,chest x-ray
+62,cyanosis
+63,air pollution exposure
+64,quitting smoking
+65,oxygen levels in blood
+66,tobacco smoking
+67,viral infection
+68,immunization_against_pneumococcus
+69,bacteria
+70,legionella pneumophila infection
+71,viruses
+72,oxygen supplementation
+73,loss_of_appetite
+74,corticosteroids
+75,high_fever
+76,general health status
+77,smoking cessation
+78,chronic lung disease
+79,smoking cessation programs
+80,medical_history
+81,blood tests
+82,chronic liver disease
+83,health_centre_diagnosis
+84,rapid breathing
+85,immunization_against_influenza
+86,age 65 years or older
+87,community
+88,headache
+89,shortness of breath
+90,pediatric population
+91,pulse_oximetry
+92,mechanical ventilation
+93,hydration
+94,antiviral_medicine
+95,fluid resuscitation
+96,cardiovascular health maintenance
+97,antibiotic_resistance
+98,thoracentesis
+99,chest_pain
+100,public health initiatives
+101,fungal_infection
+102,widening of nostrils with each breath
+103,decreased_breath_sounds
+104,acute respiratory distress syndrome
+105,medical history
+106,fungi
+107,fever_reduction
+108,wheezing
+109,genetic predisposition
+110,rhinovirus infection
+111,bronchoscopy
+112,sputum test
+113,vomiting
+114,influenza virus infection
+115,alcohol_and_drug_use
+116,rhonchi
+117,restlessness
+118,pulmonary inflammation
+119,analgesics
+120,other medical conditions
+121,moderate
+122,legionnairesâ€™ disease
+123,confusion
+124,severe pneumonia
+125,chills
+126,world health organization
+127,pleural fluid culture
+128,grunting
+129,community_health_workers
+130,age younger than 5 years
+131,ventilator use
+132,myalgia
+133,rest
+134,ventilator
+135,maternal vaccination
+136,vaccine administration
+137,exposure to birds and animals
+138,limiting_contact
+139,oxygen_therapy
+140,severe
+141,antibiotic therapy
+142,life-threatening condition
+143,smoking
+144,environmental control
+145,adults_over_65
+146,dullness_to_percussion
+147,pleural effusion
+148,children
+149,chest_x-ray_abnormalities
+150,low birth weight
+151,chlamydophila psittaci infection
+152,antiviral_medications
+153,physical examination
+154,community_setting
+155,exclusive_breastfeeding
+156,antiviral therapy
+157,hospital_setting
+158,magnetic_resonance_imaging
+159,severe comorbidities
+160,climate change
+161,malnutrition
+162,chest tightness
+163,surgery
+164,low_blood_pressure
+165,measles virus infection
+166,tiredness
+167,post-intensive care syndrome
+168,geographic location
+169,cough
+170,preterm birth
+171,polymerase chain reaction (pcr) test
+172,flu virus
+173,chest computed tomography (ct) scan
+174,healthy_diet
+175,preexisting_health_conditions
+176,environment
+177,close contact with infected individuals
+178,adenovirus infection
+179,community level
+180,lifestyle habits
+181,bordetella pertussis infection
+182,nasal_congestion
+183,fungal infection
+184,shortness_of_breath
+185,arterial blood gas test
+186,death
+187,sepsis
+188,chlamydophila pneumoniae infection
+189,respiratory failure
+190,physical therapy
+191,avoiding_secondhand_smoke
+192,human parainfluenza virus infection
+193,homelessness
+194,rapid_heart_rate
+195,liver_damage
+196,heart_damage
+197,mild
+198,parasites
+199,hemoptysis
+200,blood culture test
+201,antibiotics
+202,hypothermia
+203,low socioeconomic status
+204,age_under_5_years
+205,dyspnea
+206,acute_respiratory_distress_syndrome
+207,occupational exposure
+208,cough with mucus production
+209,hand_hygiene
+210,intensive_care_unit
+211,immunization_against_hib
+212,nausea
+213,kidney_damage
+214,difficulty breathing
+215,low blood oxygen levels
+216,fatigue
+217,symptom_evaluation
+218,antifungal therapy
+219,community health worker intervention
+220,seasonal variation
+221,muscle_aches
+222,airway examination
+223,immunization_against_pertussis
+224,medical history review
+225,chronic heart disease
+226,alveolar consolidation
+227,antifungals
+228,intravenous antibiotic administration
+229,mechanical_ventilation
+230,inflammation of air sacs
+231,diagnostic tests
+232,epidemiology
+233,computed_tomography_scan
+234,pulse oximetry
+235,ultrasound
+236,blood gas test
+237,diarrhea
+238,rapid_breathing
+239,pleural_rub
+240,pulling inward of intercostal muscles when breathing
+241,sars-cov-2 infection
+242,fever
+243,nutritional support
+244,lower-than-normal temperature
+245,keeping immune system strong
+246,reducing_indoor_air_pollution
+247,oxygen therapy
+248,morbidity risk
+249,infection type
+250,nutritional_support
+251,hygienic practices
+252,physical_examination
+253,chest pain during breathing or coughing
+254,pulmonology
+255,fluid and pus in air sacs
+256,diabetes mellitus
+257,tiredness and lack of energy
+258,amoxicillin
+259,sweating
+260,varicella-zoster virus infection
+261,pleural space fluid
+262,oral_antibiotics
+263,immunization_against_measles
+264,disorientation
+265,chest radiography
+266,covering_mouth_and_nose
+267,stop_smoking
+268,geriatric population
+269,cardiac complications
+270,immunocompromised state
+271,lung abscesses
+272,extreme fatigue
+273,respiratory syncytial virus infection
+274,weakened immune system
+275,community-based diagnosis
+276,recent travel
+277,severe hospitalization
+278,mortality risk
+279,antipyretics
+280,not_following_treatment_plan
+281,pain_management
+282,exclusive breastfeeding
+283,sputum_culture
+284,loss of appetite
+285,age
+286,depression
+287,regular_exercise
+288,pneumococcus bacteria
+289,low_oxygen_saturation
+290,immune function
+291,pneumonia development
+292,hand hygiene
+293,pneumonia transmission
+294,germ_transmission
+295,impaired gas exchange
+296,septic shock
+297,organ or bone marrow transplant
+298,hiv/aids
+299,brain disorders
+300,long-term steroid use
+301,pregnancy
+302,chemotherapy
+303,ventilator-associated pneumonia
+304,hospital-acquired pneumonia
+305,critical diseases
+306,hospital setting
+307,immunity
+308,immunization against measles
+309,immunization against influenza
+310,immunization against pertussis
+311,varicella
+312,streptococcus pneumoniae infection
+313,measles
+314,influenza
+315,pertussis
+316,haemophilus influenzae type b infection
+317,infection
+318,covid-19
+319,severe_pneumonia
+320,pneumococcal_infection
+321,varicella infection
+322,sars-cov-2
+323,viral pathogens
+324,influenza infection
+325,rhinovirus
+326,measles infection
+327,influenza virus
+328,respiratory syncytial virus (rsv)
+329,viral pneumonia
+330,bacterial_pneumonia
+331,bacterial pneumonia
+332,antiviral medication
+333,dehydration
+334,pneumonia diagnosis
+335,laboratory testing
+336,community health worker training
+337,bacterial pathogens
+338,streptococcal infection
+339,legionella pneumophila
+340,pertussis infection
+341,streptococcus pneumoniae
+342,mycoplasma pneumoniae
+343,sputum culture
+344,moderate pneumonia
+345,haemophilus_influenzae_type_b_infection
+346,weakened_immune_system
+347,sneezing
+348,coughing
+349,complications
+350,pneumonia mortality
+351,measles_infection
+352,infant immune system
+353,pneumonia in infants
+354,surface decontamination
+355,avoiding close contact with sick individuals
+356,respiratory etiquette
+357,limiting tobacco smoke exposure
+358,chronic disease management
+359,fungal_pneumonia
+360,antibiotic administration
+361,air pollution
+362,toxic fumes
+363,crowded places
+364,pneumonia symptoms
+365,drug or alcohol use
+366,smoking cigarettes
+367,balanced nutrition
+368,pneumonia survivors
+369,other serious conditions
+370,liver disease
+371,sickle cell disease
+372,heart failure
+373,diabetes
+374,kidney disease
+375,influenza_infection
+376,reducing indoor air pollution
+377,pneumonia severity
+378,pneumonia management
+379,global health guidelines
+380,severe pneumonia treatment
+381,pneumonia susceptibility
+382,white blood cell count
+383,fungus
+384,viral_pneumonia
+385,virus
+386,impaired_lung_function
+387,community-acquired pneumonia
+388,mycoplasma pneumoniae infection
+389,pneumocystis jirovecii
+390,treatment
+391,vaccination programs
+392,access to healthcare
+393,health education
+394,elevated white blood cell count
+395,infected_lung_tissue
+396,hospital admission
+397,intensive care
+398,low_oxygen_levels
+399,chest tube insertion
+400,trained community health workers
+401,mild pneumonia
+402,oral antibiotics
+403,pertussis_infection
+404,pneumonia incidence
+405,blood oxygen level
+406,older adults 65 or older
+407,children 2 years old or younger
+408,intensive_care
+409,community health worker
+410,low blood oxygen level
+411,organ failure
+412,pneumonia recovery
+413,asthma management
+414,pneumonia treatment
+415,pneumonia_recurrence
+416,treatment_for_severe_pneumonia
+417,high-risk pneumonia
+418,infant
+419,regular physical activity

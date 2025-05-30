@@ -1,0 +1,32 @@
+subject,predicate,object
+Tuberculosis,has_symptom,Symptoms of TB disease
+Tuberculosis,is_treated_by,TB medicine
+Tuberculosis,is_prevented_by,TB test
+Tuberculosis,is_prevented_by,TB treatment
+Tuberculosis,has_risk_factor,Weaker immune system
+Tuberculosis,has_risk_factor,Diabetes
+Tuberculosis,has_risk_factor,Cancer
+Tuberculosis,has_risk_factor,HIV
+Tuberculosis,has_risk_factor,Recent TB infection
+Tuberculosis,has_risk_factor,Young age
+Tuberculosis,has_risk_factor,Illegal drug injection
+Tuberculosis,has_risk_factor,Other diseases weakening immune system
+Tuberculosis,has_risk_factor,Elderly age
+Tuberculosis,has_risk_factor,Previous incorrect TB treatment
+Tuberculosis,is_diagnosed_by,TB blood test
+Tuberculosis,is_diagnosed_by,TB skin test
+Tuberculosis,is_diagnosed_by,Chest x-ray
+Tuberculosis,is_diagnosed_by,Sputum test
+Inactive TB,leads_to_complication,Active TB disease
+Inactive TB,is_treated_by,TB medicine
+Active TB disease,occurs_with,Inactive TB
+TB test,is_prevented_by,Health screening requirements
+TB infection,occurs_with,Travel to TB common countries
+TB infection,occurs_with,Living in large group settings
+TB infection,occurs_with,Exposure to active TB disease
+TB infection,occurs_with,Working in high-risk settings
+TB vaccine,associated_with,Bacille Calmette-Guérin (BCG)
+TB vaccine,affects,TB skin test
+TB blood test,associated_with,Interferon-gamma release assays (IGRAs)
+TB blood test,is_preferred_for,People with TB vaccine
+TB skin test,requires,Follow-up after 2-3 days

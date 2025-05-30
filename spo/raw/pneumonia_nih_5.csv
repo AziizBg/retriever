@@ -1,0 +1,26 @@
+subject,predicate,object
+pneumonia,is_treated_by,antibiotics
+pneumonia,is_treated_by,antiviral medicine
+pneumonia,is_treated_by,antifungal medicines
+pneumonia,is_treated_by,over-the-counter medicines
+pneumonia,is_treated_by,oxygen therapy
+pneumonia,is_treated_by,ventilator
+pneumonia,is_treated_by,intravenous fluids
+pneumonia,is_treated_by,surgery
+pneumonia,has_risk_factor,serious condition
+pneumonia,leads_to_complication,serious infection
+pneumonia,occurs_with,bacterial infection
+pneumonia,occurs_with,viral infection
+pneumonia,occurs_with,fungal infection
+antibiotics,treats,bacterial pneumonia
+antiviral medicine,treats,viral pneumonia
+antifungal medicines,treats,fungal pneumonia
+over-the-counter medicines,treats,fever
+over-the-counter medicines,treats,muscle pain
+oxygen therapy,treats,low oxygen levels
+ventilator,treats,respiratory failure
+intravenous fluids,treats,dehydration
+surgery,treats,infected lung tissue
+bacterial pneumonia,is_caused_by,bacteria
+viral pneumonia,is_caused_by,virus
+fungal pneumonia,is_caused_by,fungus

@@ -1,0 +1,26 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,has_symptom,coughing with large amounts of mucus
+chronic-obstructive-pulmonary-disease-copd,has_symptom,breathing problems
+chronic-obstructive-pulmonary-disease-copd,has_symptom,shortness of breath
+chronic-obstructive-pulmonary-disease-copd,has_symptom,chest tightness
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,damage to the airways or other parts of the lung
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,disability
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,death
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,not smoking
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,quitting smoking
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,oxygen therapy
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,pulmonary rehabilitation
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,medicines to treat complications
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,air pollution
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,alpha-1 antitrypsin deficiency
+emphysema,is_caused_by,damage to the walls between air sacs in the lungs
+chronic-bronchitis,is_caused_by,repeated or constant irritation and inflammation in the airways
+chronic-obstructive-pulmonary-disease-copd,occurs_with,emphysema
+chronic-obstructive-pulmonary-disease-copd,occurs_with,chronic bronchitis
+cigarette smoking,causes,chronic-obstructive-pulmonary-disease-copd
+air pollution,causes,chronic-obstructive-pulmonary-disease-copd
+alpha-1 antitrypsin deficiency,causes,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,higher rates in women
+chronic-obstructive-pulmonary-disease-copd,associated_with,higher rates in American Indian and Alaska Native communities
+chronic-obstructive-pulmonary-disease-copd,associated_with,higher rates in rural areas

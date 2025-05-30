@@ -1,0 +1,54 @@
+subject,predicate,object
+active TB disease,leads_to_complication,spread of TB germs
+active TB disease,has_symptom,cough
+active TB disease,has_symptom,pain in the chest
+active TB disease,has_symptom,coughing up blood or sputum
+active TB disease,is_treated_by,taking medicine
+active TB disease,is_prevented_by,wearing a mask
+active TB disease,is_prevented_by,staying home from work or school
+latent TB infection,is_caused_by,breathing in TB germs
+latent TB infection,leads_to_complication,active TB disease
+latent TB infection,occurs_with,immune system suppression
+TB germs,causes,active TB disease
+TB germs,causes,latent TB infection
+TB germs,spreads_in,indoor areas
+TB germs,spreads_in,places with poor air circulation
+TB blood test,is_diagnosed_by,health care provider
+TB skin test,is_diagnosed_by,health care provider
+contact investigation,is_used_for,limiting the spread of TB
+contact investigation,associated_with,contact tracing
+contact tracing,is_used_for,identifying exposed people
+contact tracing,is_used_for,preventing additional transmission
+health care worker,performs,contact investigation
+health care worker,performs,contact tracing
+contact investigation,requires,identifying contacts
+contact investigation,requires,assessing contacts
+contact investigation,requires,managing contacts
+TB exposure,has_risk_factor,spending time near someone with active TB disease
+TB exposure,has_risk_factor,indoor areas
+TB exposure,has_risk_factor,poor air circulation
+active TB disease,has_risk_factor,weakened immune system
+active TB disease,has_risk_factor,latent TB infection
+TB disease,leads_to_complication,spread to others
+TB disease,occurs_with,contagious period
+TB treatment,treats,active TB disease
+TB treatment,prevents,spread of TB germs
+health care provider,performs,TB blood test
+health care provider,performs,TB skin test
+health care provider,provides,TB treatment
+health care provider,educates,on TB prevention
+health care provider,educates,on TB transmission
+health care worker,educates,contacts on TB exposure
+health care worker,educates,contacts on TB testing
+health care worker,ensures,confidentiality of patient information
+TB contacts,has_risk_factor,exposure to active TB disease
+TB contacts,needs,TB testing
+TB contacts,needs,TB treatment
+TB prevention,requires,contact investigation
+TB prevention,requires,early detection
+TB prevention,requires,timely treatment
+TB outbreak,prevents,through contact tracing
+TB outbreak,prevents,through contact investigation
+community safety,associated_with,TB prevention
+community safety,associated_with,contact tracing
+community safety,associated_with,health care provider efforts

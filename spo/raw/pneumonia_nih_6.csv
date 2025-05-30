@@ -1,0 +1,42 @@
+subject,predicate,object
+pneumonia,is_treated_by,antibiotics
+pneumonia,has_symptom,tiredness
+pneumonia,leads_to_complication,acute respiratory distress (ards)
+pneumonia,leads_to_complication,respiratory failure
+pneumonia,leads_to_complication,necrotizing pneumonia
+pneumonia,leads_to_complication,lung abscesses
+pneumonia,leads_to_complication,pleural disorders
+pneumonia,leads_to_complication,sepsis
+pneumonia,leads_to_complication,lung tissue death
+pneumonia,leads_to_complication,heart damage
+pneumonia,leads_to_complication,kidney damage
+pneumonia,leads_to_complication,liver damage
+pneumonia,leads_to_complication,depression
+pneumonia,leads_to_complication,worsening heart diseases
+pneumonia,leads_to_complication,worsening blood vessel diseases
+pneumonia,is_diagnosed_by,chest x-ray
+pneumonia,is_treated_by,pulmonary rehabilitation
+pneumonia,is_treated_by,physical therapy
+pneumonia,is_prevented_by,covering nose and mouth while coughing or sneezing
+pneumonia,is_prevented_by,limiting contact with others
+pneumonia,is_prevented_by,frequent hand washing
+pneumonia,is_prevented_by,quitting smoking
+pneumonia,is_prevented_by,avoiding secondhand smoke
+pneumonia,is_prevented_by,avoiding alcohol and illegal drugs
+pneumonia,has_risk_factor,not following treatment plan
+pneumonia,has_risk_factor,untreated pneumonia
+pneumonia,has_risk_factor,weakened immune system
+pneumonia,has_risk_factor,smoking
+pneumonia,has_risk_factor,alcohol and drug use
+pneumonia,occurs_with,bacterial infection
+pneumonia,associated_with,antibiotic resistance
+pneumonia,treats,antibiotics
+antibiotics,treats,pneumonia
+bacterial infection,causes,pneumonia
+untreated pneumonia,causes,complications
+smoking,causes,worsening pneumonia
+alcohol and drug use,causes,weakened immune system
+weakened immune system,causes,pneumonia complications
+not following treatment plan,causes,antibiotic resistance
+not following treatment plan,causes,pneumonia recurrence
+pneumonia recurrence,associated_with,pneumonia

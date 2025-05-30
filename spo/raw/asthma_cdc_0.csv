@@ -1,0 +1,40 @@
+subject,predicate,object
+Asthma,has_symptom,wheezing
+Asthma,has_symptom,breathlessness
+Asthma,has_symptom,chest tightness
+Asthma,has_symptom,coughing at night or early in the morning
+Asthma,leads_to_complication,asthma attack
+asthma attack,has_symptom,coughing
+asthma attack,has_symptom,chest tightness
+asthma attack,has_symptom,wheezing
+asthma attack,has_symptom,trouble breathing
+asthma attack,occurs_with,swelling of airways in lungs
+asthma attack,occurs_with,shrinkage of airways
+asthma attack,occurs_with,mucous clogging airways
+Asthma,is_treated_by,controller therapy
+Asthma,is_treated_by,reliever therapy
+controller therapy,treats,Asthma
+reliever therapy,treats,Asthma
+Asthma,is_diagnosed_by,spirometry
+spirometry,is_diagnosed_by,doctor
+Asthma,has_risk_factor,family history of asthma
+Asthma,has_risk_factor,family history of allergies
+Asthma,has_risk_factor,family history of breathing problems
+Asthma,is_caused_by,asthma triggers
+asthma triggers,causes,asthma attack
+Asthma,is_prevented_by,avoiding asthma triggers
+Asthma,is_prevented_by,following doctor's advice
+Asthma,associated_with,physical activity
+Asthma,associated_with,certain times of year
+Asthma,associated_with,allergies
+Asthma,associated_with,breathing problems
+Asthma,leads_to_complication,missed school or work
+Asthma,leads_to_complication,trouble doing certain activities
+Asthma,has_symptom,coughing
+Asthma,has_symptom,wheezing
+Asthma,has_symptom,chest tightness
+Asthma,has_symptom,breathing problems
+Asthma,is_treated_by,asthma medicines
+asthma medicines,treats,Asthma
+asthma medicines,has_symptom,side effects
+Asthma,has_risk_factor,age under 5 years

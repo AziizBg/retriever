@@ -1,0 +1,46 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,bronchodilators
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,steroids
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,nonsteroid medicines
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,inhaler
+bronchodilators,treats,chronic-obstructive-pulmonary-disease-copd
+steroids,treats,chronic-obstructive-pulmonary-disease-copd
+nonsteroid medicines,treats,chronic-obstructive-pulmonary-disease-copd
+inhaler,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_symptom,inflammation
+chronic-obstructive-pulmonary-disease-copd,has_symptom,airway swelling
+chronic-obstructive-pulmonary-disease-copd,has_symptom,shortness of breath
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,pulmonary rehabilitation
+pulmonary rehabilitation,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,oxygen therapy
+oxygen therapy,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,surgery
+surgery,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,bullectomy
+bullectomy,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,lung volume reduction surgery
+lung volume reduction surgery,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,lung transplant
+lung transplant,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,flare-ups
+flare-ups,associated_with,infection
+infection,causes,flare-ups
+antibiotics,treats,flare-ups
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,low blood oxygen levels
+chronic-obstructive-pulmonary-disease-copd,occurs_with,asthma
+asthma,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,anti-inflammatory
+anti-inflammatory,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,add-on medicine
+add-on medicine,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,combination of bronchodilators and inhaled steroid
+combination of bronchodilators and inhaled steroid,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,air trapping
+air trapping,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,bullae formation
+bullae formation,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,stents
+stents,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,one-way endobronchial valves
+one-way endobronchial valves,treats,chronic-obstructive-pulmonary-disease-copd

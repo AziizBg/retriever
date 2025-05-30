@@ -1,0 +1,32 @@
+subject,predicate,object
+COVID-19,is_treated_by,antiviral medications
+COVID-19,is_treated_by,Paxlovid
+COVID-19,is_treated_by,Lagevrio
+COVID-19,is_treated_by,convalescent plasma
+COVID-19,has_symptom,severe illness
+COVID-19,has_risk_factor,older adults
+COVID-19,has_risk_factor,unvaccinated individuals
+COVID-19,has_risk_factor,chronic lung disease
+COVID-19,has_risk_factor,heart disease
+COVID-19,has_risk_factor,weakened immune system
+Antiviral medications,treats,COVID-19
+Paxlovid,treats,COVID-19
+Lagevrio,treats,COVID-19
+Convalescent plasma,treats,COVID-19
+COVID-19,is_prevented_by,COVID-19 vaccines
+COVID-19,is_prevented_by,Pemivibart (Pemgarda™)
+COVID-19 vaccines,prevents,COVID-19
+Pemivibart (Pemgarda™),prevents,COVID-19
+COVID-19,occurs_with,virus multiplication
+Antiviral medications,occurs_with,side effects
+Paxlovid,occurs_with,metallic taste in mouth
+Paxlovid,occurs_with,medication interactions
+COVID-19,leads_to_complication,severe illness
+COVID-19,leads_to_complication,death
+COVID-19,leads_to_complication,hospitalization
+Weakened immune system,associated_with,decreased vaccine response
+Pre-exposure Prophylaxis,associated_with,Pemivibart (Pemgarda™)
+COVID-19 vaccination,associated_with,staying up to date
+COVID-19 prevention,associated_with,good hygiene
+COVID-19 prevention,associated_with,cleaner air
+COVID-19 prevention,associated_with,staying home when sick

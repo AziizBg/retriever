@@ -1,0 +1,404 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,dust exposure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,secondhand smoke exposure
+chronic-obstructive-pulmonary-disease-copd,occurs_with,emphysema
+chronic-obstructive-pulmonary-disease-copd,associated_with,not getting enough physical activity
+tobacco smoke exposure,causes,pulmonary damage
+chronic-obstructive-pulmonary-disease-copd,associated_with,cold temperatures
+chronic-obstructive-pulmonary-disease-copd,has_symptom,anorexia
+medication adherence,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,respiratory syncytial virus
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,quitting_smoking
+chronic-obstructive-pulmonary-disease-copd,associated_with,activity planning
+chronic-obstructive-pulmonary-disease-copd,has_subtype,chronic-bronchitis
+flare-ups,causes,pneumonia
+occupational exposure to dusts,causes,chronic-obstructive-pulmonary-disease-copd
+occupational exposure to respiratory hazards,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,patient-support-group
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,obesity
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,current tobacco smoking
+chronic-obstructive-pulmonary-disease-copd,associated_with,anxiety
+chronic-obstructive-pulmonary-disease-copd,associated_with,heart health
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,anxiety
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,reflux-reduction
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,alpha-1_antitrypsin_deficiency
+chronic-obstructive-pulmonary-disease-copd,has_symptom,frequent coughing or wheezing
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,heart-tests
+self-management program,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,low socioeconomic status
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,chest_x-ray
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,lung_volume_reduction_surgery
+arterial_blood_gas_test,measures,blood_carbon_dioxide_level
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,vitamin d deficiency
+inhaler,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,occurs_with,cardiovascular disease
+family support,prevents,chronic-obstructive-pulmonary-disease-copd
+alpha-1_antitrypsin_deficiency,increases_risk_of,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,one-way-endobronchial-valves
+indoor air pollution,causes,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,lung_transplant
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,premature birth
+chronic-obstructive-pulmonary-disease-copd,associated_with,infections
+chronic-obstructive-pulmonary-disease-copd,associated_with,lung cancer
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,lung cancer
+acute exacerbation,is_treated_by,bronchodilators
+chest_computed_tomography_scan,detects,pneumonia
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,covid-19-vaccine
+chronic-obstructive-pulmonary-disease-copd,has_symptom,fatigue
+chronic-obstructive-pulmonary-disease-copd,associated_with,depression
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,depression
+chronic-obstructive-pulmonary-disease-copd,associated_with,respiratory infections
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,heart-disease
+flare-ups,associated_with,infection
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,antibiotics
+chronic-obstructive-pulmonary-disease-copd,associated_with,peripheral artery disease
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,heartburn-management
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,tobacco cessation
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,healthcare provider
+physical activity,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,bullae-formation
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,peripheral-artery-disease
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,healthcare-provider-guidance
+infection,causes,flare-ups
+chronic-obstructive-pulmonary-disease-copd,occurs_with,heart-failure
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,regular-dental-check-ups
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,professional-counselor
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,healthy-diet
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,yearly-computed-tomography-scans
+air pollution,causes,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,pneumonia
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,pulmonary rehabilitation program
+chronic-obstructive-pulmonary-disease-copd,associated_with,elevated prevalence in rural regions
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,pneumonia
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,self-management-program
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,inhalational smoke exposure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,silica exposure
+smoking cessation,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,occurs_with,alveolar destruction
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,airflow limitation
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,indoor air pollution
+chronic-obstructive-pulmonary-disease-copd,associated_with,heart failure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking_habits
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,dust_exposure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,cholinergic receptor nicotinic alpha subunit gene mutation
+emphysema,is_caused_by,damage to alveolar septa
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,frequent-colds
+spirometry,measures,air_exhaled_volume
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,computed-tomography-scans
+mental health support,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,impaired lung growth
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,steroid pills
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,antibiotic therapy for respiratory infections
+healthy diet,prevents,chronic-obstructive-pulmonary-disease-copd
+emergency preparedness,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,inhaler
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,add-on-medicine
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,family-support
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,urban air pollution exposure
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,medication management
+chronic-obstructive-pulmonary-disease-copd,associated_with,air filter use
+chronic-obstructive-pulmonary-disease-copd,has_symptom,persistent_shortness_of_breath
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,chemical-fumes
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,flare-up
+chronic-obstructive-pulmonary-disease-copd,associated_with,healthcare provider guidance
+acute exacerbation,is_treated_by,antibiotics
+surgery,treats,chronic-obstructive-pulmonary-disease-copd
+multiracial ethnicity,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,stress
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,mortality
+chronic-obstructive-pulmonary-disease-copd,associated_with,healthy diet
+chronic-obstructive-pulmonary-disease-copd,occurs_with,pleural_effusion
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,smoke
+pulmonary_rehabilitation,treats,chronic-obstructive-pulmonary-disease-copd
+pulmonary rehabilitation program,treats,chronic-obstructive-pulmonary-disease-copd
+activity planning,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,air pollution
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,respiratory-infections
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,lung-cancer
+chronic-obstructive-pulmonary-disease-copd,associated_with,elevated prevalence in women
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,heart-treatments
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,tobacco smoking
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,occupational exposure to irritants
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,pulmonary_rehabilitation
+chronic-obstructive-pulmonary-disease-copd,associated_with,elevated prevalence in american indian and alaska native populations
+chronic-obstructive-pulmonary-disease-copd,associated_with,nutritional planning
+chronic-obstructive-pulmonary-disease-copd,occurs_with,peripheral-artery-disease
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,air pollution
+chronic-obstructive-pulmonary-disease-copd,associated_with,heart attacks
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoidance of polluted environments
+older adult,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,oral-health-maintenance
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,avoiding-cold-temperatures
+nutritional planning,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,chest_computed_tomography_scan
+medication,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,vaccine-administration
+chronic-obstructive-pulmonary-disease-copd,associated_with,nutritional supplements
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,smoking-cessation
+chronic-obstructive-pulmonary-disease-copd,associated_with,asthma
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,frequent respiratory infections in childhood
+acute exacerbation,causes,hypoxemia
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,depressive disorder
+chronic-obstructive-pulmonary-disease-copd,has_symptom,shortness of breath during everyday activities
+acute exacerbation,is_treated_by,inhaled corticosteroids
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,spirometry
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,bullectomy
+chronic-obstructive-pulmonary-disease-copd,occurs_with,heart-conditions
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,physical-activity
+flare-ups,causes,covid-19
+passive smoking,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,arterial_blood_gas_test
+steroids,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,occurs_with,arrhythmia
+chronic-obstructive-pulmonary-disease-copd,occurs_with,chronic-bronchitis
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,human immunodeficiency virus infection
+smoking,causes,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,whooping cough
+spirometry,helps_set,treatment_goals
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,small airway disease
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,construction work exposure
+american indian or alaska native ethnicity,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,tobacco exposure
+chronic-obstructive-pulmonary-disease-copd,occurs_with,bronchial wall thickening
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,wildfires
+chronic-obstructive-pulmonary-disease-copd,occurs_with,serious_symptoms
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,smoking cessation support
+chronic-obstructive-pulmonary-disease-copd,associated_with,smoking cessation
+biological_differences,associated_with,differences_in_copd_between_men_and_women
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,steroids
+history of asthma,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,passive smoking
+regular dental check-ups,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,family history of chronic obstructive pulmonary disease
+spirometry,performed_with,bronchodilator_medicine
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,organic dust exposure
+oxygen therapy,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,infections
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,acute exacerbation
+flare-ups,causes,whooping-cough
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,combination-of-bronchodilators-and-inhaled-steroid
+respiratory infection treatment with antibiotics,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,occurs_with,bronchial hypersecretion
+lung_transplant,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding_air_pollution
+lifestyle modification,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,nutritional-supplements
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,bronchial hyperresponsiveness
+chronic-obstructive-pulmonary-disease-copd,has_symptom,wheezing
+chronic-obstructive-pulmonary-disease-copd,associated_with,oral health issues
+flare-ups,causes,shingles
+tobacco smoking,causes,chronic-obstructive-pulmonary-disease-copd
+arterial_blood_gas_test,measures,blood_oxygen_level
+chest_x-ray,detects,chest_structures
+lung_volume_reduction_surgery,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,covid-19
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,indoor air pollution exposure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,family_history_of_copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,medication therapy
+chronic-obstructive-pulmonary-disease-copd,has_symptom,anxiety
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,prolonged exposure to biomass fuels
+chronic-obstructive-pulmonary-disease-copd,associated_with,smoking
+air filter use,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_symptom,ongoing_cough
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,home-accessibility-modifications
+smoking,causes,pulmonary damage
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,smoking cessation
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,healthy-diet
+acute exacerbation,is_treated_by,oral corticosteroids
+chronic-obstructive-pulmonary-disease-copd,has_symptom,persistent cough
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,inhaler-technique-training
+chronic-obstructive-pulmonary-disease-copd,has_symptom,excessive phlegm production
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,medicines
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,smoking
+vaccines,prevents,chronic-obstructive-pulmonary-disease-copd
+unemployed status,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,coal mining occupation
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,cognitive impairment
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,occupational exposure to respiratory hazards
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,air-pollution
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,cold-temperatures
+alpha-1 antitrypsin deficiency,causes,pulmonary damage
+tobacco exposure,causes,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,sleep disturbance
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,heart-attacks
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,comorbid cardiovascular disease
+chronic-obstructive-pulmonary-disease-copd,has_symptom,productive cough
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,occupational exposure to dusts
+chronic-obstructive-pulmonary-disease-copd,has_symptom,depression
+bronchodilator inhalers,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,healthcare-provider-communication
+vitamin d deficiency,associated_with,copd susceptibility
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,pediatric asthma
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,maternal smoking during pregnancy
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,low birth weight
+chronic-obstructive-pulmonary-disease-copd,associated_with,mental-health-issues
+nutritional supplements,prevents,chronic-obstructive-pulmonary-disease-copd
+bronchodilators,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,tdap-vaccine
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,patient-education
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,airway hyperresponsiveness
+patient support groups,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoidance of secondhand smoke
+chronic-obstructive-pulmonary-disease-copd,associated_with,reflux
+chronic-obstructive-pulmonary-disease-copd,associated_with,shingles
+support_group,associated_with,quitting_smoking
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,lung infections
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,asbestos exposure
+cholinergic receptor nicotinic alpha subunit gene mutation,associated_with,copd susceptibility
+chronic-obstructive-pulmonary-disease-copd,associated_with,dust
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,respiratory-syncytial-virus-vaccine
+patient education,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_symptom,tiredness
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,air pollution exposure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,alpha-1 antitrypsin deficiency
+chronic-obstructive-pulmonary-disease-copd,associated_with,emergency preparedness
+chronic-obstructive-pulmonary-disease-copd,has_symptom,cough
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,dust
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,air pollution
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,patient-support-groups
+chronic-obstructive-pulmonary-disease-copd,associated_with,obesity
+chronic-obstructive-pulmonary-disease-copd,associated_with,stroke
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,stroke
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,lifestyle-changes
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,oxygen supplementation
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,tobacco smoke exposure
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,comprehensive pulmonary rehabilitation
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,low-blood-oxygen-levels
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,physical-activity
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,comorbid diabetes mellitus
+chronic-obstructive-pulmonary-disease-copd,associated_with,secondhand smoke
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,poor self-reported health status
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,air_pollution_exposure
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,bronchodilators
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,extreme heat
+chest_computed_tomography_scan,detects,lung_tumor
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,nonsteroid_medicines
+smoking,has_risk_factor,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,avoiding triggers
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,secondhand-smoke
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,permanent disability
+chronic-obstructive-pulmonary-disease-copd,associated_with,chemical fumes
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,lifestyle modification
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding-lung-irritants
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding-triggers
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,asthma
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,regular
+family history of chronic obstructive pulmonary disease,associated_with,chronic-obstructive-pulmonary-disease-copd
+acute exacerbation,causes,cognitive impairment
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding_secondhand_smoke
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,pharmacotherapy
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,not-getting-enough-physical-activity
+flare-ups,causes,flu
+heartburn management,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,associated_with,biological_differences
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,genetic predisposition to lung disease
+chronic-obstructive-pulmonary-disease-copd,associated_with,self-management program
+alpha-1 antitrypsin deficiency,causes,chronic-obstructive-pulmonary-disease-copd
+acute exacerbation,causes,tachycardia
+former tobacco smoker,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,liver_disease
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,stents
+chronic-obstructive-pulmonary-disease-copd,associated_with,poor air quality
+quitting_smoking,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_symptom,cachexia
+healthcare provider guidance,prevents,chronic-obstructive-pulmonary-disease-copd
+bullectomy,treats,chronic-obstructive-pulmonary-disease-copd
+nonsteroid_medicines,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-bronchitis,is_caused_by,chronic airway inflammation
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,bronchodilator inhalers
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,air-filter-use
+chronic-obstructive-pulmonary-disease-copd,has_symptom,dyspnea
+cigarette smoking,causes,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,cigarette smoking
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,prematurity
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,agricultural exposure
+chronic-obstructive-pulmonary-disease-copd,associated_with,cardiovascular events
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,family history of copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,pneumonia-vaccine
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,cardiovascular-events
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,atopic dermatitis
+chronic-obstructive-pulmonary-disease-copd,has_symptom,difficulty breathing
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,poor growth in utero
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,woodworking exposure
+chronic-obstructive-pulmonary-disease-copd,associated_with,heartburn
+asthma,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_symptom,inflammation
+home accessibility modifications,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,high-blood-pressure
+chronic-obstructive-pulmonary-disease-copd,associated_with,arrhythmia
+chest_x-ray,identifies,coexisting_conditions
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,age greater than 40 years
+air pollutant exposure,causes,pulmonary damage
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,allergic rhinitis
+spirometry,detects,airway_obstruction
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,early-life air pollution exposure
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,vaccines
+chronic-obstructive-pulmonary-disease-copd,occurs_with,asthma
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,flu-vaccine
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,impaired mobility
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,weak muscles
+chronic-obstructive-pulmonary-disease-copd,associated_with,physical activity
+alpha-1_antitrypsin_deficiency,associated_with,genetic_condition
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,air-quality-monitoring
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,pulmonary infection
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding_dust
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,chemical_fumes_exposure
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding_chemical_fumes
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,anti-inflammatory
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,activity-planning
+antibiotics,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,air pollutant exposure
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,mental-health-support
+flare-ups,causes,respiratory-syncytial-virus
+chronic-obstructive-pulmonary-disease-copd,associated_with,flu
+chronic-obstructive-pulmonary-disease-copd,occurs_with,loss of lung elasticity
+spirometry,measures,air_exhalation_speed
+air quality monitoring,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,inhalational dust exposure
+current tobacco smoking,associated_with,chronic-obstructive-pulmonary-disease-copd
+steroid pills,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,brittle bones
+avoiding triggers,prevents,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,textile industry exposure
+chronic-obstructive-pulmonary-disease-copd,associated_with,flare-ups
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,flare-ups
+chest_computed_tomography_scan,detects,lung_cancer
+antibiotics,treats,flare-ups
+vaccination,treats,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,contact_with_secondhand_smoke
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,activity limitation
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,climate change
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,tuberculosis
+chronic-obstructive-pulmonary-disease-copd,has_symptom,chest tightness
+chronic-obstructive-pulmonary-disease-copd,associated_with,high blood pressure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,childhood respiratory infection
+limited education level,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,surgery
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,peak_expiratory_flow_test
+chronic-obstructive-pulmonary-disease-copd,has_symptom,difficulty taking deep breaths
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,cardiovascular disease
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,nutritional-planning
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,vaccination
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,emergency-care
+chronic-obstructive-pulmonary-disease-copd,has_symptom,shortness-of-breath
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,air-trapping
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,chemical fume exposure
+chronic-obstructive-pulmonary-disease-copd,associated_with,patient education
+flare-ups,causes,infections
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,developmental lung abnormalities
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,asthma in childhood
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,shingles-shots
+chronic-obstructive-pulmonary-disease-copd,has_symptom,airway_swelling
+chronic-obstructive-pulmonary-disease-copd,causes,flare-ups
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,comorbid asthma
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,smoking-cessation
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,airway inflammation
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,metalworking exposure
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,lung_cancer
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,heart problems
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,medication-adherence
+chest_computed_tomography_scan,detects,pleural_effusion
+female sex,associated_with,chronic-obstructive-pulmonary-disease-copd
+chronic-obstructive-pulmonary-disease-copd,has_subtype,emphysema
+chronic-obstructive-pulmonary-disease-copd,associated_with,heart disease

@@ -1,0 +1,317 @@
+node_id,node_attr
+0,chronic-obstructive-pulmonary-disease-copd
+1,dust exposure
+2,secondhand smoke exposure
+3,emphysema
+4,not getting enough physical activity
+5,cold temperatures
+6,anorexia
+7,respiratory syncytial virus
+8,quitting_smoking
+9,activity planning
+10,chronic-bronchitis
+11,patient-support-group
+12,obesity
+13,current tobacco smoking
+14,anxiety
+15,heart health
+16,reflux-reduction
+17,alpha-1_antitrypsin_deficiency
+18,frequent coughing or wheezing
+19,heart-tests
+20,low socioeconomic status
+21,chest_x-ray
+22,lung_volume_reduction_surgery
+23,vitamin d deficiency
+24,cardiovascular disease
+25,one-way-endobronchial-valves
+26,lung_transplant
+27,premature birth
+28,infections
+29,lung cancer
+30,covid-19-vaccine
+31,fatigue
+32,depression
+33,respiratory infections
+34,heart-disease
+35,antibiotics
+36,peripheral artery disease
+37,heartburn-management
+38,tobacco cessation
+39,healthcare provider
+40,bullae-formation
+41,peripheral-artery-disease
+42,healthcare-provider-guidance
+43,heart-failure
+44,regular-dental-check-ups
+45,professional-counselor
+46,healthy-diet
+47,yearly-computed-tomography-scans
+48,pneumonia
+49,pulmonary rehabilitation program
+50,elevated prevalence in rural regions
+51,self-management-program
+52,inhalational smoke exposure
+53,silica exposure
+54,alveolar destruction
+55,airflow limitation
+56,indoor air pollution
+57,heart failure
+58,smoking_habits
+59,dust_exposure
+60,cholinergic receptor nicotinic alpha subunit gene mutation
+61,frequent-colds
+62,computed-tomography-scans
+63,impaired lung growth
+64,steroid pills
+65,antibiotic therapy for respiratory infections
+66,inhaler
+67,add-on-medicine
+68,family-support
+69,urban air pollution exposure
+70,medication management
+71,air filter use
+72,persistent_shortness_of_breath
+73,chemical-fumes
+74,flare-up
+75,healthcare provider guidance
+76,stress
+77,mortality
+78,healthy diet
+79,pleural_effusion
+80,smoke
+81,air pollution
+82,respiratory-infections
+83,lung-cancer
+84,elevated prevalence in women
+85,heart-treatments
+86,tobacco smoking
+87,occupational exposure to irritants
+88,pulmonary_rehabilitation
+89,elevated prevalence in american indian and alaska native populations
+90,nutritional planning
+91,heart attacks
+92,avoidance of polluted environments
+93,oral-health-maintenance
+94,avoiding-cold-temperatures
+95,chest_computed_tomography_scan
+96,vaccine-administration
+97,nutritional supplements
+98,smoking-cessation
+99,asthma
+100,frequent respiratory infections in childhood
+101,depressive disorder
+102,shortness of breath during everyday activities
+103,spirometry
+104,bullectomy
+105,heart-conditions
+106,physical-activity
+107,arterial_blood_gas_test
+108,arrhythmia
+109,human immunodeficiency virus infection
+110,whooping cough
+111,small airway disease
+112,construction work exposure
+113,tobacco exposure
+114,bronchial wall thickening
+115,wildfires
+116,serious_symptoms
+117,smoking cessation support
+118,smoking cessation
+119,steroids
+120,passive smoking
+121,family history of chronic obstructive pulmonary disease
+122,organic dust exposure
+123,acute exacerbation
+124,combination-of-bronchodilators-and-inhaled-steroid
+125,bronchial hypersecretion
+126,avoiding_air_pollution
+127,nutritional-supplements
+128,bronchial hyperresponsiveness
+129,wheezing
+130,oral health issues
+131,covid-19
+132,indoor air pollution exposure
+133,family_history_of_copd
+134,medication therapy
+135,prolonged exposure to biomass fuels
+136,smoking
+137,ongoing_cough
+138,home-accessibility-modifications
+139,persistent cough
+140,inhaler-technique-training
+141,excessive phlegm production
+142,medicines
+143,coal mining occupation
+144,cognitive impairment
+145,occupational exposure to respiratory hazards
+146,air-pollution
+147,cold-temperatures
+148,sleep disturbance
+149,heart-attacks
+150,comorbid cardiovascular disease
+151,productive cough
+152,occupational exposure to dusts
+153,healthcare-provider-communication
+154,pediatric asthma
+155,maternal smoking during pregnancy
+156,low birth weight
+157,mental-health-issues
+158,tdap-vaccine
+159,patient-education
+160,airway hyperresponsiveness
+161,avoidance of secondhand smoke
+162,reflux
+163,shingles
+164,lung infections
+165,asbestos exposure
+166,dust
+167,respiratory-syncytial-virus-vaccine
+168,tiredness
+169,air pollution exposure
+170,alpha-1 antitrypsin deficiency
+171,emergency preparedness
+172,cough
+173,patient-support-groups
+174,stroke
+175,lifestyle-changes
+176,oxygen supplementation
+177,tobacco smoke exposure
+178,comprehensive pulmonary rehabilitation
+179,low-blood-oxygen-levels
+180,comorbid diabetes mellitus
+181,secondhand smoke
+182,poor self-reported health status
+183,air_pollution_exposure
+184,bronchodilators
+185,extreme heat
+186,nonsteroid_medicines
+187,avoiding triggers
+188,secondhand-smoke
+189,permanent disability
+190,chemical fumes
+191,lifestyle modification
+192,avoiding-lung-irritants
+193,avoiding-triggers
+194,regular
+195,avoiding_secondhand_smoke
+196,pharmacotherapy
+197,not-getting-enough-physical-activity
+198,biological_differences
+199,genetic predisposition to lung disease
+200,self-management program
+201,liver_disease
+202,stents
+203,poor air quality
+204,cachexia
+205,bronchodilator inhalers
+206,air-filter-use
+207,dyspnea
+208,cigarette smoking
+209,prematurity
+210,agricultural exposure
+211,cardiovascular events
+212,family history of copd
+213,pneumonia-vaccine
+214,cardiovascular-events
+215,atopic dermatitis
+216,difficulty breathing
+217,poor growth in utero
+218,woodworking exposure
+219,heartburn
+220,inflammation
+221,high-blood-pressure
+222,age greater than 40 years
+223,allergic rhinitis
+224,early-life air pollution exposure
+225,vaccines
+226,flu-vaccine
+227,impaired mobility
+228,weak muscles
+229,physical activity
+230,air-quality-monitoring
+231,pulmonary infection
+232,avoiding_dust
+233,chemical_fumes_exposure
+234,avoiding_chemical_fumes
+235,anti-inflammatory
+236,activity-planning
+237,air pollutant exposure
+238,mental-health-support
+239,flu
+240,loss of lung elasticity
+241,inhalational dust exposure
+242,brittle bones
+243,textile industry exposure
+244,flare-ups
+245,contact_with_secondhand_smoke
+246,activity limitation
+247,climate change
+248,tuberculosis
+249,chest tightness
+250,high blood pressure
+251,childhood respiratory infection
+252,surgery
+253,peak_expiratory_flow_test
+254,difficulty taking deep breaths
+255,nutritional-planning
+256,vaccination
+257,emergency-care
+258,shortness-of-breath
+259,air-trapping
+260,chemical fume exposure
+261,patient education
+262,developmental lung abnormalities
+263,asthma in childhood
+264,shingles-shots
+265,airway_swelling
+266,comorbid asthma
+267,airway inflammation
+268,metalworking exposure
+269,lung_cancer
+270,heart problems
+271,medication-adherence
+272,heart disease
+273,damage to alveolar septa
+274,pulmonary damage
+275,medication adherence
+276,chronic airway inflammation
+277,infection
+278,whooping-cough
+279,respiratory-syncytial-virus
+280,genetic_condition
+281,chest_structures
+282,coexisting_conditions
+283,blood_carbon_dioxide_level
+284,blood_oxygen_level
+285,copd susceptibility
+286,family support
+287,hypoxemia
+288,inhaled corticosteroids
+289,oral corticosteroids
+290,tachycardia
+291,lung_tumor
+292,air_exhaled_volume
+293,treatment_goals
+294,bronchodilator_medicine
+295,airway_obstruction
+296,air_exhalation_speed
+297,mental health support
+298,multiracial ethnicity
+299,older adult
+300,medication
+301,american indian or alaska native ethnicity
+302,differences_in_copd_between_men_and_women
+303,history of asthma
+304,regular dental check-ups
+305,oxygen therapy
+306,respiratory infection treatment with antibiotics
+307,unemployed status
+308,patient support groups
+309,support_group
+310,heartburn management
+311,former tobacco smoker
+312,home accessibility modifications
+313,air quality monitoring
+314,limited education level
+315,female sex

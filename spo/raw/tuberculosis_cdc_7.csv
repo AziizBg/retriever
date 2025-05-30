@@ -1,0 +1,27 @@
+subject,predicate,object
+inactive TB,is_treated_by,treatment
+inactive TB,leads_to_complication,active TB disease
+weakened immune systems,has_risk_factor,developing active TB disease
+inactive TB,is_prevented_by,treatment
+active TB disease of the lungs or throat,leads_to_complication,spreading TB germs
+active TB disease of the lungs or throat,is_treated_by,medicines
+health care provider,is_diagnosed_by,chest x-ray
+health care provider,is_diagnosed_by,sputum test
+TB medicines,treats,active TB disease
+taking medicines exactly as directed,is_prevented_by,spreading TB germs
+clinic appointments,is_diagnosed_by,health care provider
+special room in hospital,is_prevented_by,spreading TB germs
+air vents in special room,is_prevented_by,spreading TB germs
+face mask,is_prevented_by,exposure to TB germs
+covering mouth with tissue,is_prevented_by,spreading TB germs
+avoiding close contact,is_prevented_by,spreading TB germs
+separate bedroom,is_prevented_by,spreading TB germs
+airing out room,is_prevented_by,spreading TB germs
+fan in window,is_prevented_by,spreading TB germs
+health care settings,is_prevented_by,infection control plans
+infection control plans,associated_with,administrative measures
+infection control plans,associated_with,environmental controls
+infection control plans,associated_with,respiratory protective equipment
+health care personnel screening,is_prevented_by,exposure to TB
+education,is_prevented_by,exposure to TB
+facility risk assessments,is_prevented_by,exposure to TB

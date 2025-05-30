@@ -1,0 +1,11 @@
+subject,predicate,object
+Bacille Calmette-Guérin (BCG),is_prevented_by,tuberculosis
+Bacille Calmette-Guérin (BCG),is_treated_by,infants and small children
+tuberculosis,has_symptom,TB meningitis
+Bacille Calmette-Guérin (BCG),causes,false positive TB skin test reaction
+tuberculosis,is_diagnosed_by,TB blood tests
+Bacille Calmette-Guérin (BCG),associated_with,TB skin test
+Bacille Calmette-Guérin (BCG),occurs_with,countries where TB is common
+Bacille Calmette-Guérin (BCG),has_risk_factor,people born outside the United States
+tuberculosis,leads_to_complication,severe forms of active TB disease
+Bacille Calmette-Guérin (BCG),treats,tuberculosis

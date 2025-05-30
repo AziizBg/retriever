@@ -1,0 +1,36 @@
+subject,predicate,object
+Pneumonia,is_diagnosed_by,medical history
+Pneumonia,is_diagnosed_by,physical exam
+Pneumonia,is_diagnosed_by,diagnostic tests
+Pneumonia,is_diagnosed_by,chest X-ray
+Pneumonia,is_diagnosed_by,blood tests
+Pneumonia,is_diagnosed_by,pulse oximetry
+Pneumonia,is_diagnosed_by,blood gas test
+Pneumonia,is_diagnosed_by,sputum test
+Pneumonia,is_diagnosed_by,blood culture test
+Pneumonia,is_diagnosed_by,polymerase chain reaction (PCR) test
+Pneumonia,is_diagnosed_by,bronchoscopy
+Pneumonia,is_diagnosed_by,chest computed tomography (CT) scan
+Pneumonia,is_diagnosed_by,pleural fluid culture
+Pneumonia,has_symptom,fever
+Pneumonia,has_symptom,cough
+Pneumonia,has_symptom,shortness of breath
+Pneumonia,has_risk_factor,exposure to sick people
+Pneumonia,has_risk_factor,smoking
+Pneumonia,has_risk_factor,flu or pneumonia vaccinations
+Pneumonia,has_risk_factor,past medical conditions
+Pneumonia,has_risk_factor,recent travel
+Pneumonia,has_risk_factor,exposure to birds and animals
+Pneumonia,leads_to_complication,lung abscesses
+Pneumonia,leads_to_complication,pleural disorders
+Pneumonia,is_caused_by,bacterial infection
+Pneumonia,is_caused_by,germ infection
+Pneumonia,is_treated_by,bronchoscopy
+Pneumonia,is_treated_by,thoracentesis
+Pneumonia,occurs_with,immune system response
+Pneumonia,associated_with,oxygen levels in blood
+Pneumonia,associated_with,arterial blood gas test
+Pneumonia,associated_with,pulmonary inflammation
+Pneumonia,associated_with,pleural space fluid
+Pneumonia,associated_with,lung tissue analysis
+Pneumonia,associated_with,airway examination

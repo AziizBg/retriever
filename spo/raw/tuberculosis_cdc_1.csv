@@ -1,0 +1,19 @@
+subject,predicate,object
+Active TB Disease,has_symptom,bad cough that lasts 3 weeks or longer
+Active TB Disease,has_symptom,pain in the chest
+Active TB Disease,has_symptom,coughing up blood or sputum from deep inside the lungs
+Active TB Disease,has_symptom,weakness or fatigue
+Active TB Disease,has_symptom,weight loss
+Active TB Disease,has_symptom,no appetite
+Active TB Disease,has_symptom,chills
+Active TB Disease,has_symptom,fever
+Active TB Disease,has_symptom,sweating at night
+TB disease of the lymph nodes,has_symptom,firm red or purple swelling under the skin
+TB disease of the kidney,has_symptom,blood in the urine
+TB meningitis,has_symptom,headache
+TB meningitis,has_symptom,confusion
+TB disease of the spine,has_symptom,back pain
+TB disease of the larynx,has_symptom,hoarseness
+Inactive TB,has_risk_factor,developing active TB disease
+Inactive TB,is_treated_by,treatment to prevent active TB disease
+Active TB Disease,is_diagnosed_by,TB testing

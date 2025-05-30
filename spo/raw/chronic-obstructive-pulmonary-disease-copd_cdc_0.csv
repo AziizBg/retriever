@@ -1,0 +1,47 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,has_symptom,Frequent coughing or wheezing
+chronic-obstructive-pulmonary-disease-copd,has_symptom,Shortness of breath doing everyday activities
+chronic-obstructive-pulmonary-disease-copd,has_symptom,Trouble taking deep breaths
+chronic-obstructive-pulmonary-disease-copd,has_symptom,Excess phlegm or mucus
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,difficulty working or doing usual activities
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,difficulty walking or climbing stairs
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,difficulty concentrating remembering or making decisions
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,Other chronic diseases like asthma heart disease and diabetes
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,Depression or mental health condition
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,Reported poor health
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,Tobacco smoke
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,smoking or used to smoke cigarettes
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,Secondhand smoke
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,Exposure to environmental or workplace breathing hazards
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,Family history of COPD
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,Asthma
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,Stop smoking
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,Avoid inhaling cigarette smoke
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,Limit time in places with bad air quality
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,spironmetry test
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,Lifestyle changes
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,Pulmonary rehabilitation programs
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,Medication
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,Respiratory infections treatment with antibiotics
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,Vaccinations
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,Oxygen therapy
+Medication,treats,chronic-obstructive-pulmonary-disease-copd
+Respiratory infections treatment with antibiotics,treats,chronic-obstructive-pulmonary-disease-copd
+Vaccinations,treats,chronic-obstructive-pulmonary-disease-copd
+Oxygen therapy,treats,chronic-obstructive-pulmonary-disease-copd
+Pulmonary rehabilitation programs,treats,chronic-obstructive-pulmonary-disease-copd
+Lifestyle changes,treats,chronic-obstructive-pulmonary-disease-copd
+Tobacco smoke,causes,chronic-obstructive-pulmonary-disease-copd
+smoking or used to smoke cigarettes,associated_with,chronic-obstructive-pulmonary-disease-copd
+Secondhand smoke,associated_with,chronic-obstructive-pulmonary-disease-copd
+Exposure to environmental or workplace breathing hazards,associated_with,chronic-obstructive-pulmonary-disease-copd
+Family history of COPD,associated_with,chronic-obstructive-pulmonary-disease-copd
+Asthma,associated_with,chronic-obstructive-pulmonary-disease-copd
+Current or former smokers,associated_with,chronic-obstructive-pulmonary-disease-copd
+People with a history of asthma,associated_with,chronic-obstructive-pulmonary-disease-copd
+Women,associated_with,chronic-obstructive-pulmonary-disease-copd
+Adults 65 and older,associated_with,chronic-obstructive-pulmonary-disease-copd
+American Indian or Alaska Native populations,associated_with,chronic-obstructive-pulmonary-disease-copd
+people of more than one race,associated_with,chronic-obstructive-pulmonary-disease-copd
+People who are unemployed unable to work retired a homemaker or a student,associated_with,chronic-obstructive-pulmonary-disease-copd
+People with less than a high school education,associated_with,chronic-obstructive-pulmonary-disease-copd

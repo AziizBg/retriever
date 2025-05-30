@@ -1,0 +1,51 @@
+subject,predicate,object
+chronic-obstructive-pulmonary-disease-copd,has_symptom,cough
+chronic-obstructive-pulmonary-disease-copd,has_symptom,difficulty breathing
+chronic-obstructive-pulmonary-disease-copd,has_symptom,wheezing
+chronic-obstructive-pulmonary-disease-copd,has_symptom,tiredness
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,smoking
+chronic-obstructive-pulmonary-disease-copd,is_caused_by,air pollution
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,flare-ups
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,lung infections
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,lung cancer
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,heart problems
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,weak muscles
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,brittle bones
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,depression
+chronic-obstructive-pulmonary-disease-copd,leads_to_complication,anxiety
+chronic-obstructive-pulmonary-disease-copd,is_diagnosed_by,spirometry
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,bronchodilator inhalers
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,steroid pills
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,antibiotics
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,oxygen therapy
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,pulmonary rehabilitation
+chronic-obstructive-pulmonary-disease-copd,is_treated_by,surgery
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,quitting smoking
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,avoiding air pollution
+chronic-obstructive-pulmonary-disease-copd,is_prevented_by,vaccines
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,tobacco exposure
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,occupational exposure to dusts
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,indoor air pollution
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,poor growth in utero
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,prematurity
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,frequent respiratory infections in childhood
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,asthma in childhood
+chronic-obstructive-pulmonary-disease-copd,has_risk_factor,alpha-1 antitrypsin deficiency
+chronic-obstructive-pulmonary-disease-copd,occurs_with,emphysema
+chronic-obstructive-pulmonary-disease-copd,occurs_with,chronic bronchitis
+chronic-obstructive-pulmonary-disease-copd,associated_with,asthma
+bronchodilator inhalers,treats,chronic-obstructive-pulmonary-disease-copd
+steroid pills,treats,chronic-obstructive-pulmonary-disease-copd
+antibiotics,treats,chronic-obstructive-pulmonary-disease-copd
+oxygen therapy,treats,chronic-obstructive-pulmonary-disease-copd
+pulmonary rehabilitation,treats,chronic-obstructive-pulmonary-disease-copd
+surgery,treats,chronic-obstructive-pulmonary-disease-copd
+smoking,causes,chronic-obstructive-pulmonary-disease-copd
+air pollution,causes,chronic-obstructive-pulmonary-disease-copd
+tobacco exposure,causes,chronic-obstructive-pulmonary-disease-copd
+occupational exposure to dusts,causes,chronic-obstructive-pulmonary-disease-copd
+indoor air pollution,causes,chronic-obstructive-pulmonary-disease-copd
+alpha-1 antitrypsin deficiency,causes,chronic-obstructive-pulmonary-disease-copd
+asthma,associated_with,chronic-obstructive-pulmonary-disease-copd
+emphysema,occurs_with,chronic-obstructive-pulmonary-disease-copd
+chronic bronchitis,occurs_with,chronic-obstructive-pulmonary-disease-copd

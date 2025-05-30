@@ -1,0 +1,28 @@
+subject,predicate,object
+COVID-19,is_prevented_by,COVID-19 vaccines
+COVID-19,has_risk_factor,not staying up to date on COVID-19 vaccines
+COVID-19,leads_to_complication,severe illness
+COVID-19,leads_to_complication,hospitalization
+COVID-19,leads_to_complication,death
+COVID-19,is_prevented_by,good hygiene practices
+COVID-19,is_prevented_by,steps for cleaner air
+COVID-19,is_prevented_by,precautions to prevent spread
+precautions to prevent spread,includes,staying home
+precautions to prevent spread,includes,avoiding others
+COVID-19,is_prevented_by,wearing a mask
+COVID-19,is_prevented_by,putting distance between yourself and others
+COVID-19,is_diagnosed_by,testing for COVID-19
+testing for COVID-19,helps,deciding next steps
+deciding next steps,includes,getting treatment
+getting treatment,helps,reduce risk of severe illness
+COVID-19,is_treated_by,treatment started within a few days of symptom onset
+treatment started within a few days of symptom onset,lowers,risk of severe illness
+COVID-19,has_risk_factor,exposure to respiratory viruses
+respiratory viruses,includes,COVID-19
+respiratory viruses,includes,flu
+respiratory viruses,includes,RSV
+COVID-19,occurs_with,flu
+COVID-19,occurs_with,RSV
+risk factors for severe illness,associated_with,severe illness
+severe illness,associated_with,hospitalization
+severe illness,associated_with,death

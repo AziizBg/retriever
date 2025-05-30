@@ -1,0 +1,81 @@
+subject,predicate,object
+coronavirus-disease-(covid-19),is_caused_by,SARS-CoV-2 coronavirus
+coronavirus-disease-(covid-19),spreads_between,people in close contact
+coronavirus-disease-(covid-19),is_prevented_by,COVID-19 vaccines
+COVID-19 vaccines,treats,coronavirus-disease-(covid-19)
+coronavirus-disease-(covid-19),has_symptom,fever
+coronavirus-disease-(covid-19),has_symptom,chills
+coronavirus-disease-(covid-19),has_symptom,sore throat
+coronavirus-disease-(covid-19),has_symptom,muscle aches
+coronavirus-disease-(covid-19),has_symptom,heavy arms or legs
+coronavirus-disease-(covid-19),has_symptom,severe fatigue
+coronavirus-disease-(covid-19),has_symptom,runny or blocked nose
+coronavirus-disease-(covid-19),has_symptom,sneezing
+coronavirus-disease-(covid-19),has_symptom,headache
+coronavirus-disease-(covid-19),has_symptom,sore eyes
+coronavirus-disease-(covid-19),has_symptom,dizziness
+coronavirus-disease-(covid-19),has_symptom,new and persistent cough
+coronavirus-disease-(covid-19),has_symptom,tight chest
+coronavirus-disease-(covid-19),has_symptom,chest pain
+coronavirus-disease-(covid-19),has_symptom,shortness of breath
+coronavirus-disease-(covid-19),has_symptom,hoarse voice
+coronavirus-disease-(covid-19),has_symptom,numbness or tingling
+coronavirus-disease-(covid-19),has_symptom,appetite loss
+coronavirus-disease-(covid-19),has_symptom,nausea
+coronavirus-disease-(covid-19),has_symptom,vomiting
+coronavirus-disease-(covid-19),has_symptom,abdominal pain
+coronavirus-disease-(covid-19),has_symptom,diarrhea
+coronavirus-disease-(covid-19),has_symptom,loss of sense of taste
+coronavirus-disease-(covid-19),has_symptom,loss of sense of smell
+coronavirus-disease-(covid-19),has_symptom,difficulty sleeping
+coronavirus-disease-(covid-19),leads_to_complication,respiratory failure
+coronavirus-disease-(covid-19),leads_to_complication,sepsis
+coronavirus-disease-(covid-19),leads_to_complication,thromboembolism
+coronavirus-disease-(covid-19),leads_to_complication,multiorgan failure
+coronavirus-disease-(covid-19),leads_to_complication,heart injury
+coronavirus-disease-(covid-19),leads_to_complication,liver injury
+coronavirus-disease-(covid-19),leads_to_complication,kidney injury
+coronavirus-disease-(covid-19),leads_to_complication,severe inflammatory syndrome in children
+coronavirus-disease-(covid-19),leads_to_complication,long COVID
+long COVID,has_symptom,fatigue
+long COVID,has_symptom,breathlessness
+long COVID,has_symptom,cognitive dysfunction
+coronavirus-disease-(covid-19),has_risk_factor,age over 60
+coronavirus-disease-(covid-19),has_risk_factor,high blood pressure
+coronavirus-disease-(covid-19),has_risk_factor,diabetes
+coronavirus-disease-(covid-19),has_risk_factor,obesity
+coronavirus-disease-(covid-19),has_risk_factor,immunosuppression
+coronavirus-disease-(covid-19),has_risk_factor,HIV
+coronavirus-disease-(covid-19),has_risk_factor,cancer
+coronavirus-disease-(covid-19),has_risk_factor,pregnancy
+coronavirus-disease-(covid-19),has_risk_factor,unvaccinated status
+coronavirus-disease-(covid-19),is_treated_by,treatments based on disease severity
+coronavirus-disease-(covid-19),is_prevented_by,vaccination
+coronavirus-disease-(covid-19),is_prevented_by,avoiding crowds
+coronavirus-disease-(covid-19),is_prevented_by,wearing a mask
+coronavirus-disease-(covid-19),is_prevented_by,frequent hand cleaning
+coronavirus-disease-(covid-19),is_prevented_by,coughing into a bent elbow or tissue
+coronavirus-disease-(covid-19),is_prevented_by,self-isolation when symptomatic
+COVID-19 vaccines,prevents,severe illness
+COVID-19 vaccines,prevents,hospitalization
+COVID-19 vaccines,prevents,death
+severe COVID-19,requires,treatment as soon as possible
+people with pre-existing health problems,has_risk_factor,severe COVID-19
+immunosuppressive medication,increases_risk,severe COVID-19
+chronic heart problems,increases_risk,severe COVID-19
+chronic lung problems,increases_risk,severe COVID-19
+chronic liver problems,increases_risk,severe COVID-19
+rheumatological problems,increases_risk,severe COVID-19
+HIV,increases_risk,severe COVID-19
+diabetes,increases_risk,severe COVID-19
+cancer,increases_risk,severe COVID-19
+obesity,increases_risk,severe COVID-19
+dementia,increases_risk,severe COVID-19
+vaccination,prioritizes,people aged 60 years and over
+vaccination,prioritizes,people with underlying medical problems
+vaccination,includes,primary series vaccination
+vaccination,includes,booster doses
+SARS-CoV-2 virus,circulates,geographically
+local health authority,provides,updated guidelines
+COVID-19 vaccines,saves,lives
+vaccinated individuals,can_spread,SARS-CoV-2 coronavirus

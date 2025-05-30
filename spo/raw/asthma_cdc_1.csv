@@ -1,0 +1,130 @@
+subject,predicate,object
+asthma,is_caused_by,secondhand smoke
+asthma,is_caused_by,dust mites
+asthma,is_caused_by,air pollution
+asthma,is_caused_by,cockroaches
+asthma,is_caused_by,furry pets
+asthma,is_caused_by,mold
+asthma,is_caused_by,infections linked to flu
+asthma,is_caused_by,infections linked to colds
+asthma,is_caused_by,infections linked to RSV
+asthma,is_caused_by,sinus infections
+asthma,is_caused_by,allergies
+asthma,is_caused_by,pollen
+asthma,is_caused_by,chemicals
+asthma,is_caused_by,fragrances
+asthma,is_caused_by,acid reflux
+asthma,is_caused_by,bad weather
+asthma,is_caused_by,thunderstorms
+asthma,is_caused_by,high humidity
+asthma,is_caused_by,cold dry air
+asthma,is_caused_by,allergic foods
+asthma,is_caused_by,allergic medicines
+asthma,is_caused_by,physical exercise
+asthma,is_caused_by,strong emotions
+asthma,is_prevented_by,using allergen-proof mattress and pillowcase covers
+asthma,is_prevented_by,avoiding down-filled pillows
+asthma,is_prevented_by,weekly washing and drying bedding
+asthma,is_prevented_by,vacuuming with HEPA filter
+asthma,is_prevented_by,keeping low humidity levels
+asthma,is_prevented_by,controlling pests
+asthma,is_prevented_by,removing water and food sources
+asthma,is_prevented_by,cleaning dishes and spills
+asthma,is_prevented_by,storing food in airtight containers
+asthma,is_prevented_by,sealing cracks in homes
+asthma,is_prevented_by,avoiding sprays and foggers
+asthma,is_prevented_by,keeping pets out of bedrooms
+asthma,is_prevented_by,washing furry pets
+asthma,is_prevented_by,using air cleaner with HEPA filter
+asthma,is_prevented_by,getting rid of mold
+asthma,is_prevented_by,drying damp items within 24-48 hours
+asthma,is_prevented_by,fixing water leaks
+asthma,is_prevented_by,replacing moldy ceiling tiles and carpet
+asthma,is_prevented_by,using air conditioner or dehumidifier
+asthma,is_prevented_by,scrubbing mold off hard surfaces
+asthma,is_prevented_by,running bathroom exhaust fan
+asthma,occurs_with,infections linked to flu
+asthma,occurs_with,infections linked to colds
+asthma,occurs_with,infections linked to RSV
+asthma,occurs_with,sinus infections
+asthma,occurs_with,allergies
+asthma,occurs_with,pollen
+asthma,occurs_with,chemicals
+asthma,occurs_with,fragrances
+asthma,occurs_with,acid reflux
+asthma,occurs_with,bad weather
+asthma,occurs_with,thunderstorms
+asthma,occurs_with,high humidity
+asthma,occurs_with,cold dry air
+asthma,occurs_with,allergic foods
+asthma,occurs_with,allergic medicines
+asthma,occurs_with,physical exercise
+asthma,occurs_with,strong emotions
+asthma,leads_to_complication,asthma attack
+asthma,is_treated_by,avoiding triggers
+asthma,is_treated_by,using air cleaner with HEPA filter
+asthma,is_treated_by,using allergen-proof mattress and pillowcase covers
+asthma,is_treated_by,controlling indoor humidity
+asthma,is_treated_by,managing pests
+asthma,is_treated_by,removing mold
+asthma,is_treated_by,medications for allergic reactions
+asthma,is_treated_by,preventing infections
+asthma,associated_with,allergic reactions
+asthma,associated_with,respiratory infections
+asthma,associated_with,air quality
+asthma,associated_with,indoor humidity
+asthma,associated_with,home environment
+asthma,has_risk_factor,exposure to secondhand smoke
+asthma,has_risk_factor,high indoor humidity
+asthma,has_risk_factor,presence of dust mites
+asthma,has_risk_factor,air pollution exposure
+asthma,has_risk_factor,cockroach infestation
+asthma,has_risk_factor,pet allergy
+asthma,has_risk_factor,mold growth
+asthma,has_risk_factor,respiratory infections
+asthma,has_risk_factor,allergies
+asthma,has_risk_factor,poor air quality
+asthma,has_symptom,asthma attack
+asthma,has_symptom,wheezing
+asthma,has_symptom,coughing
+asthma,has_symptom,shortness of breath
+asthma,has_symptom,chest tightness
+asthma,is_diagnosed_by,medical history evaluation
+asthma,is_diagnosed_by,physical examination
+asthma,is_diagnosed_by,lung function tests
+asthma,is_diagnosed_by,allergy testing
+asthma,is_diagnosed_by,chest X-ray
+asthma,is_diagnosed_by,spirometry
+asthma,treats,asthma attack
+medications,treats,asthma
+avoiding triggers,treats,asthma
+air cleaner with HEPA filter,treats,asthma
+allergen-proof mattress and pillowcase covers,treats,asthma
+controlling indoor humidity,treats,asthma
+managing pests,treats,asthma
+removing mold,treats,asthma
+medications for allergic reactions,treats,asthma
+preventing infections,treats,asthma
+secondhand smoke,causes,asthma attack
+dust mites,causes,asthma attack
+air pollution,causes,asthma attack
+cockroaches,causes,asthma attack
+furry pets,causes,asthma attack
+mold,causes,asthma attack
+infections linked to flu,causes,asthma attack
+infections linked to colds,causes,asthma attack
+infections linked to RSV,causes,asthma attack
+sinus infections,causes,asthma attack
+allergies,causes,asthma attack
+pollen,causes,asthma attack
+chemicals,causes,asthma attack
+fragrances,causes,asthma attack
+acid reflux,causes,asthma attack
+bad weather,causes,asthma attack
+thunderstorms,causes,asthma attack
+high humidity,causes,asthma attack
+cold dry air,causes,asthma attack
+allergic foods,causes,asthma attack
+allergic medicines,causes,asthma attack
+physical exercise,causes,asthma attack
+strong emotions,causes,asthma attack

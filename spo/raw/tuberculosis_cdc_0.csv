@@ -1,0 +1,52 @@
+subject,predicate,object
+Tuberculosis,is_caused_by,Mycobacterium tuberculosis
+Tuberculosis,is_caused_by,Other mycobacteria
+Tuberculosis,occurs_with,Mycobacterium bovis
+Tuberculosis,affects,lungs
+Tuberculosis,affects,brain
+Tuberculosis,affects,kidneys
+Tuberculosis,affects,spine
+Tuberculosis,leads_to_complication,active TB disease
+Tuberculosis,leads_to_complication,inactive TB
+Inactive TB,is_treated_by,treatments
+Active TB disease,is_treated_by,medicine
+Tuberculosis,has_symptom,cough that lasts three weeks or longer
+Tuberculosis,has_symptom,Chest pain
+Tuberculosis,has_symptom,Coughing up blood or sputum
+Tuberculosis,has_symptom,Weakness or fatigue
+Tuberculosis,has_symptom,Weight loss
+Tuberculosis,has_symptom,Loss of appetite
+Tuberculosis,has_symptom,Chills
+Tuberculosis,has_symptom,Fever
+Tuberculosis,has_symptom,Night sweats
+Inactive TB,has_risk_factor,weaker immune system
+Inactive TB,has_risk_factor,diabetes
+Inactive TB,has_risk_factor,cancer
+Inactive TB,has_risk_factor,HIV
+Tuberculosis,has_risk_factor,birth in countries where TB is common
+Tuberculosis,has_risk_factor,frequent travel to countries where TB is common
+Tuberculosis,has_risk_factor,living in large group settings
+Tuberculosis,has_risk_factor,recent contact with someone with active TB disease
+Tuberculosis,is_prevented_by,treatments for inactive TB
+Tuberculosis,is_diagnosed_by,TB blood test
+Tuberculosis,is_diagnosed_by,TB skin test
+Tuberculosis,is_diagnosed_by,chest x-ray
+Tuberculosis,is_diagnosed_by,sputum test
+Active TB disease,leads_to_complication,fatal outcome
+Inactive TB,leads_to_complication,active TB disease
+Tuberculosis,spreads_through,air
+Tuberculosis,spreads_through,coughing
+Tuberculosis,spreads_through,speaking
+Tuberculosis,spreads_through,singing
+Tuberculosis,associated_with,BCG vaccine
+BCG vaccine,prevents,severe forms of active TB disease
+BCG vaccine,prevents,TB meningitis
+Tuberculosis,is_treated_by,finishing all prescribed medicine
+Health care provider,recommends,TB blood test
+Health care provider,performs,chest x-ray
+Health care provider,performs,sputum test
+TB blood test,measures,immune system reaction to TB germs
+TB skin test,has_risk_factor,false positive reaction with BCG vaccine
+Inactive TB,has_risk_factor,not treated properly
+Active TB disease,has_risk_factor,not treated properly
+Tuberculosis,has_risk_factor,working in high-risk settings

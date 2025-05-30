@@ -1,0 +1,13 @@
+subject,predicate,object
+Pneumonia,has_risk_factor,age 65 years or older
+Pneumonia,has_risk_factor,age 80 years or older
+Pneumonia,has_risk_factor,age younger than 5 years old
+Pneumonia,has_risk_factor,age 1 year old
+Pneumonia,has_risk_factor,Chronic heart disease
+Pneumonia,has_risk_factor,Chronic liver disease
+Pneumonia,has_risk_factor,Chronic lung disease
+Pneumonia,has_risk_factor,Diabetes
+Pneumonia,has_risk_factor,weakened immune system
+Pneumonia,has_risk_factor,being around sick people
+Pneumonia,has_risk_factor,excessive alcohol drinking
+Pneumonia,has_risk_factor,smoking cigarettes

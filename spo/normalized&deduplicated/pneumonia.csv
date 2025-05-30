@@ -1,0 +1,329 @@
+subject,predicate,object
+pneumonia,is_caused_by,bacteria
+pneumonia,is_caused_by,fungi
+pneumonia,is_caused_by,parasites
+pneumonia,is_caused_by,viruses
+pneumonia,has_symptom,chest pain when breathing or coughing
+pneumonia,has_symptom,altered mental status
+pneumonia,has_symptom,cough
+pneumonia,has_symptom,fatigue
+pneumonia,has_symptom,fever or chills
+pneumonia,has_symptom,nausea
+pneumonia,has_symptom,vomiting
+pneumonia,has_symptom,diarrhea
+pneumonia,has_symptom,shortness of breath
+pneumonia,has_risk_factor,age
+pneumonia,has_risk_factor,other health conditions
+pneumonia,has_risk_factor,certain behaviors
+community-acquired pneumonia,is_caused_by,mycoplasma pneumoniae infection
+community-acquired pneumonia,is_caused_by,pneumococcal disease
+pneumonia,is_caused_by,chlamydia pneumoniae infection
+pneumonia,is_caused_by,haemophilus influenzae disease
+pneumonia,is_caused_by,legionella infection
+pneumonia,is_caused_by,pertussis
+pneumonia,is_caused_by,psittacosis
+pneumonia,is_caused_by,covid-19
+pneumonia,is_caused_by,human metapneumovirus (hmpv) infection
+pneumonia,is_caused_by,human parainfluenza virus (hpiv) infection
+pneumonia,is_caused_by,influenza (flu)
+pneumonia,is_caused_by,respiratory syncytial virus (rsv) infection
+pneumonia,is_caused_by,rhinovirus infection
+pneumonia,is_caused_by,adenovirus infection
+pneumonia,is_caused_by,chickenpox
+pneumonia,is_caused_by,measles
+pneumonia,is_prevented_by,immunizations
+pneumonia,is_prevented_by,healthy living practices
+healthcare-acquired pneumonia,occurs_with,healthcare setting stay
+ventilator-associated pneumonia,occurs_with,ventilator use
+pneumonia,leads_to_complication,unknown cause
+pneumonia,has_risk_factor,age 65 years or older
+pneumonia,has_risk_factor,age 80 years or older
+pneumonia,has_risk_factor,age younger than 5 years old
+pneumonia,has_risk_factor,age 1 year old
+pneumonia,has_risk_factor,chronic heart disease
+pneumonia,has_risk_factor,chronic liver disease
+pneumonia,has_risk_factor,chronic lung disease
+pneumonia,has_risk_factor,diabetes
+pneumonia,has_risk_factor,weakened immune system
+pneumonia,has_risk_factor,being around sick people
+pneumonia,has_risk_factor,excessive alcohol drinking
+pneumonia,has_risk_factor,smoking cigarettes
+pneumonia,is_prevented_by,vaccination and immunization
+vaccination and immunization,treats,haemophilus influenzae type b (hib)
+vaccination and immunization,treats,pertussis (whooping cough)
+vaccination and immunization,treats,pneumococcal
+vaccination and immunization,treats,covid-19
+vaccination and immunization,treats,influenza (flu)
+vaccination and immunization,treats,measles
+vaccination and immunization,treats,respiratory syncytial virus (rsv)
+vaccination and immunization,treats,varicella (chickenpox)
+healthy living practices,includes,avoiding sick people
+healthy living practices,includes,hand washing
+healthy living practices,includes,cleaning and disinfecting surfaces
+healthy living practices,includes,coughing or sneezing into a tissue or elbow
+healthy living practices,includes,limited contact with cigarette smoke
+healthy living practices,includes,quitting smoking
+healthy living practices,includes,managing chronic medical conditions
+asthma,is_a,chronic medical condition
+managing chronic medical conditions,includes,asthma care
+pneumonia,is_caused_by,bacterial infections
+pneumonia,is_caused_by,viral infections
+bacterial infections,includes,haemophilus influenzae type b (hib)
+bacterial infections,includes,pertussis (whooping cough)
+bacterial infections,includes,pneumococcal
+viral infections,includes,covid-19
+viral infections,includes,influenza (flu)
+viral infections,includes,measles
+viral infections,includes,respiratory syncytial virus (rsv)
+viral infections,includes,varicella (chickenpox)
+pneumonia,has_symptom,cough with mucus
+pneumonia,has_symptom,fever
+pneumonia,has_symptom,chills
+pneumonia,has_symptom,trouble breathing
+pneumonia,is_diagnosed_by,review of medical history
+pneumonia,is_diagnosed_by,physical exam
+pneumonia,is_diagnosed_by,chest x-ray
+pneumonia,is_treated_by,antibiotic medicines
+pneumonia,is_treated_by,viral medicines
+pneumonia,is_treated_by,fungal medicines
+pneumonia,is_treated_by,intravenous antibiotics
+pneumonia,is_treated_by,oxygen therapy
+pneumonia,is_prevented_by,vaccines
+pneumonia,is_prevented_by,good hygiene
+pneumonia,is_prevented_by,heart-healthy living
+pneumonia,leads_to_complication,severe pneumonia
+severe pneumonia,leads_to_complication,hospitalization
+pneumonia,associated_with,age
+pneumonia,associated_with,overall health
+pneumonia,associated_with,type of infection
+pneumonia,has_symptom,cough with or without mucus
+pneumonia,has_symptom,low oxygen levels in blood
+pneumonia,has_symptom,headache
+pneumonia,has_symptom,muscle pain
+pneumonia,has_symptom,extreme tiredness
+pneumonia,has_risk_factor,young children
+pneumonia,has_risk_factor,older adults
+pneumonia,has_risk_factor,serious health conditions
+pneumonia,leads_to_complication,life-threatening complications
+older adults with pneumonia,has_symptom,lower-than-normal temperature
+older adults with pneumonia,has_symptom,weakness
+older adults with pneumonia,has_symptom,sudden confusion
+babies with pneumonia,has_symptom,vomiting
+babies with pneumonia,has_symptom,fever
+babies with pneumonia,has_symptom,cough
+babies with pneumonia,has_symptom,restlessness
+babies with pneumonia,has_symptom,tiredness and lack of energy
+babies with pneumonia,has_symptom,bluish tone to skin and lips
+babies with pneumonia,has_symptom,grunting
+babies with pneumonia,has_symptom,pulling inward of intercostal muscles when breathing
+babies with pneumonia,has_symptom,rapid breathing
+babies with pneumonia,has_symptom,widening of nostrils with each breath
+pneumonia,has_risk_factor,environment
+pneumonia,has_risk_factor,lifestyle habits
+pneumonia,has_risk_factor,other medical conditions
+bacteria,is_caused_by,streptococcus pneumoniae
+bacteria,is_caused_by,mycoplasma pneumoniae
+bacteria,is_caused_by,legionella pneumophila
+viruses,is_caused_by,influenza virus
+viruses,is_caused_by,rhinovirus
+viruses,is_caused_by,respiratory syncytial virus (rsv)
+viruses,is_caused_by,sars-cov-2
+fungi,is_caused_by,pneumocystis jirovecii
+pneumonia,leads_to_complication,inflammation of air sacs
+inflammation of air sacs,leads_to_complication,fluid and pus in air sacs
+pneumonia,has_symptom,fluid and pus in air sacs
+pneumonia,is_treated_by,vaccines
+age,has_risk_factor,children 2 years old or younger
+age,has_risk_factor,older adults 65 or older
+environment,has_risk_factor,crowded places
+environment,has_risk_factor,air pollution
+environment,has_risk_factor,toxic fumes
+lifestyle habits,has_risk_factor,smoking cigarettes
+lifestyle habits,has_risk_factor,drug or alcohol use
+other medical conditions,has_risk_factor,brain disorders
+other medical conditions,has_risk_factor,weakened immune system
+other medical conditions,has_risk_factor,pregnancy
+other medical conditions,has_risk_factor,hiv/aids
+other medical conditions,has_risk_factor,organ or bone marrow transplant
+other medical conditions,has_risk_factor,chemotherapy
+other medical conditions,has_risk_factor,long-term steroid use
+other medical conditions,has_risk_factor,critical diseases
+other medical conditions,has_risk_factor,hospital-acquired pneumonia
+other medical conditions,has_risk_factor,ventilator-associated pneumonia
+lung diseases,has_risk_factor,asthma
+lung diseases,has_risk_factor,bronchiectasis
+lung diseases,has_risk_factor,cystic fibrosis
+lung diseases,has_risk_factor,copd
+other serious conditions,has_risk_factor,malnutrition
+other serious conditions,has_risk_factor,diabetes
+other serious conditions,has_risk_factor,heart failure
+other serious conditions,has_risk_factor,sickle cell disease
+other serious conditions,has_risk_factor,liver disease
+other serious conditions,has_risk_factor,kidney disease
+pneumonia,occurs_with,atypical pneumonia
+pneumonia,occurs_with,legionnaires’ disease
+pneumonia,occurs_with,walking pneumonia
+pneumonia,associated_with,weakened immune system
+pneumonia,associated_with,hospitalization
+pneumonia,associated_with,ventilator use
+pneumonia,is_diagnosed_by,medical history
+pneumonia,is_diagnosed_by,diagnostic tests
+pneumonia,is_diagnosed_by,blood tests
+pneumonia,is_diagnosed_by,pulse oximetry
+pneumonia,is_diagnosed_by,blood gas test
+pneumonia,is_diagnosed_by,sputum test
+pneumonia,is_diagnosed_by,blood culture test
+pneumonia,is_diagnosed_by,polymerase chain reaction (pcr) test
+pneumonia,is_diagnosed_by,bronchoscopy
+pneumonia,is_diagnosed_by,chest computed tomography (ct) scan
+pneumonia,is_diagnosed_by,pleural fluid culture
+pneumonia,has_risk_factor,exposure to sick people
+pneumonia,has_risk_factor,smoking
+pneumonia,has_risk_factor,flu or pneumonia vaccinations
+pneumonia,has_risk_factor,past medical conditions
+pneumonia,has_risk_factor,recent travel
+pneumonia,has_risk_factor,exposure to birds and animals
+pneumonia,leads_to_complication,lung abscesses
+pneumonia,leads_to_complication,pleural disorders
+pneumonia,is_caused_by,bacterial infection
+pneumonia,is_caused_by,germ infection
+pneumonia,is_treated_by,bronchoscopy
+pneumonia,is_treated_by,thoracentesis
+pneumonia,occurs_with,immune system response
+pneumonia,associated_with,oxygen levels in blood
+pneumonia,associated_with,arterial blood gas test
+pneumonia,associated_with,pulmonary inflammation
+pneumonia,associated_with,pleural space fluid
+pneumonia,associated_with,lung tissue analysis
+pneumonia,associated_with,airway examination
+pneumonia,is_prevented_by,quitting smoking
+pneumonia,is_prevented_by,keeping immune system strong
+pneumonia,is_caused_by,pneumococcus bacteria
+pneumonia,is_caused_by,flu virus
+pneumococcus vaccines,is_prevented_by,vaccination
+pneumococcus vaccines,associated_with,adults age 65 or older
+pneumococcus vaccines,associated_with,children age 2 or younger
+pneumococcus vaccines,associated_with,people with chronic diseases
+pneumococcus vaccines,associated_with,people with weak immune systems
+pneumococcus vaccines,associated_with,smokers
+flu vaccine,is_prevented_by,yearly vaccination
+flu vaccine,associated_with,flu season
+hib vaccine,is_prevented_by,vaccination
+hib vaccine,associated_with,children under 5 years old
+hib vaccine,causes,meningitis
+pneumonia,leads_to_complication,serious complications
+pneumonia,leads_to_complication,milder infections
+pneumonia,leads_to_complication,long-lasting pneumonia
+smoking,is_risk_factor,impaired lung function
+hand washing,is_prevented_by,killing germs
+immune system,has_risk_factor,weakened state
+healthy eating,is_prevented_by,strong immune system
+physical activity,is_prevented_by,strong immune system
+swallowing problems,leads_to_complication,food aspiration
+swallowing problems,leads_to_complication,saliva aspiration
+antibiotics,treats,bacteria growth
+surgery,is_prevented_by,preoperative fasting
+pneumonia,is_treated_by,antibiotics
+pneumonia,is_treated_by,antiviral medicine
+pneumonia,is_treated_by,antifungal medicines
+pneumonia,is_treated_by,over-the-counter medicines
+pneumonia,is_treated_by,ventilator
+pneumonia,is_treated_by,intravenous fluids
+pneumonia,is_treated_by,surgery
+pneumonia,has_risk_factor,serious condition
+pneumonia,leads_to_complication,serious infection
+pneumonia,occurs_with,bacterial infection
+pneumonia,occurs_with,viral infection
+pneumonia,occurs_with,fungal infection
+antibiotics,treats,bacterial pneumonia
+antiviral medicine,treats,viral pneumonia
+antifungal medicines,treats,fungal pneumonia
+over-the-counter medicines,treats,fever
+over-the-counter medicines,treats,muscle pain
+oxygen therapy,treats,low oxygen levels
+ventilator,treats,respiratory failure
+intravenous fluids,treats,dehydration
+surgery,treats,infected lung tissue
+bacterial pneumonia,is_caused_by,bacteria
+viral pneumonia,is_caused_by,virus
+fungal pneumonia,is_caused_by,fungus
+pneumonia,has_symptom,tiredness
+pneumonia,leads_to_complication,acute respiratory distress (ards)
+pneumonia,leads_to_complication,respiratory failure
+pneumonia,leads_to_complication,necrotizing pneumonia
+pneumonia,leads_to_complication,sepsis
+pneumonia,leads_to_complication,lung tissue death
+pneumonia,leads_to_complication,heart damage
+pneumonia,leads_to_complication,kidney damage
+pneumonia,leads_to_complication,liver damage
+pneumonia,leads_to_complication,depression
+pneumonia,leads_to_complication,worsening heart diseases
+pneumonia,leads_to_complication,worsening blood vessel diseases
+pneumonia,is_treated_by,pulmonary rehabilitation
+pneumonia,is_treated_by,physical therapy
+pneumonia,is_prevented_by,covering nose and mouth while coughing or sneezing
+pneumonia,is_prevented_by,limiting contact with others
+pneumonia,is_prevented_by,frequent hand washing
+pneumonia,is_prevented_by,avoiding secondhand smoke
+pneumonia,is_prevented_by,avoiding alcohol and illegal drugs
+pneumonia,has_risk_factor,not following treatment plan
+pneumonia,has_risk_factor,untreated pneumonia
+pneumonia,has_risk_factor,alcohol and drug use
+pneumonia,associated_with,antibiotic resistance
+pneumonia,treats,antibiotics
+antibiotics,treats,pneumonia
+bacterial infection,causes,pneumonia
+untreated pneumonia,causes,complications
+smoking,causes,worsening pneumonia
+alcohol and drug use,causes,weakened immune system
+weakened immune system,causes,pneumonia complications
+not following treatment plan,causes,antibiotic resistance
+not following treatment plan,causes,pneumonia recurrence
+pneumonia recurrence,associated_with,pneumonia
+pneumonia,has_risk_factor,age under 5 years
+pneumonia,has_risk_factor,adults over the age of 65
+pneumonia,has_risk_factor,preexisting health problems
+pneumonia,leads_to_complication,life-threatening illness
+pneumonia,leads_to_complication,death
+pneumonia,occurs_with,alveoli filled with pus and fluid
+pneumonia,has_symptom,sweating and shaking chills
+pneumonia,has_symptom,chest pain
+pneumonia,has_symptom,confusion
+pneumonia,is_treated_by,amoxicillin dispersible tablets
+pneumonia,is_treated_by,oral antibiotics
+pneumonia,is_treated_by,rest
+pneumonia,is_treated_by,hydration
+pneumonia,is_diagnosed_by,health centre diagnosis
+pneumonia,is_diagnosed_by,community health workers
+pneumonia,is_prevented_by,immunization against hib
+pneumonia,is_prevented_by,immunization against pneumococcus
+pneumonia,is_prevented_by,immunization against measles
+pneumonia,is_prevented_by,immunization against influenza
+pneumonia,is_prevented_by,immunization against whooping cough (pertussis)
+pneumonia,is_prevented_by,hand washing
+pneumonia,is_prevented_by,reducing indoor air pollution
+pneumonia,is_prevented_by,stop smoking
+pneumonia,is_prevented_by,healthy diet
+pneumonia,is_prevented_by,regular exercise
+pneumonia,is_prevented_by,exclusive breastfeeding
+amoxicillin dispersible tablets,treats,pneumonia
+oral antibiotics,treats,pneumonia
+rest,treats,pneumonia
+hydration,treats,pneumonia
+vaccines,prevents,pneumonia
+immunization against hib,prevents,pneumonia
+immunization against pneumococcus,prevents,pneumonia
+immunization against measles,prevents,pneumonia
+immunization against influenza,prevents,pneumonia
+immunization against whooping cough (pertussis),prevents,pneumonia
+hand washing,prevents,pneumonia
+good hygiene,prevents,pneumonia
+reducing indoor air pollution,prevents,pneumonia
+stop smoking,prevents,pneumonia
+healthy diet,prevents,pneumonia
+regular exercise,prevents,pneumonia
+exclusive breastfeeding,prevents,pneumonia
+pneumonia,associated_with,alveoli filled with pus and fluid
+pneumonia,associated_with,severe cases requiring hospitalization
+pneumonia,associated_with,community level diagnosis and treatment
+pneumonia,associated_with,trained community health workers

@@ -1,0 +1,32 @@
+subject,predicate,object
+Asthma,has_symptom,Wheezing
+Asthma,has_symptom,Coughing
+Asthma,has_symptom,Shortness of breath
+Asthma,has_symptom,Chest tightness
+Asthma,is_caused_by,viral infections
+Asthma,is_caused_by,exercise
+Asthma,is_caused_by,allergies
+Asthma,is_caused_by,cold air
+Asthma,is_caused_by,breathing too fast from laughing or crying
+Asthma,occurs_with,viral infections
+Asthma,occurs_with,exercise
+Asthma,occurs_with,allergies
+Asthma,occurs_with,cold air
+Asthma,occurs_with,breathing too fast from laughing or crying
+Asthma,is_treated_by,asthma action plan
+Asthma,is_treated_by,reliever medicine
+Asthma,leads_to_complication,trouble with usual activities
+Asthma,has_risk_factor,night time
+Asthma,has_risk_factor,morning time
+Asthma,has_risk_factor,young age
+Asthma,has_risk_factor,older age
+Asthma,associated_with,chronic condition
+Asthma,associated_with,lung function
+Asthma,associated_with,asthma action plan
+Reliever medicine,treats,Asthma
+Asthma action plan,treats,Asthma
+Viral infections,causes,Asthma
+Exercise,causes,Asthma
+Allergies,causes,Asthma
+Cold air,causes,Asthma
+Breathing too fast from laughing or crying,causes,Asthma

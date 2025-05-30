@@ -1,0 +1,38 @@
+subject,predicate,object
+Pneumonia,is_caused_by,bacteria
+Pneumonia,is_caused_by,fungi
+Pneumonia,is_caused_by,parasites
+Pneumonia,is_caused_by,viruses
+Pneumonia,has_symptom,Chest pain when breathing or coughing
+Pneumonia,has_symptom,Altered mental status
+Pneumonia,has_symptom,Cough
+Pneumonia,has_symptom,Fatigue
+Pneumonia,has_symptom,Fever or chills
+Pneumonia,has_symptom,Nausea
+Pneumonia,has_symptom,vomiting
+Pneumonia,has_symptom,diarrhea
+Pneumonia,has_symptom,Shortness of breath
+Pneumonia,has_risk_factor,age
+Pneumonia,has_risk_factor,other health conditions
+Pneumonia,has_risk_factor,certain behaviors
+Community-acquired pneumonia,is_caused_by,Mycoplasma pneumoniae infection
+Community-acquired pneumonia,is_caused_by,Pneumococcal disease
+Pneumonia,is_caused_by,Chlamydia pneumoniae infection
+Pneumonia,is_caused_by,Haemophilus influenzae disease
+Pneumonia,is_caused_by,Legionella infection
+Pneumonia,is_caused_by,Pertussis
+Pneumonia,is_caused_by,Psittacosis
+Pneumonia,is_caused_by,COVID-19
+Pneumonia,is_caused_by,Human metapneumovirus (HMPV) infection
+Pneumonia,is_caused_by,Human parainfluenza virus (HPIV) infection
+Pneumonia,is_caused_by,Influenza (flu)
+Pneumonia,is_caused_by,Respiratory syncytial virus (RSV) infection
+Pneumonia,is_caused_by,Rhinovirus infection
+Pneumonia,is_caused_by,Adenovirus infection
+Pneumonia,is_caused_by,Chickenpox
+Pneumonia,is_caused_by,Measles
+Pneumonia,is_prevented_by,immunizations
+Pneumonia,is_prevented_by,healthy living practices
+Healthcare-acquired pneumonia,occurs_with,healthcare setting stay
+Ventilator-associated pneumonia,occurs_with,ventilator use
+Pneumonia,leads_to_complication,unknown cause

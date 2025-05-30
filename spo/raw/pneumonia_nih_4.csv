@@ -1,0 +1,30 @@
+subject,predicate,object
+Pneumonia,is_prevented_by,Vaccines
+Pneumonia,is_prevented_by,Good hygiene
+Pneumonia,is_prevented_by,Quitting smoking
+Pneumonia,is_prevented_by,Keeping immune system strong
+Pneumonia,is_caused_by,Pneumococcus bacteria
+Pneumonia,is_caused_by,Flu virus
+Pneumococcus vaccines,is_prevented_by,Vaccination
+Pneumococcus vaccines,associated_with,Adults age 65 or older
+Pneumococcus vaccines,associated_with,Children age 2 or younger
+Pneumococcus vaccines,associated_with,People with chronic diseases
+Pneumococcus vaccines,associated_with,People with weak immune systems
+Pneumococcus vaccines,associated_with,Smokers
+Flu vaccine,is_prevented_by,Yearly vaccination
+Flu vaccine,associated_with,Flu season
+Hib vaccine,is_prevented_by,Vaccination
+Hib vaccine,associated_with,Children under 5 years old
+Hib vaccine,causes,Meningitis
+Pneumonia,leads_to_complication,Serious complications
+Pneumonia,leads_to_complication,Milder infections
+Pneumonia,leads_to_complication,Long-lasting pneumonia
+Smoking,is_risk_factor,Impaired lung function
+Hand washing,is_prevented_by,Killing germs
+Immune system,has_risk_factor,Weakened state
+Healthy eating,is_prevented_by,Strong immune system
+Physical activity,is_prevented_by,Strong immune system
+Swallowing problems,leads_to_complication,Food aspiration
+Swallowing problems,leads_to_complication,Saliva aspiration
+Antibiotics,treats,Bacteria growth
+Surgery,is_prevented_by,Preoperative fasting

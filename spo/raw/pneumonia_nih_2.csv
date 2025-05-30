@@ -1,0 +1,54 @@
+subject,predicate,object
+Pneumonia,is_caused_by,bacteria
+Pneumonia,is_caused_by,viruses
+Pneumonia,is_caused_by,fungi
+Pneumonia,has_risk_factor,age
+Pneumonia,has_risk_factor,environment
+Pneumonia,has_risk_factor,lifestyle habits
+Pneumonia,has_risk_factor,other medical conditions
+Bacteria,is_caused_by,Streptococcus pneumoniae
+Bacteria,is_caused_by,Mycoplasma pneumoniae
+Bacteria,is_caused_by,Legionella pneumophila
+Viruses,is_caused_by,influenza virus
+Viruses,is_caused_by,rhinovirus
+Viruses,is_caused_by,Respiratory syncytial virus (RSV)
+Viruses,is_caused_by,SARS-CoV-2
+Fungi,is_caused_by,Pneumocystis jirovecii
+Pneumonia,leads_to_complication,inflammation of air sacs
+Inflammation of air sacs,leads_to_complication,fluid and pus in air sacs
+Pneumonia,has_symptom,fluid and pus in air sacs
+Pneumonia,is_treated_by,vaccines
+Pneumonia,is_prevented_by,vaccines
+Age,has_risk_factor,children 2 years old or younger
+Age,has_risk_factor,older adults 65 or older
+Environment,has_risk_factor,crowded places
+Environment,has_risk_factor,air pollution
+Environment,has_risk_factor,toxic fumes
+Lifestyle habits,has_risk_factor,smoking cigarettes
+Lifestyle habits,has_risk_factor,drug or alcohol use
+Other medical conditions,has_risk_factor,brain disorders
+Other medical conditions,has_risk_factor,weakened immune system
+Other medical conditions,has_risk_factor,pregnancy
+Other medical conditions,has_risk_factor,HIV/AIDS
+Other medical conditions,has_risk_factor,organ or bone marrow transplant
+Other medical conditions,has_risk_factor,chemotherapy
+Other medical conditions,has_risk_factor,long-term steroid use
+Other medical conditions,has_risk_factor,critical diseases
+Other medical conditions,has_risk_factor,hospital-acquired pneumonia
+Other medical conditions,has_risk_factor,ventilator-associated pneumonia
+Lung diseases,has_risk_factor,asthma
+Lung diseases,has_risk_factor,bronchiectasis
+Lung diseases,has_risk_factor,cystic fibrosis
+Lung diseases,has_risk_factor,COPD
+Other serious conditions,has_risk_factor,malnutrition
+Other serious conditions,has_risk_factor,diabetes
+Other serious conditions,has_risk_factor,heart failure
+Other serious conditions,has_risk_factor,sickle cell disease
+Other serious conditions,has_risk_factor,liver disease
+Other serious conditions,has_risk_factor,kidney disease
+Pneumonia,occurs_with,atypical pneumonia
+Pneumonia,occurs_with,Legionnaires’ disease
+Pneumonia,occurs_with,walking pneumonia
+Pneumonia,associated_with,weakened immune system
+Pneumonia,associated_with,hospitalization
+Pneumonia,associated_with,ventilator use

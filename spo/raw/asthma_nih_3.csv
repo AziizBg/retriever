@@ -1,0 +1,39 @@
+subject,predicate,object
+asthma,is_caused_by,unknown causes
+asthma,is_caused_by,environmental allergens
+asthma,is_caused_by,viral infections affecting breathing
+asthma,is_caused_by,family history
+asthma,has_risk_factor,allergies
+asthma,has_risk_factor,obesity
+asthma,has_risk_factor,race or ethnicity
+asthma,has_risk_factor,sex
+asthma,has_risk_factor,occupational hazards
+asthma,has_risk_factor,climate change
+asthma,leads_to_complication,airway inflammation
+asthma,leads_to_complication,airway hyperresponsiveness
+asthma,leads_to_complication,increased mucus production
+asthma,leads_to_complication,airway narrowing
+asthma,leads_to_complication,thickened airway walls
+asthma,is_prevented_by,avoiding dampness and mold
+asthma,is_prevented_by,avoiding air pollution
+asthma,is_prevented_by,healthy lifestyle
+asthma,is_treated_by,NHLBI-supported research treatments
+asthma,occurs_with,allergic reactions
+asthma,associated_with,genetic factors
+asthma,associated_with,environmental factors
+asthma triggers,includes,indoor allergens
+asthma triggers,includes,outdoor allergens
+asthma triggers,includes,emotional stress
+asthma triggers,includes,physical activity
+asthma triggers,includes,infections
+asthma triggers,includes,certain medicines
+asthma triggers,includes,poor air quality
+asthma,is_diagnosed_by,childhood development
+asthma,is_diagnosed_by,adult-onset diagnosis
+asthma,treats,medications
+asthma,causes,airway obstruction
+asthma,has_symptom,shortness of breath
+asthma,has_symptom,wheezing
+asthma,has_symptom,coughing
+asthma,has_symptom,chest tightness
+asthma,has_symptom,excessive mucus production

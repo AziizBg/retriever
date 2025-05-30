@@ -1,0 +1,33 @@
+subject,predicate,object
+Tuberculosis,is_caused_by,Mycobacterium tuberculosis
+Tuberculosis,has_risk_factor,weakened immune system
+Inactive TB,is_caused_by,Tuberculosis
+Inactive TB,occurs_with,latent TB infection
+Active TB disease,leads_to_complication,death
+Active TB disease,is_caused_by,immune system failure
+Active TB disease,occurs_with,TB germs multiplication
+Tuberculosis,is_treated_by,treatment
+Inactive TB,leads_to_complication,Active TB disease
+Active TB disease,occurs_with,symptoms
+Tuberculosis,spreads_through,air
+Active TB disease,spreads_in,indoor areas
+Active TB disease,spreads_in,poor air circulation environments
+Tuberculosis,does_not_spread_through,handshaking
+Tuberculosis,does_not_spread_through,food sharing
+Tuberculosis,does_not_spread_through,bed linen touching
+Tuberculosis,does_not_spread_through,toilet seat touching
+Tuberculosis,does_not_spread_through,toothbrush sharing
+Tuberculosis,does_not_spread_through,kissing
+TB germs,live_in,body
+TB germs,move_through,blood
+TB germs,settle_in,lungs
+TB germs,spread_to,kidney
+TB germs,spread_to,spine
+TB germs,spread_to,brain
+Inactive TB,has_symptom,no symptoms
+Active TB disease,has_symptom,symptoms
+People with active TB disease,can_spread,TB germs
+People with inactive TB,cannot_spread,TB germs
+TB germs,can_be_fatal,without treatment
+Tuberculosis,has_form,Inactive TB
+Tuberculosis,has_form,Active TB disease

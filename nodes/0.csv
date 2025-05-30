@@ -1,0 +1,436 @@
+node_id,node_attr
+0,asthma
+1,food_allergy
+2,irritant avoidance
+3,sensitizing agents
+4,mental_health_disorders
+5,viral_infections
+6,asthma_trigger
+7,difficult_to_treat_asthma
+8,gastroesophageal_reflux_disease_(gerd)
+9,hyperventilation
+10,coping with stress and anxiety
+11,centers for disease control and prevention
+12,viral infections
+13,secondhand smoke
+14,air_quality_index_(aqi)_changes
+15,bacterial respiratory infections
+16,narrowed airways
+17,irritants
+18,airway_hyperresponsiveness
+19,childhood development assessment
+20,secondhand_smoke_exposure
+21,asthma_action_plan
+22,smoking_relapse
+23,psychological_trauma
+24,harder breathing out
+25,challenge tests
+26,opening windows during cleaning
+27,environmental factors
+28,airway_inflammation
+29,elevated_indoor_humidity
+30,asthma_symptoms
+31,exercise_induced_bronchospasm
+32,daily controller medication
+33,post-traumatic_stress_disorder_(ptsd)
+34,er_visit
+35,physical_activity
+36,pet_grooming
+37,sinusitis
+38,infections linked to flu
+39,age
+40,anxiety
+41,fragrance_sensitivity
+42,fractional exhaled nitric oxide tests
+43,monitoring
+44,occupational_hazards
+45,allergic_conditions
+46,gastroesophageal_reflux_disease
+47,tiredness
+48,moulds
+49,using inhaler correctly
+50,indoor_mold
+51,seasonal_variability
+52,thunderstorm_activity
+53,poor air quality
+54,close contact with sick individuals
+55,alcohol_or_drug_use_disorder
+56,cold dry air
+57,emergency_health_care
+58,mold_removal
+59,non-adherence_to_asthma_action_plan
+60,tobacco_smoke_exposure
+61,medical history evaluation
+62,psychological_stress
+63,allergic_response
+64,dust_mite_infestation
+65,infections linked to colds
+66,carbon_monoxide_(co)_exposure
+67,allergy testing
+68,animal dander
+69,weight management
+70,hypoallergenic_pillows
+71,outdoor_air_pollution
+72,changing treatment plan without consultation
+73,adherence_to_medical_advice
+74,domestic_environment
+75,cold_air
+76,smoking_exposure
+77,exercise
+78,nocturnal triggers
+79,respiratory_infections
+80,frequent_use_of_short-acting_beta2-agonist_(saba)_medicine
+81,electronic nicotine delivery systems
+82,peak_flow_meter
+83,asthma_education
+84,viral_infection
+85,short-acting_beta2-agonist_(saba)_medicine
+86,pet_exclusion_from_bedrooms
+87,family_history_of_allergies
+88,inhaler
+89,airways_in_lungs
+90,smoking cessation therapy
+91,aspirin sensitivity
+92,poor_ventilation
+93,passive_smoking
+94,breathing_too_fast_from_laughing_or_crying
+95,night_time
+96,serious_asthma_attack
+97,fragrances
+98,air_conditioning
+99,rodent_allergens
+100,house_dust_mites
+101,chemical_exposure
+102,sleep_apnea
+103,dust_mite_allergen
+104,sleep hygiene
+105,carpet_replacement
+106,air pollution
+107,regular exercise
+108,environmental_tobacco_smoke
+109,united states
+110,antiallergic_medication
+111,physical activity
+112,asthma action plan
+113,dust mites
+114,bacterial_infection
+115,temperature_extremes
+116,infections linked to rsv
+117,allergic_reaction
+118,genetic factors
+119,lung_function
+120,applying cleaner to cloth or paper towel
+121,indoor_air_pollutants
+122,particulate_matter_(pm)_exposure
+123,cooking_fumes
+124,strong emotions
+125,air_purification
+126,using alcohol-based hand sanitizer
+127,respiratory_syncytial_virus
+128,long-term control medications
+129,respiratory_distress
+130,airway inflammation
+131,allergen exposure
+132,mold_growth
+133,emotional_stress
+134,early morning symptoms
+135,mold_eradication
+136,health_professional
+137,inclement_weather
+138,obesity
+139,anxiety disorder
+140,coronavirus disease 2019
+141,chest ct scan
+142,pollen_allergen
+143,breathlessness
+144,airways in lungs
+145,nhlbi-supported_research_treatments
+146,flare-ups
+147,reliever inhaler
+148,high_humidity
+149,not following cleaning instructions
+150,major depressive disorder
+151,chemicals
+152,corticosteroids
+153,volatile_organic_compounds_(vocs)_exposure
+154,adult-onset diagnosis
+155,ventilation_enhancement
+156,airway wall thickening
+157,language_barriers
+158,blood tests
+159,steroids
+160,thickened_airway_walls
+161,emotional stress
+162,childhood onset
+163,cockroach_allergens
+164,bronchial thermoplasty
+165,airway irritation
+166,avoiding_air_pollution
+167,healthy_lifestyle
+168,childhood
+169,increased nitric oxide levels
+170,nebulizer_treatment
+171,united_states
+172,alcohol_consumption
+173,acid reflux
+174,wheezing
+175,avoiding_dampness_and_mold
+176,allergy control
+177,sulfur_dioxide_(so2)_exposure
+178,controller_medicines
+179,asthma-related_depression
+180,outdoor allergens
+181,cardiovascular health promotion
+182,increased_mucus_production
+183,asthma_onset
+184,secondhand_smoke
+185,allergen_proof_bedding
+186,reliever_medicine
+187,dust_mites
+188,asthma triggers
+189,cockroaches
+190,pet_allergy
+191,pet_dander
+192,low_socioeconomic_status
+193,unmanaged stress and anxiety
+194,mold
+195,depression
+196,poor hand hygiene
+197,smoking_cessation_difficulty
+198,indoor_humidity
+199,sleep disruption
+200,respiratory infections
+201,allergen avoidance
+202,reliever_therapy
+203,environmental_allergens
+204,nhlbiâ€™s learn more breathe better asthma program
+205,asthma_attack
+206,asthma_self-management_difficulties
+207,air_pollution
+208,infections
+209,ventilator
+210,occupational_chemical_exposure
+211,climate_change
+212,following product label instructions
+213,avoidance_of_asthma_triggers
+214,occupational irritants
+215,timely_drying
+216,humidity
+217,hospital_admission
+218,controller_therapy
+219,psychological stress management
+220,asthma_triggers
+221,bad weather
+222,limited_access_to_healthcare
+223,cold air
+224,lung function tests
+225,fungal_growth
+226,climate_change_impacts
+227,preeclampsia
+228,hepa_vacuuming
+229,mental_health_condition
+230,workplace exposure
+231,feather_pillows
+232,family_history_of_respiratory_issues
+233,quick-relief medications
+234,narrowed_airways
+235,not
+236,older_age
+237,medication_allergy
+238,death
+239,young_age
+240,air_quality
+241,increased_ozone_levels
+242,non-adherence_to_treatment
+243,allergic foods
+244,airway_narrowing
+245,asthma attack
+246,urbanization
+247,pollen_count_increases
+248,heating_systems
+249,pest_control
+250,allergic_condition
+251,inhaled corticosteroid therapy
+252,thunderstorms
+253,extreme_weather_events
+254,bronchodilators
+255,race_or_ethnicity
+256,washing hands
+257,nocturnal symptoms
+258,indoor_air_pollution
+259,respiratory_infection
+260,sex
+261,drug_abuse
+262,morning_time
+263,carpeting
+264,influenza vaccination
+265,non-use_of_inhaled_corticosteroids
+266,shortness of breath
+267,past_life-threatening_asthma_attacks
+268,wood_smoke
+269,not stopping medications
+270,poor_air_quality
+271,frequent nocturnal awakenings
+272,inadequate_asthma_education
+273,pediatric_age_group
+274,past_hospitalization_for_asthma
+275,pregnancy complications
+276,airway muscle hypertrophy
+277,dehumidification
+278,emergency_care
+279,down_comforters
+280,regular_bedding_hygiene
+281,nicotine addiction
+282,prematurity
+283,allergic medicines
+284,trigger_avoidance
+285,structural_sealant
+286,bronchial smooth muscle hyperresponsiveness
+287,bronchodilator responsiveness tests
+288,avoiding disinfectants that trigger asthma attacks
+289,airway sensitivity
+290,low birth weight
+291,avoiding triggers
+292,absenteeism
+293,asthma-related_anxiety
+294,outdoor_air_pollutants
+295,low_humidity_control
+296,house dust mites
+297,active_smoking
+298,upholstered_furniture
+299,overweight
+300,viral respiratory infections
+301,chronic_condition
+302,physical examination
+303,1_in_13_americans
+304,peak expiratory flow tests
+305,using fan to blow air outdoors
+306,allergy tests
+307,poor_medication_adherence
+308,allergens
+309,not cleaning frequently touched items
+310,preterm birth
+311,physical exercise
+312,thunderstorm asthma
+313,cockroach_allergen
+314,tobacco_use
+315,allergies
+316,cleaning and disinfecting frequently touched items
+317,sars-cov-2 infection
+318,allergic sensitization
+319,humidity_control
+320,asthma exacerbation
+321,e-cigarette flavorings
+322,avoiding_aerosol_exposure
+323,allergic_reactions
+324,avoiding cleaning product spray into air
+325,1_in_13_people_in_the_united_states
+326,infection_prevention
+327,viral_respiratory_infections
+328,family_history
+329,chest_tightness
+330,work-related asthma
+331,indoor allergens
+332,moisture_control
+333,mold_remediation
+334,pollen
+335,family_history_of_asthma
+336,activity_limitation
+337,integrated_pest_management
+338,furry pets
+339,low_birth_weight
+340,excessive mucus production
+341,oxygen_therapy
+342,cockroach_presence
+343,spirometry
+344,health_literacy_issues
+345,coughing
+346,tobacco smoking
+347,pneumococcal vaccination
+348,food_storage
+349,sinus infections
+350,nitrogen_dioxide_(no2)_exposure
+351,sanitation_practice
+352,air_pollutant
+353,high humidity
+354,taking medications as prescribed
+355,certain medicines
+356,having 30-day medication supply
+357,asthma flare-ups
+358,trouble_with_usual_activities
+359,treatment
+360,asthma_medications
+361,workplace allergen exposure
+362,poor_concentration
+363,nocturnal_coughing
+364,chest x-ray
+365,plumbing_repair
+366,using asthma-triggering disinfectants
+367,peak flow monitoring
+368,panic disorder
+369,harder_to_breathe
+370,swelling_of_airways
+371,lightheadedness
+372,worsened_asthma_symptoms
+373,dyspnea
+374,life-threatening_situation
+375,low_peak_flow_number
+376,tightening_of_airways
+377,mucous_obstruction
+378,medical_attention
+379,airway_edema
+380,bronchoconstriction
+381,asthma symptoms
+382,worsened asthma symptoms
+383,grass_pollen
+384,triggers
+385,feathers
+386,perfume
+387,smoke
+388,tree_pollen
+389,cold
+390,weather_changes
+391,other_conditions
+392,fumes
+393,dust
+394,animal_fur
+395,strong_soaps
+396,using_medicines
+397,allergic asthma
+398,inhaled corticosteroids
+399,allergy immunotherapy
+400,biologic therapies
+401,cataracts
+402,osteoporosis
+403,emergency protocol
+404,medication regimen
+405,using medicines
+406,trigger identification
+407,bronchiectasis
+408,airway infection
+409,adverse_reaction
+410,preventing infections
+411,avoiding_triggers
+412,managing pests
+413,spacer_device
+414,inhaled long-acting bronchodilators
+415,allergic response
+416,rapid heartbeat
+417,tremors
+418,inhaled mast cell stabilizers
+419,exercise-induced asthma
+420,pre-exercise reliever medication
+421,physical exertion
+422,nocturnal asthma
+423,poor symptom management
+424,nocturnal allergen exposure
+425,asthma onset
+426,controlling indoor humidity
+427,physician
+428,air cleaner with hepa filter
+429,leukotriene modifiers
+430,medications for allergic reactions
+431,medications
+432,removing mold
+433,biologic medicines
+434,allergen-proof mattress and pillowcase covers

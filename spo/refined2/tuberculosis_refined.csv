@@ -1,0 +1,314 @@
+subject,predicate,object
+active tb disease,has_symptom,no appetite
+fan in window,is_prevented_by,spreading tb germs
+contact investigation,requires,assessing contacts
+tb contacts,needs,tb testing
+tuberculosis,is_caused_by,bacteria
+exposure in correctional facilities,causes,increased risk of tb germs exposure
+tuberculosis,has_form,latent tb infection
+tb germs,spread_to,kidney
+tb skin test,is_diagnosed_by,health care provider
+health care worker,educates,contacts on tuberculosis exposure
+health care provider,performs,tuberculosis skin test
+tuberculosis,is_prevented_by,treatment for inactive tb
+active tb disease,has_risk_factor,not treated properly
+latent tb infection,is_caused_by,breathing in tb germs
+contact investigation,associated_with,tuberculosis prevention
+tuberculosis,associated_with,bcg vaccine
+tb germs,can_be_fatal,without treatment
+tuberculosis,is_treated_by,finishing all prescribed medicine
+tuberculosis,has_risk_factor,severe kidney disease
+tb prevention,requires,timely treatment
+tuberculosis,occurs_with,exposure in hospitals
+health care worker,educates,contacts on tb exposure
+tuberculosis,is_treated_by,tb medicine
+weakened immune system,causes,tuberculosis
+taking medicines exactly as directed,is_prevented_by,spreading tb germs
+inactive tb,has_risk_factor,diabetes
+tuberculosis,has_risk_factor,weakened immune systems
+contact investigation,requires,identifying contacts
+tb disease of the kidney,has_symptom,blood in the urine
+tuberculosis,spreads_through,coughing
+tuberculosis,has_symptom,weight loss
+tuberculosis,is_prevented_by,tb test
+tuberculosis contacts,needs,tub
+active tb disease,has_symptom,bad cough that lasts 3 weeks or longer
+community safety,associated_with,tb prevention
+tb disease of the lymph nodes,has_symptom,firm red or purple swelling under the skin
+tb contacts,has_risk_factor,exposure to tuberculosis
+contact investigation,requires,managing contacts
+tb vaccine,affects,tb skin test
+active tb disease,is_treated_by,medicine
+tuberculosis,has_risk_factor,weakened immune system
+tuberculosis,spreads_through,air
+tb medicines,treats,active tb disease
+active tb disease,has_symptom,fever
+active tb disease,leads_to_complication,fatal outcome
+tb infection,occurs_with,living in large group settings
+diabetes,causes,tuberculosis
+inactive tb,has_symptom,no symptoms
+active tb disease,leads_to_complication,spread of tb germs
+tuberculosis,is_diagnosed_by,sputum test
+weakened immune systems,causes,increased risk of active tb disease
+tb treatment,prevents,spread of tb germs
+tuberculosis,has_risk_factor,babies and young children
+isoniazid,treats,tuberculosis
+tuberculosis,has_risk_factor,exposure to active tuberculosis disease
+face mask,is_prevented_by,exposure to tb germs
+tb exposure,has_risk_factor,poor air circulation
+tuberculosis,has_risk_factor,previous incorrect tb treatment
+separate bedroom,is_prevented_by,spreading tb germs
+community safety,associated_with,health care provider efforts
+tuberculosis,has_symptom,chills
+health care provider,educates,on tb prevention
+latent tb infection,leads_to_complication,active tb disease
+health care provider,performs,chest x-ray
+tuberculosis,prevents,spread of tuberculosis germs
+tuberculosis,is_diagnosed_by,tb skin test
+tuberculosis,does_not_spread_through,food sharing
+inactive tb,is_prevented_by,treatment
+tobacco use,causes,tuberculosis
+tuberculosis,has_symptom,tb meningitis
+tuberculosis,is_diagnosed_by,tuberculin skin test (tst)
+people with active tb disease,can_spread,tb germs
+exposure in homeless shelters,causes,increased risk of tb germs exposure
+tuberculosis,has_symptom,night sweats
+tuberculosis,is_diagnosed_by,xpert mtb/rif ultra
+health care worker,ensures,confidentiality of patient information
+inactive tb,is_treated_by,tb medicine
+tuberculosis,has_symptom,chest pain
+active tb disease of the lungs or throat,leads_to_complication,spreading tb germs
+tb germs,live_in,body
+tuberculosis,has_risk_factor,medical treatments such as corticosteroids
+health care provider,provides,tuberculosis treatment
+tuberculosis,occurs_with,exposure in large group settings
+active tb disease,has_symptom,pain in the chest
+health care settings,is_prevented_by,infection control plans
+tuberculosis,affects,spine
+tb germs,causes,active tb disease
+tuberculosis,occurs_with,exposure in homeless shelters
+tuberculosis,has_risk_factor,hiv infection
+tuberculosis,affects,brain
+tuberculosis,is_prevented_by,tb treatment
+tuberculosis,is_caused_by,other mycobacteria
+latent tb infection,has_risk_factor,not treated properly
+pyrazinamide,treats,tuberculosis
+health care provider,performs,tuberculosis blood test
+community safety,associated_with,tuberculosis prevention
+tuberculosis,has_risk_factor,tobacco use
+tuberculosis,associated_with,alcohol use disorders
+health care personnel screening,is_prevented_by,exposure to tb
+bacille calmette-guérin (bcg) vaccine,prevents,tuberculosis
+tb blood test,measures,immune system reaction to tb germs
+avoiding close contact,is_prevented_by,spreading tb germs
+health care provider,performs,tb blood test
+tuberculosis,does_not_spread_through,toilet seat touching
+tuberculosis,spreads_through,singing
+exposure in countries where tb is common,causes,increased risk of tb germs exposure
+health care provider,provides,tb treatment
+tuberculosis,occurs_with,exposure in countries where tb is common
+alcohol use disorders,associated_with,tuberculosis
+tuberculosis,has_symptom,prolonged cough
+tuberculosis,has_risk_factor,frequent travel to countries where tb is common
+latent tb infection,has_symptom,no symptoms
+tuberculosis,is_prevented_by,bacille calmette-guérin (bcg) vaccine
+tuberculosis,has_risk_factor,recent tb infection
+tb meningitis,has_symptom,confusion
+tb contacts,needs,tuberculosis testing
+tb skin test,has_risk_factor,false positive reaction with bcg vaccine
+bacille calmette-guérin (bcg),treats,tuberculosis
+health care provider,recommends,tb blood test
+tuberculosis,leads_to_complication,drug-resistant tb
+tb disease,leads_to_complication,spread to others
+latent tb infection,has_risk_factor,weaker immune system
+health care worker,performs,contact tracing
+active tb disease,is_prevented_by,wearing a mask
+active tb disease,has_symptom,coughing up blood or sputum
+tb outbreak,prevents,through tuberculosis contact tracing
+tuberculosis,has_form,inactive tb
+bacille calmette-guérin (bcg),occurs_with,countries where tb is common
+tuberculosis,does_not_spread_through,toothbrush sharing
+active tb disease,occurs_with,inactive tb
+tuberculosis,does_not_spread_through,bed linen touching
+tb blood test,associated_with,interferon-gamma release assays (igras)
+tuberculosis,leads_to_complication,inactive tb
+infection control plans,associated_with,environmental controls
+tuberculosis,has_risk_factor,living in large group settings
+inactive tb,occurs_with,latent tb infection
+tb germs,move_through,blood
+tb outbreak,prevents,through contact tracing
+health care provider,educates,on tb transmission
+weakened immune systems,has_risk_factor,developing active tb disease
+tuberculosis,treats,active tuberculosis disease
+tuberculosis,has_risk_factor,elderly age
+tuberculosis,does_not_spread_through,kissing
+latent tb infection,has_risk_factor,developing active tb disease
+health care provider,is_diagnosed_by,chest x-ray
+tuberculosis,is_caused_by,mycobacterium tuberculosis
+clinic appointments,is_diagnosed_by,health care provider
+health care worker,educates,contacts on tuberculosis testing
+active tb disease,has_symptom,weakness or fatigue
+inactive tb,is_treated_by,treatment to prevent active tb disease
+tuberculosis,has_symptom,cough that lasts three weeks or longer
+tb outbreak,prevents,through contact investigation
+air vents in special room,is_prevented_by,spreading tb germs
+education,is_prevented_by,exposure to tb
+drug-resistant tb,leads_to_complication,tuberculosis
+tuberculosis,has_risk_factor,illegal drug injection
+tuberculosis,has_form,active tb disease
+health care worker,performs,contact investigation
+tuberculosis,has_risk_factor,hiv
+contact tracing,is_used_for,identifying exposed people
+tb test,is_prevented_by,health screening requirements
+tuberculosis,has_symptom,loss of appetite
+tb germs,spreads_in,places with poor air circulation
+tuberculosis,has_symptom,fatigue
+tuberculosis,has_risk_factor,head and neck cancer
+tuberculosis,has_risk_factor,young age
+tuberculosis,leads_to_complication,active tb disease
+active tb disease,occurs_with,tb germs multiplication
+active tb disease,is_prevented_by,treatment for inactive tb
+exposure in large group settings,causes,increased risk of tb germs exposure
+bacille calmette-guérin (bcg),has_risk_factor,people born outside the united states
+tb exposure,has_risk_factor,indoor areas
+tb prevention,requires,tuberculosis treatment
+tb infection,occurs_with,travel to tb common countries
+tb germs,causes,latent tb infection
+active tb disease,spreads_in,indoor areas
+bacille calmette-guérin (bcg),is_treated_by,infants and small children
+tuberculosis,has_risk_factor,low body weight
+tuberculosis,is_diagnosed_by,newer antigen-based skin tests (tbst)
+contact investigation,is_used_for,limiting the spread of tb
+tuberculosis,is_diagnosed_by,interferon gamma release assay (igra)
+health care provider,educates,on tuberculosis transmission
+tuberculosis,occurs_with,mycobacterium bovis
+tuberculosis,is_diagnosed_by,tb blood tests
+active tb disease,is_treated_by,taking medicine
+tb blood test,is_preferred_for,people with tb vaccine
+covering mouth with tissue,is_prevented_by,spreading tb germs
+tb germs,spread_to,brain
+latent tb infection,is_caused_by,tuberculosis
+latent tb infection,has_risk_factor,cancer
+health care provider,performs,sputum test
+tuberculosis,affects,lungs
+tuberculosis,leads_to_complication,severe forms of active tb disease
+health care provider,performs,diagnosis of tuberculosis
+active tb disease of the lungs or throat,is_treated_by,medicines
+active tb disease,has_risk_factor,weakened immune system
+tuberculosis contacts,has_risk_factor,exposure to active tuberculosis disease
+tuberculosis,is_diagnosed_by,tb blood test
+active tb disease,has_risk_factor,latent tb infection
+tuberculosis,has_symptom,fever
+tuberculosis,has_risk_factor,birth in countries where tb is common
+tb disease of the larynx,has_symptom,hoarseness
+inactive tb,leads_to_complication,active tb disease
+tuberculosis,associated_with,diabetes
+tuberculosis,is_treated_by,rifampicin
+health care provider,performs,tb skin test
+tuberculosis,leads_to_complication,spread to others
+active tb disease,has_symptom,weight loss
+contact investigation,associated_with,contact tracing
+hiv,associated_with,tuberculosis
+community safety,associated_with,health care provider tuberculosis efforts
+tuberculosis,has_risk_factor,working in high-risk settings
+facility risk assessments,is_prevented_by,exposure to tb
+tb outbreak,prevents,through tuberculosis contact investigation
+tb contacts,needs,tb treatment
+tuberculosis,has_risk_factor,malnourishment
+tb infection,occurs_with,working in high-risk settings
+tuberculosis,has_risk_factor,weaker immune system
+tb germs,settle_in,lungs
+tb infection,occurs_with,exposure to active tb disease
+tuberculosis,has_risk_factor,silicosis
+tb disease,occurs_with,contagious period
+inactive tb,has_risk_factor,not treated properly
+people with inactive tb,cannot_spread,tb germs
+tuberculosis,occurs_with,exposure in correctional facilities
+tb prevention,requires,early detection
+tuberculosis,is_treated_by,treatment
+tb germs,spreads_in,indoor areas
+rifampicin,treats,tuberculosis
+harmful use of alcohol,causes,tuberculosis
+active tb disease,has_symptom,chills
+undernutrition,associated_with,tuberculosis
+tuberculosis,affects,kidneys
+hiv infection,associated_with,tuberculosis
+active tb disease,is_prevented_by,staying home from work or school
+health care worker,ensures,confidentiality of tuberculosis patient information
+tuberculosis,spreads_through,speaking
+tuberculosis,has_risk_factor,children under age five
+bcg vaccine,prevents,severe forms of active tb disease
+tb exposure,has_risk_factor,spending time near someone with active tb disease
+active tb disease,is_caused_by,immune system failure
+tuberculosis,is_treated_by,isoniazid
+tuberculosis,has_risk_factor,organ transplants
+inactive tb,has_risk_factor,weaker immune system
+health care worker,educates,contacts on tb testing
+tb contacts,has_risk_factor,exposure to active tb disease
+tb blood test,is_diagnosed_by,health care provider
+tuberculosis,is_diagnosed_by,chest x-ray
+health care worker,performs,contact investigation for tuberculosis
+tuberculosis,is_treated_by,pyrazinamide
+tuberculosis,is_treated_by,ethambutol
+tuberculosis,is_diagnosed_by,truenat assays
+health care provider,is_diagnosed_by,sputum test
+tuberculosis,has_risk_factor,recent contact with someone with active tb disease
+tb vaccine,associated_with,bacille calmette-guérin (bcg)
+latent tb infection,occurs_with,immune system suppression
+tb medicine,treats,tuberculosis
+bacille calmette-guérin (bcg),associated_with,tb skin test
+bacille calmette-guérin (bcg),causes,false positive tb skin test reaction
+tuberculosis,has_symptom,coughing up blood or sputum
+exposure in nursing homes,causes,increased risk of tb germs exposure
+tb treatment,treats,active tb disease
+infection control plans,associated_with,respiratory protective equipment
+tuberculosis,has_symptom,weakness
+active tb disease,has_symptom,sweating at night
+inactive tb,has_risk_factor,developing active tb disease
+ethambutol,treats,tuberculosis
+bacille calmette-guérin (bcg),is_prevented_by,tuberculosis
+active tb disease,leads_to_complication,death
+active tb disease,has_symptom,coughing up blood or sputum from deep inside the lungs
+tuberculosis,has_risk_factor,specialized treatment for rheumatoid arthritis
+tb germs,spread_to,spine
+inactive tb,is_treated_by,treatment
+tuberculosis,associated_with,smoking
+community safety,associated_with,contact tracing
+active tb disease,has_symptom,cough
+tuberculosis,has_risk_factor,cancer
+contact tracing,is_used_for,preventing additional transmission
+tuberculosis,occurs_with,contagious period
+tuberculosis,associated_with,hiv infection
+tuberculosis,has_risk_factor,substance use
+inactive tb,has_risk_factor,hiv
+tb contacts,needs,tuberculosis treatment
+tuberculosis,has_symptom,weakness or fatigue
+tuberculosis,does_not_spread_through,handshaking
+malnourishment,causes,tuberculosis
+tuberculosis,occurs_with,hiv
+diabetes,associated_with,tuberculosis
+bcg vaccine,prevents,tb meningitis
+infection control plans,associated_with,administrative measures
+tuberculosis,has_risk_factor,harmful use of alcohol
+tb meningitis,has_symptom,headache
+airing out room,is_prevented_by,spreading tb germs
+exposure in hospitals,causes,increased risk of tb germs exposure
+tb disease of the spine,has_symptom,back pain
+tuberculosis,has_risk_factor,specialized treatment for crohn's disease
+tuberculosis,occurs_with,exposure in nursing homes
+inactive tb,has_risk_factor,cancer
+latent tb infection,is_treated_by,treatment to prevent active tb disease
+health care provider,educates,on tuberculosis prevention
+active tb disease,has_symptom,symptoms
+tuberculosis,has_risk_factor,diabetes
+tb prevention,requires,tuberculosis contact investigation
+active tb disease,spreads_in,poor air circulation environments
+active tb disease,occurs_with,symptoms
+special room in hospital,is_prevented_by,spreading tb germs
+tb skin test,requires,follow-up after 2-3 days
+latent tb infection,has_risk_factor,diabetes
+community safety,associated_with,tuberculosis contact tracing
+smoking,associated_with,tuberculosis
+tuberculosis,associated_with,undernutrition
+tuberculosis,has_risk_factor,other diseases weakening immune system
+tb prevention,requires,contact investigation

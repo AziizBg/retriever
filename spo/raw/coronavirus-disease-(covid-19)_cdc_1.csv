@@ -1,0 +1,26 @@
+subject,predicate,object
+coronavirus-disease-(covid-19),has_symptom,Fever or chills
+coronavirus-disease-(covid-19),has_symptom,Cough
+coronavirus-disease-(covid-19),has_symptom,Shortness of breath or difficulty breathing
+coronavirus-disease-(covid-19),has_symptom,Sore throat
+coronavirus-disease-(covid-19),has_symptom,Congestion or runny nose
+coronavirus-disease-(covid-19),has_symptom,New loss of taste or smell
+coronavirus-disease-(covid-19),has_symptom,Fatigue
+coronavirus-disease-(covid-19),has_symptom,Muscle or body aches
+coronavirus-disease-(covid-19),has_symptom,Headache
+coronavirus-disease-(covid-19),has_symptom,Nausea or vomiting
+coronavirus-disease-(covid-19),has_symptom,Diarrhea
+coronavirus-disease-(covid-19),leads_to_complication,Trouble breathing
+coronavirus-disease-(covid-19),leads_to_complication,Persistent pain or pressure in the chest
+coronavirus-disease-(covid-19),leads_to_complication,New confusion
+coronavirus-disease-(covid-19),leads_to_complication,Inability to wake or stay awake
+coronavirus-disease-(covid-19),leads_to_complication,pale gray or blue lips nail beds and skin
+coronavirus-disease-(covid-19),is_caused_by,infection with SARS-CoV-2
+influenza (Flu),is_caused_by,infection with influenza viruses
+coronavirus-disease-(covid-19),is_diagnosed_by,nucleic acid amplification tests (NAATs)
+coronavirus-disease-(covid-19),is_diagnosed_by,PCR tests
+coronavirus-disease-(covid-19),occurs_with,influenza (Flu)
+coronavirus-disease-(covid-19),is_treated_by,health care treatment
+risk factors for severe illness,is_treated_by,health care treatment
+coronavirus-disease-(covid-19),has_risk_factor,risk factors for severe illness
+health care treatment,treats,coronavirus-disease-(covid-19)

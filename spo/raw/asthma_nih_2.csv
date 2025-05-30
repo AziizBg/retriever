@@ -1,0 +1,42 @@
+subject,predicate,object
+Asthma Attack,has_symptom,swelling of airways
+Asthma Attack,has_symptom,tightening of airways
+Asthma Attack,has_symptom,harder to breathe
+Asthma Attack,has_symptom,coughing
+Asthma Attack,has_symptom,chest tightness
+Asthma Attack,has_symptom,wheezing
+Asthma Attack,has_symptom,lightheadedness
+Asthma Attack,leads_to_complication,life-threatening situation
+Asthma,is_treated_by,asthma action plan
+Asthma,is_treated_by,reliever inhaler
+Asthma,is_treated_by,controller medicines
+Asthma,is_treated_by,corticosteroids
+Asthma,is_treated_by,short-acting beta2-agonist (SABA) medicine
+Asthma,is_treated_by,nebulizer treatment
+Asthma,is_treated_by,oxygen therapy
+Asthma,is_treated_by,ventilator
+Asthma,has_risk_factor,difficult to treat asthma
+Asthma,has_risk_factor,past hospitalization for asthma
+Asthma,has_risk_factor,past life-threatening asthma attacks
+Asthma,has_risk_factor,non-use of inhaled corticosteroids
+Asthma,has_risk_factor,frequent use of short-acting beta2-agonist (SABA) medicine
+Asthma,has_risk_factor,mental health condition
+Asthma,has_risk_factor,alcohol or drug use disorder
+Asthma,has_risk_factor,non-adherence to asthma action plan
+Asthma,has_risk_factor,food allergy
+Asthma Attack,occurs_with,low peak flow number
+Asthma,associated_with,emergency care
+Asthma,associated_with,ER visit
+Asthma Attack,is_treated_by,medical attention
+Asthma Attack,is_treated_by,emergency care
+Asthma,has_symptom,flare-ups
+Asthma,leads_to_complication,serious asthma attack
+Severe Asthma Attack,leads_to_complication,need for oxygen therapy
+Severe Asthma Attack,leads_to_complication,need for ventilator
+Asthma,is_diagnosed_by,peak flow meter
+Asthma,has_risk_factor,young children
+Young Children with Asthma,has_risk_factor,drowsiness
+Young Children with Asthma,has_risk_factor,confusion
+Young Children with Asthma,has_risk_factor,troubled breathing
+Young Children with Asthma,has_risk_factor,blue tint to skin and lips
+Young Children with Asthma,has_risk_factor,fast heartbeat

@@ -1,0 +1,571 @@
+subject,predicate,object
+asthma,occurs_with,food_allergy
+asthma,is_prevented_by,irritant avoidance
+asthma,is_caused_by,sensitizing agents
+asthma,has_risk_factor,mental_health_disorders
+nhlbi’s learn more breathe better asthma program,associated_with,asthma
+asthma,is_caused_by,viral_infections
+asthma,is_caused_by,asthma_trigger
+asthma,has_risk_factor,difficult_to_treat_asthma
+asthma,has_risk_factor,gastroesophageal_reflux_disease_(gerd)
+asthma,has_risk_factor,hyperventilation
+asthma,is_prevented_by,coping with stress and anxiety
+asthma_attack,has_symptom,harder_to_breathe
+asthma,associated_with,centers for disease control and prevention
+asthma_attack,has_symptom,swelling_of_airways
+asthma,occurs_with,viral infections
+asthma_attack,has_symptom,lightheadedness
+asthma,has_risk_factor,secondhand smoke
+asthma,has_risk_factor,air_quality_index_(aqi)_changes
+asthma,associated_with,bacterial respiratory infections
+asthma,has_risk_factor,narrowed airways
+asthma,has_risk_factor,irritants
+asthma,leads_to_complication,airway_hyperresponsiveness
+asthma,is_diagnosed_by,childhood development assessment
+asthma,has_risk_factor,secondhand_smoke_exposure
+thunderstorms,causes,asthma attack
+family_history_of_asthma,causes,asthma
+cockroaches,causes,asthma attack
+asthma_symptoms,caused_by,grass_pollen
+asthma,is_prevented_by,asthma_action_plan
+asthma,has_risk_factor,smoking_relapse
+asthma,has_risk_factor,psychological_trauma
+asthma,has_symptom,harder breathing out
+asthma,is_diagnosed_by,challenge tests
+asthma,is_prevented_by,opening windows during cleaning
+asthma,associated_with,environmental factors
+asthma,has_risk_factor,airway_inflammation
+asthma,has_risk_factor,elevated_indoor_humidity
+asthma,is_characterized_by,asthma_symptoms
+asthma,occurs_with,exercise_induced_bronchospasm
+bronchodilators,treats,asthma
+asthma,is_treated_by,daily controller medication
+asthma,has_risk_factor,post-traumatic_stress_disorder_(ptsd)
+allergic asthma,is_treated_by,inhaled corticosteroids
+asthma,associated_with,er_visit
+asthma,associated_with,physical_activity
+asthma,is_prevented_by,pet_grooming
+asthma,has_risk_factor,sinusitis
+asthma,has_risk_factor,infections linked to flu
+asthma,has_risk_factor,age
+asthma,has_risk_factor,anxiety
+asthma,occurs_with,fragrance_sensitivity
+asthma_attack,has_symptom,worsened_asthma_symptoms
+asthma,is_diagnosed_by,fractional exhaled nitric oxide tests
+asthma,is_prevented_by,monitoring
+asthma,has_risk_factor,occupational_hazards
+asthma,has_risk_factor,allergic_conditions
+asthma,occurs_with,gastroesophageal_reflux_disease
+asthma,leads_to_complication,tiredness
+asthma,has_risk_factor,moulds
+asthma,is_prevented_by,using inhaler correctly
+asthma,has_risk_factor,indoor_mold
+asthma,associated_with,seasonal_variability
+asthma,is_caused_by,thunderstorm_activity
+asthma,has_risk_factor,poor air quality
+asthma,has_risk_factor,close contact with sick individuals
+asthma,has_risk_factor,alcohol_or_drug_use_disorder
+allergic_conditions,causes,asthma
+asthma action plan,includes,emergency protocol
+asthma,has_risk_factor,cold dry air
+bronchial thermoplasty,has_risk_factor,asthma exacerbation
+asthma,leads_to_complication,emergency_health_care
+asthma,is_prevented_by,mold_removal
+asthma,has_risk_factor,non-adherence_to_asthma_action_plan
+asthma,has_risk_factor,tobacco_smoke_exposure
+asthma,is_diagnosed_by,medical history evaluation
+asthma,has_risk_factor,psychological_stress
+asthma_medications,treats,asthma
+asthma,associated_with,allergic_response
+airway inflammation,causes,narrowed airways
+asthma,has_risk_factor,dust_mite_infestation
+asthma,has_risk_factor,infections linked to colds
+asthma,has_risk_factor,carbon_monoxide_(co)_exposure
+asthma,is_diagnosed_by,allergy testing
+asthma,has_trigger,poor air quality
+asthma,is_caused_by,animal dander
+asthma,is_treated_by,weight management
+asthma,is_prevented_by,hypoallergenic_pillows
+asthma,has_risk_factor,outdoor_air_pollution
+reliever_therapy,treats,asthma
+asthma,has_risk_factor,changing treatment plan without consultation
+preventing infections,treats,asthma
+treatment,includes,asthma_action_plan
+asthma,occurs_with,narrowed airways
+asthma action plan,includes,monitoring
+asthma,is_prevented_by,adherence_to_medical_advice
+strong emotions,causes,asthma attack
+asthma,associated_with,domestic_environment
+asthma,is_caused_by,cold_air
+high humidity,causes,asthma attack
+asthma,has_risk_factor,smoking_exposure
+asthma,is_caused_by,exercise
+asthma,associated_with,nocturnal triggers
+moulds,causes,asthma
+asthma,has_risk_factor,respiratory_infections
+cold dry air,causes,asthma attack
+asthma,has_risk_factor,frequent_use_of_short-acting_beta2-agonist_(saba)_medicine
+asthma,associated_with,electronic nicotine delivery systems
+managing pests,treats,asthma
+asthma,is_diagnosed_by,peak_flow_meter
+asthma,is_prevented_by,asthma_education
+asthma,occurs_with,viral_infection
+asthma,is_treated_by,short-acting_beta2-agonist_(saba)_medicine
+asthma,is_prevented_by,pet_exclusion_from_bedrooms
+asthma,has_risk_factor,family_history_of_allergies
+asthma,is_treated_by,inhaler
+asthma,has_risk_factor,airways_in_lungs
+asthma,is_treated_by,smoking cessation therapy
+asthma,associated_with,aspirin sensitivity
+asthma,has_risk_factor,poor_ventilation
+asthma,has_risk_factor,passive_smoking
+viral infections,causes,asthma symptoms
+asthma,occurs_with,breathing_too_fast_from_laughing_or_crying
+asthma,has_risk_factor,food_allergy
+asthma,has_risk_factor,night_time
+asthma,occurs_with,sinusitis
+air pollution,causes,asthma attack
+asthma,leads_to_complication,serious_asthma_attack
+asthma,has_risk_factor,fragrances
+asthma,has_risk_factor,air_conditioning
+spacer_device,treats,asthma
+asthma,has_risk_factor,rodent_allergens
+asthma,has_risk_factor,house_dust_mites
+asthma,occurs_with,chemical_exposure
+asthma,has_risk_factor,viral infections
+airways in lungs,associated_with,asthma
+asthma,has_risk_factor,sleep_apnea
+asthma,is_caused_by,dust_mite_allergen
+asthma,is_treated_by,sleep hygiene
+asthma,is_prevented_by,carpet_replacement
+inhaled long-acting bronchodilators,prevents,bronchoconstriction
+asthma,associated_with,air pollution
+asthma,is_treated_by,regular exercise
+asthma,has_risk_factor,environmental_tobacco_smoke
+asthma,associated_with,united states
+asthma,is_treated_by,antiallergic_medication
+asthma,has_trigger,physical activity
+asthma,is_prevented_by,asthma action plan
+asthma,has_risk_factor,dust mites
+treatment,treats,asthma
+furry pets,causes,asthma attack
+treatment,includes,using_medicines
+asthma,occurs_with,bacterial_infection
+asthma,has_risk_factor,temperature_extremes
+asthma,has_risk_factor,infections linked to rsv
+asthma,occurs_with,allergic_reaction
+pollen,causes,asthma symptoms
+asthma,associated_with,genetic factors
+environmental_allergens,causes,asthma
+asthma,associated_with,lung_function
+asthma,is_prevented_by,applying cleaner to cloth or paper towel
+asthma,has_risk_factor,indoor_air_pollutants
+asthma,is_caused_by,gastroesophageal_reflux_disease
+asthma,has_risk_factor,particulate_matter_(pm)_exposure
+asthma,has_risk_factor,cooking_fumes
+allergy immunotherapy,prevents,allergic response
+fragrances,causes,asthma attack
+asthma attack,leads_to_complication,asthma
+asthma,has_risk_factor,strong emotions
+avoiding triggers,is_prevented_by,asthma action plan
+asthma_attack,has_symptom,dyspnea
+asthma,is_prevented_by,air_purification
+asthma,is_prevented_by,using alcohol-based hand sanitizer
+asthma action plan,includes,medication regimen
+asthma,is_caused_by,respiratory_syncytial_virus
+asthma,is_treated_by,long-term control medications
+asthma,has_symptom,respiratory_distress
+asthma,has_risk_factor,airway inflammation
+asthma,occurs_with,allergen exposure
+asthma,has_risk_factor,mold_growth
+asthma,occurs_with,emotional_stress
+asthma,has_symptom,early morning symptoms
+asthma,is_prevented_by,mold_eradication
+asthma,is_diagnosed_by,health_professional
+asthma,occurs_with,inclement_weather
+asthma,associated_with,obesity
+quick-relief medications,treats,asthma exacerbation
+asthma,associated_with,anxiety disorder
+asthma,occurs_with,coronavirus disease 2019
+asthma,is_diagnosed_by,chest ct scan
+asthma,is_caused_by,pollen_allergen
+asthma,has_symptom,breathlessness
+airway inflammation,associated_with,asthma
+asthma_symptoms,caused_by,triggers
+asthma,associated_with,airways in lungs
+asthma,is_treated_by,nhlbi-supported_research_treatments
+asthma,has_symptom,flare-ups
+asthma,is_treated_by,reliever inhaler
+asthma,occurs_with,high_humidity
+asthma,has_risk_factor,not following cleaning instructions
+united states,associated_with,asthma
+asthma,associated_with,major depressive disorder
+asthma,has_risk_factor,chemicals
+monitoring,is_prevented_by,asthma action plan
+asthma,is_treated_by,corticosteroids
+asthma,has_risk_factor,volatile_organic_compounds_(vocs)_exposure
+asthma,is_diagnosed_by,adult-onset diagnosis
+asthma_trigger,causes,asthma_attack
+inhaled mast cell stabilizers,prevents,airway inflammation
+asthma_attack,is_treated_by,emergency_care
+asthma,is_prevented_by,ventilation_enhancement
+asthma,occurs_with,airway wall thickening
+asthma,is_caused_by,viral_infection
+asthma action plan,is_treated_by,avoiding triggers
+asthma,has_risk_factor,language_barriers
+exercise-induced asthma,is_type_of,asthma
+nocturnal asthma,is_type_of,asthma
+nocturnal asthma,is_caused_by,poor symptom management
+asthma,is_diagnosed_by,blood tests
+asthma,is_treated_by,steroids
+avoiding triggers,prevents,asthma
+asthma,is_caused_by,sinusitis
+exercise-induced asthma,is_treated_by,pre-exercise reliever medication
+asthma,has_risk_factor,thickened_airway_walls
+asthma,has_trigger,emotional stress
+asthma,is_caused_by,chemical_exposure
+asthma,has_risk_factor,childhood onset
+asthma,has_risk_factor,cockroach_allergens
+asthma,is_treated_by,bronchial thermoplasty
+asthma,has_symptom,airway irritation
+asthma,is_prevented_by,avoiding_air_pollution
+asthma,is_prevented_by,healthy_lifestyle
+exercise-induced asthma,is_caused_by,physical exertion
+asthma,has_risk_factor,childhood
+low_birth_weight,causes,asthma
+asthma,has_symptom,narrowed airways
+asthma,occurs_with,increased nitric oxide levels
+quick-relief medications,has_adverse_effect,rapid heartbeat
+asthma,is_treated_by,nebulizer_treatment
+allergic asthma,is_treated_by,allergy immunotherapy
+asthma,has_risk_factor,united_states
+asthma,has_risk_factor,alcohol_consumption
+asthma,has_risk_factor,acid reflux
+asthma,has_symptom,wheezing
+monitoring,prevents,asthma
+asthma,is_prevented_by,avoiding_dampness_and_mold
+asthma,occurs_with,airway inflammation
+asthma,is_prevented_by,allergy control
+asthma_attack,has_symptom,chest_tightness
+asthma,has_risk_factor,sulfur_dioxide_(so2)_exposure
+asthma_symptoms,caused_by,feathers
+bad weather,causes,asthma attack
+asthma,is_treated_by,controller_medicines
+indoor_air_pollution,causes,asthma
+asthma,is_caused_by,bacterial_infection
+asthma,has_risk_factor,asthma-related_depression
+asthma,has_trigger,outdoor allergens
+asthma,is_treated_by,cardiovascular health promotion
+asthma,leads_to_complication,increased_mucus_production
+asthma,has_risk_factor,asthma_onset
+asthma,has_risk_factor,secondhand_smoke
+asthma,is_treated_by,allergen_proof_bedding
+asthma,is_treated_by,reliever_medicine
+asthma,has_risk_factor,dust_mites
+asthma,is_caused_by,allergic_reaction
+asthma,associated_with,asthma triggers
+narrowed airways,associated_with,asthma
+asthma,has_risk_factor,cockroaches
+asthma,has_risk_factor,pet_allergy
+asthma,is_caused_by,pet_dander
+asthma,has_risk_factor,low_socioeconomic_status
+sinus infections,causes,asthma attack
+asthma,has_risk_factor,unmanaged stress and anxiety
+asthma,has_risk_factor,mold
+asthma,has_risk_factor,depression
+asthma,has_risk_factor,poor hand hygiene
+asthma,has_risk_factor,smoking_cessation_difficulty
+asthma triggers,causes,asthma symptoms
+asthma,associated_with,indoor_humidity
+asthma_attack,has_symptom,coughing
+asthma_symptoms,caused_by,perfume
+asthma,leads_to,sleep disruption
+asthma,has_risk_factor,respiratory infections
+asthma,is_prevented_by,allergen avoidance
+asthma,is_treated_by,reliever_therapy
+asthma,has_risk_factor,airway_hyperresponsiveness
+asthma,has_risk_factor,environmental_allergens
+prematurity,causes,asthma
+asthma,associated_with,nhlbi’s learn more breathe better asthma program
+asthma,occurs_with,asthma_attack
+nocturnal asthma,is_caused_by,nocturnal allergen exposure
+asthma,has_risk_factor,asthma_self-management_difficulties
+asthma,has_risk_factor,air_pollution
+asthma,has_trigger,infections
+asthma,is_treated_by,ventilator
+infections linked to flu,causes,asthma attack
+asthma,is_caused_by,food_allergy
+asthma,has_risk_factor,occupational_chemical_exposure
+asthma,has_risk_factor,climate_change
+asthma,is_prevented_by,following product label instructions
+asthma,is_prevented_by,avoidance_of_asthma_triggers
+asthma,is_caused_by,occupational irritants
+treatment,includes,monitoring
+asthma,is_prevented_by,timely_drying
+asthma_symptoms,caused_by,smoke
+asthma,has_risk_factor,humidity
+asthma action plan,includes,avoiding triggers
+asthma,leads_to_complication,hospital_admission
+asthma,is_treated_by,controller_therapy
+treatment,includes,avoiding_triggers
+asthma,is_treated_by,psychological stress management
+asthma,has_risk_factor,asthma_triggers
+asthma,has_risk_factor,bad weather
+controlling indoor humidity,treats,asthma
+asthma symptoms,leads_to_complication,asthma attack
+asthma,has_risk_factor,limited_access_to_healthcare
+overweight,causes,asthma
+asthma,has_risk_factor,cold air
+asthma_attack,leads_to_complication,life-threatening_situation
+asthma,is_diagnosed_by,lung function tests
+bronchial thermoplasty,has_risk_factor,bronchiectasis
+inhaler,treats,asthma
+secondhand smoke,causes,asthma attack
+asthma,is_caused_by,fungal_growth
+asthma,is_caused_by,exercise_induced_bronchospasm
+asthma,has_risk_factor,climate_change_impacts
+asthma,leads_to,preeclampsia
+urbanization,causes,asthma
+controller_therapy,treats,asthma
+spirometry,is_performed_by,physician
+asthma,is_prevented_by,hepa_vacuuming
+air cleaner with hepa filter,treats,asthma
+leukotriene modifiers,prevents,airway inflammation
+asthma_symptoms,caused_by,tree_pollen
+asthma,has_risk_factor,mental_health_condition
+asthma,is_caused_by,fragrance_sensitivity
+asthma,associated_with,workplace exposure
+asthma,has_risk_factor,feather_pillows
+asthma,has_risk_factor,family_history_of_respiratory_issues
+asthma,is_treated_by,quick-relief medications
+asthma,has_risk_factor,narrowed_airways
+medications for allergic reactions,treats,asthma
+asthma,has_risk_factor,not
+asthma,has_risk_factor,older_age
+asthma,occurs_with,thunderstorm_activity
+asthma,occurs_with,medication_allergy
+asthma,leads_to_complication,death
+asthma,has_risk_factor,young_age
+asthma,associated_with,air_quality
+asthma,leads_to_complication,airway_inflammation
+asthma,has_risk_factor,increased_ozone_levels
+asthma,has_risk_factor,non-adherence_to_treatment
+asthma,has_risk_factor,allergic foods
+asthma,leads_to_complication,airway_narrowing
+asthma,has_symptom,asthma attack
+asthma_attack,occurs_with,low_peak_flow_number
+asthma,has_risk_factor,urbanization
+asthma_symptoms,caused_by,cold
+asthma,has_risk_factor,pollen_count_increases
+asthma,has_risk_factor,air pollution
+exercise,causes,asthma symptoms
+asthma,has_risk_factor,heating_systems
+asthma,is_treated_by,pest_control
+asthma,associated_with,allergic_condition
+asthma,is_treated_by,inhaled corticosteroid therapy
+asthma,has_risk_factor,thunderstorms
+occupational_chemical_exposure,causes,asthma
+asthma,has_risk_factor,extreme_weather_events
+asthma,is_treated_by,bronchodilators
+asthma,has_risk_factor,race_or_ethnicity
+asthma,is_prevented_by,washing hands
+asthma,has_symptom,nocturnal symptoms
+chemicals,causes,asthma attack
+inhaled corticosteroids,has_risk_factor,cataracts
+allergies,causes,asthma attack
+asthma,occurs_with,cold_air
+tobacco_smoke_exposure,causes,asthma
+asthma,occurs_with,cold air
+asthma,has_risk_factor,indoor_air_pollution
+asthma,associated_with,respiratory_infection
+asthma,has_risk_factor,sex
+asthma,has_risk_factor,drug_abuse
+asthma,has_risk_factor,morning_time
+asthma_symptoms,caused_by,weather_changes
+asthma,has_risk_factor,carpeting
+air_pollution,causes,asthma
+asthma,is_prevented_by,influenza vaccination
+asthma,has_risk_factor,non-use_of_inhaled_corticosteroids
+asthma,has_symptom,shortness of breath
+asthma,has_risk_factor,past_life-threatening_asthma_attacks
+asthma,is_caused_by,breathing_too_fast_from_laughing_or_crying
+asthma,has_risk_factor,wood_smoke
+asthma,has_risk_factor,not stopping medications
+asthma,has_symptom,asthma_symptoms
+asthma,has_risk_factor,viral_infections
+asthma,has_risk_factor,poor_air_quality
+asthma,leads_to,frequent nocturnal awakenings
+asthma,has_risk_factor,inadequate_asthma_education
+asthma,has_risk_factor,pediatric_age_group
+asthma,has_risk_factor,past_hospitalization_for_asthma
+asthma,associated_with,pregnancy complications
+asthma,is_caused_by,airway muscle hypertrophy
+medications,treats,asthma
+asthma,is_prevented_by,dehumidification
+asthma,associated_with,emergency_care
+asthma,has_risk_factor,down_comforters
+asthma,is_prevented_by,regular_bedding_hygiene
+asthma_attack,has_symptom,tightening_of_airways
+outdoor_air_pollution,causes,asthma
+asthma,associated_with,nicotine addiction
+asthma,has_risk_factor,prematurity
+asthma,has_risk_factor,allergic medicines
+asthma,is_treated_by,trigger_avoidance
+asthma action plan,includes,using medicines
+allergic foods,causes,asthma attack
+allergic asthma,is_treated_by,biologic therapies
+asthma,is_prevented_by,structural_sealant
+asthma,is_caused_by,bronchial smooth muscle hyperresponsiveness
+asthma,is_diagnosed_by,bronchodilator responsiveness tests
+asthma,is_prevented_by,avoiding disinfectants that trigger asthma attacks
+asthma,associated_with,airway sensitivity
+obesity,causes,asthma
+asthma,leads_to,low birth weight
+cold air,causes,asthma symptoms
+pollen,causes,asthma attack
+asthma,is_prevented_by,avoiding triggers
+asthma,leads_to_complication,absenteeism
+using medicines,is_prevented_by,asthma action plan
+asthma attack,occurs_with,worsened asthma symptoms
+asthma,has_risk_factor,asthma-related_anxiety
+asthma triggers,leads_to_complication,asthma attack
+health_professional,diagnoses,asthma
+asthma,has_risk_factor,outdoor_air_pollutants
+asthma,is_caused_by,medication_allergy
+asthma,is_prevented_by,low_humidity_control
+asthma,is_caused_by,house dust mites
+quick-relief medications,has_adverse_effect,tremors
+asthma,is_prevented_by,allergen_proof_bedding
+allergies,causes,asthma
+removing mold,treats,asthma
+asthma,has_risk_factor,active_smoking
+asthma,is_caused_by,environmental_allergens
+asthma,has_risk_factor,upholstered_furniture
+asthma,associated_with,overweight
+asthma,occurs_with,respiratory_syncytial_virus
+asthma,associated_with,viral respiratory infections
+asthma_attack,occurs_with,mucous_obstruction
+asthma,associated_with,chronic_condition
+asthma,is_caused_by,emotional_stress
+asthma,is_diagnosed_by,physical examination
+childhood,associated_with,asthma onset
+bronchial thermoplasty,has_risk_factor,airway infection
+asthma,is_caused_by,inclement_weather
+asthma,has_risk_factor,1_in_13_americans
+asthma,is_diagnosed_by,peak expiratory flow tests
+steroids,treats,asthma
+asthma,is_prevented_by,using fan to blow air outdoors
+asthma,is_diagnosed_by,allergy tests
+asthma,occurs_with,pollen_allergen
+asthma,has_risk_factor,poor_medication_adherence
+asthma,is_caused_by,high_humidity
+asthma,has_risk_factor,allergens
+asthma,has_risk_factor,not cleaning frequently touched items
+asthma,leads_to,preterm birth
+asthma,treats,asthma attack
+asthma,has_risk_factor,physical exercise
+asthma_attack,is_treated_by,medical_attention
+age,associated_with,asthma
+asthma,associated_with,thunderstorm asthma
+asthma,is_caused_by,cockroach_allergen
+asthma,has_risk_factor,asthma triggers
+asthma,has_risk_factor,tobacco_use
+asthma_symptoms,caused_by,other_conditions
+house_dust_mites,causes,asthma
+asthma,has_risk_factor,pet_dander
+asthma_medications,has_side_effect,adverse_reaction
+asthma action plan,treats,asthma
+asthma,has_risk_factor,allergies
+asthma,is_prevented_by,cleaning and disinfecting frequently touched items
+asthma,is_caused_by,sars-cov-2 infection
+asthma,associated_with,allergic sensitization
+dust mites,causes,asthma attack
+asthma,associated_with,respiratory_distress
+asthma,is_treated_by,humidity_control
+asthma,has_symptom,asthma exacerbation
+asthma,associated_with,e-cigarette flavorings
+asthma,is_prevented_by,avoiding_aerosol_exposure
+asthma,occurs_with,allergic_reactions
+asthma,has_risk_factor,cold_air
+asthma,has_risk_factor,exercise
+asthma,is_caused_by,environmental_tobacco_smoke
+asthma,is_prevented_by,avoiding cleaning product spray into air
+asthma,has_risk_factor,1_in_13_people_in_the_united_states
+asthma,is_treated_by,infection_prevention
+asthma,has_risk_factor,viral_respiratory_infections
+asthma,is_caused_by,family_history
+asthma,has_symptom,chest_tightness
+asthma_symptoms,caused_by,fumes
+asthma,associated_with,work-related asthma
+asthma,has_trigger,indoor allergens
+asthma action plan,includes,trigger identification
+asthma,is_prevented_by,moisture_control
+asthma,is_treated_by,mold_remediation
+infections linked to colds,causes,asthma attack
+asthma,has_risk_factor,pollen
+asthma,has_risk_factor,increased_mucus_production
+narrowed airways,causes,harder breathing out
+asthma,has_risk_factor,family_history_of_asthma
+asthma,leads_to_complication,activity_limitation
+asthma,is_prevented_by,integrated_pest_management
+asthma,has_risk_factor,furry pets
+asthma,has_risk_factor,low_birth_weight
+asthma,is_treated_by,asthma action plan
+asthma,has_symptom,excessive mucus production
+asthma,is_treated_by,oxygen_therapy
+asthma_attack,occurs_with,airway_edema
+asthma,has_risk_factor,cockroach_presence
+asthma,is_diagnosed_by,spirometry
+asthma_symptoms,caused_by,dust
+asthma,has_risk_factor,health_literacy_issues
+asthma,leads_to_complication,asthma_attack
+biologic medicines,treats,asthma
+asthma,has_symptom,coughing
+asthma,is_caused_by,tobacco smoking
+asthma_symptoms,caused_by,animal_fur
+infections linked to rsv,causes,asthma attack
+asthma,is_caused_by,airway inflammation
+asthma,is_prevented_by,pneumococcal vaccination
+avoiding triggers,treats,asthma
+asthma,has_risk_factor,fungal_growth
+asthma,is_prevented_by,food_storage
+viral_respiratory_infections,causes,asthma
+allergen-proof mattress and pillowcase covers,treats,asthma
+asthma,has_risk_factor,sinus infections
+asthma,has_risk_factor,nitrogen_dioxide_(no2)_exposure
+asthma,leads_to_complication,thickened_airway_walls
+asthma_action_plan,is_treated_by,using_medicines
+allergic medicines,causes,asthma attack
+asthma,is_treated_by,air_purification
+asthma,is_prevented_by,sanitation_practice
+asthma,is_caused_by,air_pollutant
+centers for disease control and prevention,associated_with,asthma
+asthma,has_risk_factor,high humidity
+allergic asthma,is_caused_by,allergen exposure
+asthma,is_prevented_by,taking medications as prescribed
+asthma,has_trigger,certain medicines
+inhaled corticosteroids,has_risk_factor,osteoporosis
+asthma,is_prevented_by,having 30-day medication supply
+asthma,occurs_with,asthma triggers
+asthma attack,associated_with,asthma
+physical exercise,causes,asthma attack
+asthma,leads_to,asthma flare-ups
+asthma,leads_to_complication,trouble_with_usual_activities
+asthma,is_treated_by,treatment
+asthma,is_treated_by,asthma_medications
+asthma_attack,has_symptom,wheezing
+asthma,is_caused_by,workplace allergen exposure
+asthma,leads_to_complication,poor_concentration
+asthma_attack,occurs_with,bronchoconstriction
+asthma,has_symptom,nocturnal_coughing
+asthma,is_diagnosed_by,chest x-ray
+asthma,occurs_with,exercise
+asthma,is_prevented_by,plumbing_repair
+asthma_symptoms,caused_by,strong_soaps
+mold,causes,asthma attack
+asthma,has_risk_factor,using asthma-triggering disinfectants
+asthma,is_treated_by,peak flow monitoring
+acid reflux,causes,asthma attack
+asthma,associated_with,panic disorder
+asthma action plan,is_treated_by,monitoring
+asthma,has_risk_factor,obesity

@@ -1,0 +1,61 @@
+subject,predicate,object
+Pneumonia,is_caused_by,viruses
+Pneumonia,is_caused_by,bacteria
+Pneumonia,has_risk_factor,age under 5 years
+Pneumonia,has_risk_factor,adults over the age of 65
+Pneumonia,has_risk_factor,preexisting health problems
+Pneumonia,leads_to_complication,life-threatening illness
+Pneumonia,leads_to_complication,death
+Pneumonia,occurs_with,alveoli filled with pus and fluid
+Pneumonia,has_symptom,Cough
+Pneumonia,has_symptom,Shortness of breath
+Pneumonia,has_symptom,Fever
+Pneumonia,has_symptom,sweating and shaking chills
+Pneumonia,has_symptom,Fatigue
+Pneumonia,has_symptom,Chest pain
+Pneumonia,has_symptom,Nausea
+Pneumonia,has_symptom,vomiting
+Pneumonia,has_symptom,diarrhea
+Pneumonia,has_symptom,Confusion
+Pneumonia,is_treated_by,antibiotics
+Pneumonia,is_treated_by,amoxicillin dispersible tablets
+Pneumonia,is_treated_by,oral antibiotics
+Pneumonia,is_treated_by,rest
+Pneumonia,is_treated_by,hydration
+Pneumonia,is_diagnosed_by,health centre diagnosis
+Pneumonia,is_diagnosed_by,community health workers
+Pneumonia,is_prevented_by,vaccines
+Pneumonia,is_prevented_by,Immunization against Hib
+Pneumonia,is_prevented_by,Immunization against pneumococcus
+Pneumonia,is_prevented_by,Immunization against measles
+Pneumonia,is_prevented_by,Immunization against influenza
+Pneumonia,is_prevented_by,Immunization against whooping cough (pertussis)
+Pneumonia,is_prevented_by,hand washing
+Pneumonia,is_prevented_by,good hygiene
+Pneumonia,is_prevented_by,reducing indoor air pollution
+Pneumonia,is_prevented_by,stop smoking
+Pneumonia,is_prevented_by,healthy diet
+Pneumonia,is_prevented_by,regular exercise
+Pneumonia,is_prevented_by,exclusive breastfeeding
+Antibiotics,treats,Pneumonia
+Amoxicillin dispersible tablets,treats,Pneumonia
+Oral antibiotics,treats,Pneumonia
+Rest,treats,Pneumonia
+Hydration,treats,Pneumonia
+Vaccines,prevents,Pneumonia
+Immunization against Hib,prevents,Pneumonia
+Immunization against pneumococcus,prevents,Pneumonia
+Immunization against measles,prevents,Pneumonia
+Immunization against influenza,prevents,Pneumonia
+Immunization against whooping cough (pertussis),prevents,Pneumonia
+Hand washing,prevents,Pneumonia
+Good hygiene,prevents,Pneumonia
+Reducing indoor air pollution,prevents,Pneumonia
+Stop smoking,prevents,Pneumonia
+Healthy diet,prevents,Pneumonia
+Regular exercise,prevents,Pneumonia
+Exclusive breastfeeding,prevents,Pneumonia
+Pneumonia,associated_with,alveoli filled with pus and fluid
+Pneumonia,associated_with,severe cases requiring hospitalization
+Pneumonia,associated_with,community level diagnosis and treatment
+Pneumonia,associated_with,trained community health workers

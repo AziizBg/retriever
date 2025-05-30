@@ -1,0 +1,30 @@
+subject,predicate,object
+Pneumonia,has_symptom,Chest pain when breathing or coughing
+Pneumonia,has_symptom,Chills
+Pneumonia,has_symptom,Cough with or without mucus
+Pneumonia,has_symptom,Fever
+Pneumonia,has_symptom,Low oxygen levels in blood
+Pneumonia,has_symptom,Shortness of breath
+Pneumonia,has_symptom,Headache
+Pneumonia,has_symptom,Muscle pain
+Pneumonia,has_symptom,Extreme tiredness
+Pneumonia,has_symptom,Nausea
+Pneumonia,has_symptom,Vomiting
+Pneumonia,has_symptom,Diarrhea
+Pneumonia,has_risk_factor,Young children
+Pneumonia,has_risk_factor,Older adults
+Pneumonia,has_risk_factor,Serious health conditions
+Pneumonia,leads_to_complication,Life-threatening complications
+Older adults with pneumonia,has_symptom,Lower-than-normal temperature
+Older adults with pneumonia,has_symptom,Weakness
+Older adults with pneumonia,has_symptom,Sudden confusion
+Babies with pneumonia,has_symptom,Vomiting
+Babies with pneumonia,has_symptom,Fever
+Babies with pneumonia,has_symptom,Cough
+Babies with pneumonia,has_symptom,Restlessness
+Babies with pneumonia,has_symptom,Tiredness and lack of energy
+Babies with pneumonia,has_symptom,Bluish tone to skin and lips
+Babies with pneumonia,has_symptom,Grunting
+Babies with pneumonia,has_symptom,Pulling inward of intercostal muscles when breathing
+Babies with pneumonia,has_symptom,Rapid breathing
+Babies with pneumonia,has_symptom,Widening of nostrils with each breath

@@ -1,0 +1,28 @@
+subject,predicate,object
+asthma,is_diagnosed_by,spirometry
+asthma,is_diagnosed_by,peak expiratory flow (PEF) tests
+asthma,is_diagnosed_by,bronchodilator responsiveness tests
+asthma,is_diagnosed_by,challenge tests
+asthma,is_diagnosed_by,allergy tests
+asthma,is_diagnosed_by,fractional exhaled nitric oxide (FeNO) tests
+asthma,is_diagnosed_by,blood tests
+asthma,is_diagnosed_by,chest CT scan
+asthma,has_risk_factor,allergies
+asthma,has_risk_factor,allergens
+asthma,has_risk_factor,irritants
+asthma,has_risk_factor,exercise
+asthma,has_risk_factor,hyperventilation
+asthma,occurs_with,airway inflammation
+asthma,leads_to_complication,asthma flare-ups
+asthma,is_treated_by,bronchodilator
+asthma,associated_with,white blood cells
+asthma,associated_with,airway sensitivity
+asthma,has_symptom,shortness of breath
+asthma,has_symptom,airway irritation
+asthma,is_caused_by,airway muscle tightening
+asthma,is_caused_by,airway inflammation
+asthma,is_prevented_by,avoiding allergens
+asthma,is_prevented_by,avoiding irritants
+asthma,is_prevented_by,controlling allergies
+asthma,occurs_with,increased nitric oxide levels
+asthma,occurs_with,thickened airway walls

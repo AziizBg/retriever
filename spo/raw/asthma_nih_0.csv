@@ -1,0 +1,174 @@
+subject,predicate,object
+Asthma,is_caused_by,airway inflammation
+Asthma,has_symptom,narrowed airways
+Asthma,has_symptom,harder breathing out
+Asthma,occurs_with,airway inflammation
+Asthma,occurs_with,narrowed airways
+Asthma,is_treated_by,treatment
+Asthma,is_treated_by,asthma action plan
+Asthma,is_prevented_by,avoiding triggers
+Asthma,is_prevented_by,monitoring
+Asthma,has_risk_factor,age
+Asthma,has_risk_factor,childhood onset
+Asthma,leads_to_complication,asthma attack
+Asthma,associated_with,airways in lungs
+Asthma,associated_with,United States
+Asthma,associated_with,Centers for Disease Control and Prevention
+Asthma,associated_with,NHLBI’s Learn More Breathe Better ® Asthma program
+Asthma,occurs_with,asthma triggers
+Asthma,occurs_with,pollen
+Asthma,occurs_with,exercise
+Asthma,occurs_with,viral infections
+Asthma,occurs_with,cold air
+asthma triggers,causes,asthma symptoms
+asthma attack,occurs_with,worsened asthma symptoms
+treatment,treats,asthma
+asthma action plan,treats,asthma
+avoiding triggers,prevents,asthma
+monitoring,prevents,asthma
+airway inflammation,causes,narrowed airways
+narrowed airways,causes,harder breathing out
+United States,associated_with,Asthma
+Centers for Disease Control and Prevention,associated_with,Asthma
+NHLBI’s Learn More Breathe Better ® Asthma program,associated_with,Asthma
+airways in lungs,associated_with,Asthma
+childhood,associated_with,Asthma onset
+age,associated_with,Asthma
+airway inflammation,associated_with,Asthma
+narrowed airways,associated_with,Asthma
+asthma attack,leads_to_complication,Asthma
+asthma symptoms,leads_to_complication,asthma attack
+asthma triggers,leads_to_complication,asthma attack
+pollen,causes,asthma symptoms
+exercise,causes,asthma symptoms
+viral infections,causes,asthma symptoms
+cold air,causes,asthma symptoms
+asthma action plan,includes,monitoring
+asthma action plan,includes,avoiding triggers
+asthma action plan,includes,using medicines
+monitoring,is_prevented_by,asthma action plan
+avoiding triggers,is_prevented_by,asthma action plan
+using medicines,is_prevented_by,asthma action plan
+asthma action plan,is_treated_by,monitoring
+asthma action plan,is_treated_by,avoiding triggers
+asthma action plan,is_treated_by,using medicines
+treatment,includes,asthma action plan
+treatment,includes,monitoring
+treatment,includes,avoiding triggers
+treatment,includes,using medicines
+asthma,has_symptom,asthma symptoms
+asthma symptoms,leads_to_complication,asthma attack
+asthma attack,has_symptom,worsened asthma symptoms
+asthma,leads_to_complication,asthma attack
+asthma,has_risk_factor,United States
+asthma,has_risk_factor,age
+asthma,has_risk_factor,childhood
+asthma,has_risk_factor,pollen
+asthma,has_risk_factor,exercise
+asthma,has_risk_factor,viral infections
+asthma,has_risk_factor,cold air
+asthma,has_risk_factor,asthma triggers
+asthma,has_risk_factor,airway inflammation
+asthma,has_risk_factor,narrowed airways
+asthma,has_risk_factor,harder breathing out
+asthma,has_risk_factor,asthma attack
+asthma,has_risk_factor,asthma symptoms
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,NHLBI’s Learn More Breathe Better ® Asthma program
+asthma,has_risk_factor,Centers for Disease Control and Prevention
+asthma,has_risk_factor,airways in lungs
+asthma,has_risk_factor,1 in 13 Americans
+asthma,has_risk_factor,1 in 13 people in the United States
+asthma,has_risk_factor,childhood onset
+asthma,has_risk_factor,asthma onset
+asthma,has_risk_factor,asthma facts
+asthma,has_risk_factor,asthma guides
+asthma,has_risk_factor,tip sheets
+asthma,has_risk_factor,other resources
+asthma,has_risk_factor,FACT SHEET Asthma Facts for Patients and Families
+asthma,has_risk_factor,asthma program
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,monitoring
+asthma,has_risk_factor,avoiding triggers
+asthma,has_risk_factor,using medicines
+asthma,has_risk_factor,asthma action plan
+asthma,has_risk_factor,treatment
+asthma,has_risk_factor,asthma action

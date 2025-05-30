@@ -1,0 +1,181 @@
+subject,predicate,object
+COPD,has_symptom,shortness of breath
+COPD,has_symptom,fatigue
+COPD,is_treated_by,lifestyle changes
+COPD,is_treated_by,treatments
+COPD,leads_to_complication,infections
+COPD,is_caused_by,air pollution
+COPD,is_caused_by,smoke
+COPD,is_caused_by,dust
+COPD,is_caused_by,chemical fumes
+COPD,is_caused_by,secondhand smoke
+COPD,is_caused_by,cold temperatures
+COPD,is_prevented_by,vaccines
+COPD,is_prevented_by,avoiding triggers
+COPD,has_risk_factor,heart disease
+COPD,has_risk_factor,obesity
+COPD,has_risk_factor,peripheral artery disease
+COPD,has_risk_factor,lung cancer
+COPD,leads_to_complication,heart attacks
+COPD,leads_to_complication,stroke
+COPD,leads_to_complication,cardiovascular events
+COPD,leads_to_complication,high blood pressure
+COPD,associated_with,mental health issues
+COPD,associated_with,anxiety
+COPD,associated_with,depression
+COPD,associated_with,stress
+COPD,is_diagnosed_by,computed tomography scans
+COPD,is_treated_by,medicines
+COPD,is_treated_by,inhaler
+COPD,is_treated_by,physical activity
+COPD,is_treated_by,healthy diet
+COPD,is_treated_by,nutritional supplements
+COPD,is_treated_by,patient support group
+COPD,is_treated_by,professional counselor
+COPD,occurs_with,heart conditions
+COPD,occurs_with,heart failure
+COPD,occurs_with,arrhythmia
+COPD,occurs_with,heart disease
+COPD,occurs_with,peripheral artery disease
+COPD,causes,flare-ups
+flare-ups,causes,infections
+flare-ups,causes,respiratory syncytial virus
+flare-ups,causes,COVID-19
+flare-ups,causes,flu
+flare-ups,causes,pneumonia
+flare-ups,causes,whooping cough
+flare-ups,causes,shingles
+COPD,has_risk_factor,smoking
+COPD,has_risk_factor,not getting enough physical activity
+COPD,leads_to_complication,frequent colds
+COPD,leads_to_complication,respiratory infections
+COPD,leads_to_complication,heart disease
+COPD,leads_to_complication,obesity
+COPD,leads_to_complication,peripheral artery disease
+COPD,leads_to_complication,lung cancer
+COPD,is_treated_by,yearly computed tomography scans
+COPD,is_treated_by,TDAP vaccine
+COPD,is_treated_by,shingles shots
+COPD,is_treated_by,respiratory syncytial virus vaccine
+COPD,is_treated_by,COVID-19 vaccine
+COPD,is_treated_by,flu vaccine
+COPD,is_treated_by,pneumonia vaccine
+COPD,is_treated_by,heart tests
+COPD,is_treated_by,heart treatments
+COPD,is_treated_by,oral health maintenance
+COPD,is_treated_by,reflux reduction
+COPD,is_treated_by,air filter use
+COPD,is_treated_by,avoiding cold temperatures
+COPD,is_treated_by,emergency care
+COPD,is_treated_by,healthcare provider guidance
+COPD,is_treated_by,patient education
+COPD,is_treated_by,self-management program
+COPD,is_treated_by,nutritional planning
+COPD,is_treated_by,activity planning
+COPD,is_treated_by,home accessibility modifications
+COPD,is_treated_by,medication adherence
+COPD,is_treated_by,inhaler technique training
+COPD,is_treated_by,vaccine administration
+COPD,is_treated_by,mental health support
+COPD,is_treated_by,patient support groups
+COPD,is_treated_by,family support
+COPD,is_treated_by,healthcare provider communication
+COPD,is_treated_by,regular dental check-ups
+COPD,is_treated_by,heartburn management
+COPD,is_treated_by,air quality monitoring
+COPD,is_treated_by,smoking cessation
+COPD,is_prevented_by,smoking cessation
+COPD,is_prevented_by,physical activity
+COPD,is_prevented_by,healthy diet
+COPD,is_prevented_by,avoiding lung irritants
+COPD,is_prevented_by,regular vaccinations
+COPD,is_prevented_by,good oral health
+COPD,is_prevented_by,reflux management
+COPD,is_prevented_by,air filter use
+COPD,is_prevented_by,avoiding cold temperatures
+COPD,is_prevented_by,emergency preparedness
+COPD,is_prevented_by,healthcare provider communication
+COPD,is_prevented_by,patient education
+COPD,is_prevented_by,self-management program
+COPD,is_prevented_by,nutritional planning
+COPD,is_prevented_by,activity planning
+COPD,is_prevented_by,home accessibility modifications
+COPD,is_prevented_by,medication adherence
+COPD,is_prevented_by,inhaler technique training
+COPD,is_prevented_by,vaccine administration
+COPD,is_prevented_by,mental health support
+COPD,is_prevented_by,patient support groups
+COPD,is_prevented_by,family support
+COPD,is_prevented_by,regular dental check-ups
+COPD,is_prevented_by,heartburn management
+COPD,is_prevented_by,air quality monitoring
+COPD,has_risk_factor,climate change
+COPD,has_risk_factor,extreme heat
+COPD,has_risk_factor,wildfires
+COPD,associated_with,heart health
+COPD,associated_with,high blood pressure
+COPD,associated_with,cardiovascular events
+COPD,associated_with,heart attacks
+COPD,associated_with,stroke
+COPD,associated_with,heart failure
+COPD,associated_with,arrhythmia
+COPD,associated_with,heart disease
+COPD,associated_with,peripheral artery disease
+COPD,associated_with,lung cancer
+COPD,associated_with,mental health issues
+COPD,associated_with,anxiety
+COPD,associated_with,depression
+COPD,associated_with,stress
+COPD,associated_with,flare-ups
+COPD,associated_with,infections
+COPD,associated_with,respiratory infections
+COPD,associated_with,COVID-19
+COPD,associated_with,flu
+COPD,associated_with,pneumonia
+COPD,associated_with,whooping cough
+COPD,associated_with,shingles
+COPD,associated_with,respiratory syncytial virus
+COPD,associated_with,obesity
+COPD,associated_with,smoking
+COPD,associated_with,not getting enough physical activity
+COPD,associated_with,poor air quality
+COPD,associated_with,air pollution
+COPD,associated_with,dust
+COPD,associated_with,chemical fumes
+COPD,associated_with,secondhand smoke
+COPD,associated_with,cold temperatures
+COPD,associated_with,reflux
+COPD,associated_with,heartburn
+COPD,associated_with,oral health issues
+COPD,associated_with,mental health support
+COPD,associated_with,patient support groups
+COPD,associated_with,family support
+COPD,associated_with,healthcare provider communication
+COPD,associated_with,regular dental check-ups
+COPD,associated_with,heartburn management
+COPD,associated_with,air quality monitoring
+COPD,associated_with,smoking cessation
+COPD,associated_with,physical activity
+COPD,associated_with,healthy diet
+COPD,associated_with,nutritional supplements
+COPD,associated_with,home accessibility modifications
+COPD,associated_with,medication adherence
+COPD,associated_with,inhaler technique training
+COPD,associated_with,vaccine administration
+COPD,associated_with,emergency preparedness
+COPD,associated_with,healthcare provider guidance
+COPD,associated_with,patient education
+COPD,associated_with,self-management program
+COPD,associated_with,nutritional planning
+COPD,associated_with,activity planning
+COPD,associated_with,air filter use
+COPD,associated_with,avoiding triggers
+COPD,associated_with,climate change
+COPD,associated_with,extreme heat
+COPD,associated_with,wildfires
+COPD,associated_with,heart health
+COPD,associated_with,high blood pressure
+COPD,associated_with,cardiovascular events
+COPD,associated_with,heart attacks
+COPD,associated_with,stroke
+COPD,associated_with,heart failure
