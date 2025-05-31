@@ -13,7 +13,7 @@ from torch.utils.data import DataLoader
 from pcst_fast import pcst_fast
 import re
 
-def evaluate_response(question, context, response, label=None):
+def evaluate_response(question, context, response, label=None, report=False):
     """
     Evaluates the LLM's response based on clarity, exactitude, and context adherence.
 
@@ -26,14 +26,15 @@ def evaluate_response(question, context, response, label=None):
         dict: Evaluation scores and feedback
     """     
     
-    # get the current date
-    current_date = datetime.now().strftime("%Y-%m-%d")
-    # append the evaluation to the evaluation file named as the date
-    with open(f"evaluation_{current_date}.txt", "a") as f:
-        f.write(f"Question: {question}\n")
-        f.write(f"Context: {context}\n")
-        f.write(f"Response: {response}\n")
-        f.write(f"Label: {label}\n")
+    if report:
+        # get the current date
+        current_date = datetime.now().strftime("%Y-%m-%d")
+        # append the evaluation to the evaluation file named as the date
+        with open(f"evaluation_{current_date}.txt", "a") as f:
+            f.write(f"Question: {question}\n")
+            f.write(f"Context: {context}\n")
+            f.write(f"Response: {response}\n")
+            f.write(f"Label: {label}\n")
         
 
     evaluation_prompt = f"""You are an expert evaluator of medical knowledge responses. Evaluate the following response based on three criteria:
@@ -97,7 +98,7 @@ OVERALL FEEDBACK: [average score] and 2-3 sentences summarizing the evaluation]
 
     print("\n=== Evaluation Complete ===\n")
     # return scores
-    return {
+    score= {
         "clarity_score":clarity_score,
         "exactitude_score":exactitude_score,
         "context_adherence_score":context_adherence_score,
@@ -107,6 +108,8 @@ OVERALL FEEDBACK: [average score] and 2-3 sentences summarizing the evaluation]
         "uncertainty_handling_score":uncertainty_handling_score,
         "overall_feedback":overall_feedback,   
     }
+    f.write(score)
+    return score
 
 
 
