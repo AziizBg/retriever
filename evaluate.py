@@ -12,6 +12,7 @@ from transformers import AutoModel, AutoTokenizer
 from torch.utils.data import DataLoader
 from pcst_fast import pcst_fast
 import re
+from datetime import datetime
 
 def evaluate_response(question, context, response, label=None, report=False):
     """
@@ -21,15 +22,15 @@ def evaluate_response(question, context, response, label=None, report=False):
         question (str): Original question
         context (str): Retrieved knowledge graph context
         response (str): LLM's response to evaluate
+        label (str, optional): Ground truth label for comparison
+        report (bool): Whether to save evaluation to file
 
     Returns:
         dict: Evaluation scores and feedback
     """     
     
     if report:
-        # get the current date
         current_date = datetime.now().strftime("%Y-%m-%d")
-        # append the evaluation to the evaluation file named as the date
         with open(f"evaluation_{current_date}.txt", "a") as f:
             f.write(f"Question: {question}\n")
             f.write(f"Context: {context}\n")
@@ -82,34 +83,50 @@ OVERALL FEEDBACK: [average score] and 2-3 sentences summarizing the evaluation]
     )
 
     print("\n=== Response Evaluation ===\n")
+    
+    # Initialize variables to store the complete response
+    full_evaluation = ""
+    scores = {
+        "clarity_score": None,
+        "exactitude_score": None,
+        "context_adherence_score": None,
+        "relevance_score": None,
+        "completeness_score": None,
+        "logical_flow_score": None,
+        "uncertainty_handling_score": None,
+        "overall_feedback": None
+    }
+    
     for chunk in evaluation:
         if chunk.choices[0].delta.content is not None:
-            print(chunk.choices[0].delta.content, end="")
-            # f.write(chunk.choices[0].delta.content)
-            # extract the scores from the evaluation
-            clarity_score = re.findall(r"CLARITY: (\d+)/10", chunk.choices[0].delta.content)
-            exactitude_score = re.findall(r"EXACTITUDE: (\d+)/10", chunk.choices[0].delta.content)
-            context_adherence_score = re.findall(r"CONTEXT ADHERENCE: (\d+)/10", chunk.choices[0].delta.content)
-            relevance_score = re.findall(r"RELEVANCE: (\d+)/10", chunk.choices[0].delta.content)
-            completeness_score = re.findall(r"COMPLETENESS: (\d+)/10", chunk.choices[0].delta.content)
-            logical_flow_score = re.findall(r"LOGICAL FLOW: (\d+)/10", chunk.choices[0].delta.content)
-            uncertainty_handling_score = re.findall(r"UNCERTAINTY HANDLING: (\d+)/10", chunk.choices[0].delta.content)
-            overall_feedback = re.findall(r"OVERALL FEEDBACK: (\d+)/10", chunk.choices[0].delta.content)            
+            content = chunk.choices[0].delta.content
+            print(content, end="")
+            full_evaluation += content
+
+    # Extract scores from the complete evaluation
+    scores["clarity_score"] = re.findall(r"CLARITY: (\d+)/10", full_evaluation)
+    scores["exactitude_score"] = re.findall(r"EXACTITUDE: (\d+)/10", full_evaluation)
+    scores["context_adherence_score"] = re.findall(r"CONTEXT ADHERENCE: (\d+)/10", full_evaluation)
+    scores["relevance_score"] = re.findall(r"RELEVANCE: (\d+)/10", full_evaluation)
+    scores["completeness_score"] = re.findall(r"COMPLETENESS: (\d+)/10", full_evaluation)
+    scores["logical_flow_score"] = re.findall(r"LOGICAL FLOW: (\d+)/10", full_evaluation)
+    scores["uncertainty_handling_score"] = re.findall(r"UNCERTAINTY HANDLING: (\d+)/10", full_evaluation)
+    scores["overall_feedback"] = re.findall(r"OVERALL FEEDBACK: (.*?)(?=\n|$)", full_evaluation)
+
+    # Convert list matches to single values
+    for key in scores:
+        if scores[key]:
+            scores[key] = scores[key][0] if isinstance(scores[key], list) else scores[key]
 
     print("\n=== Evaluation Complete ===\n")
-    # return scores
-    score= {
-        "clarity_score":clarity_score,
-        "exactitude_score":exactitude_score,
-        "context_adherence_score":context_adherence_score,
-        "relevance_score":relevance_score,
-        "completeness_score":completeness_score,
-        "logical_flow_score":logical_flow_score,
-        "uncertainty_handling_score":uncertainty_handling_score,
-        "overall_feedback":overall_feedback,   
-    }
-    f.write(score)
-    return score
+    
+    if report:
+        with open(f"evaluation_{current_date}.txt", "a") as f:
+            f.write("\nScores:\n")
+            f.write(json.dumps(scores, indent=2))
+            f.write("\n\n" + "="*50 + "\n\n")
+    
+    return scores
 
 
 
