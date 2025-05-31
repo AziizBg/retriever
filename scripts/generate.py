@@ -1,3 +1,5 @@
+from retrieve import retrieval
+
 def construct_rag_prompt(question, descriptions):
     """
     Constructs a prompt for RAG using the retrieved knowledge graph descriptions.
