@@ -1,0 +1,38 @@
+[
+  {
+    "question": "What are the common symptoms of COVID-19?",
+    "answer": "Common symptoms include fever, chills, sore throat, muscle aches, fatigue, runny or blocked nose, headache, sore eyes, dizziness, new and persistent cough, tight chest or chest pain, shortness of breath, hoarse voice, numbness or tingling, appetite loss, nausea, vomiting, abdominal pain or diarrhea, loss or change of sense of taste or smell, and difficulty sleeping."
+  },
+  {
+    "question": "How does COVID-19 spread?",
+    "answer": "COVID-19 spreads through respiratory droplets and small particles when an infected person breathes, coughs, or sneezes. These droplets can be inhaled or land on the eyes, nose, or mouth. It can also spread through contaminated surfaces, though this is less common."
+  },
+  {
+    "question": "What are the emergency warning signs of COVID-19?",
+    "answer": "Emergency warning signs include difficulty breathing, persistent chest pain or pressure, new confusion, inability to wake or stay awake, and pale, gray, or blue-colored lips, nail beds, or skin. Seek immediate medical attention if these occur."
+  },
+  {
+    "question": "Who is at higher risk for severe illness from COVID-19?",
+    "answer": "Older adults, immunocompromised individuals, and those with underlying health conditions such as diabetes, heart disease, lung disease, obesity, or pregnancy are at higher risk for severe illness."
+  },
+  {
+    "question": "What is Long COVID?",
+    "answer": "Long COVID, or Post-COVID Conditions, refers to a range of symptoms that continue for weeks or months after initial infection. Common symptoms include fatigue, breathlessness, and cognitive dysfunction, affecting daily activities."
+  },
+  {
+    "question": "How can COVID-19 be prevented?",
+    "answer": "Prevention strategies include staying up to date with COVID-19 vaccines, practicing good hygiene, wearing masks in high-risk settings, improving ventilation, staying home when sick, and using antiviral treatments if eligible."
+  },
+  {
+    "question": "What types of COVID-19 tests are available?",
+    "answer": "Two main types of viral tests are available: Nucleic Acid Amplification Tests (NAATs), including PCR tests, which are highly accurate, and antigen tests, which provide rapid results but may require repeat testing for confirmation."
+  },
+  {
+    "question": "When should COVID-19 treatment be sought?",
+    "answer": "Treatment should be sought within 5-7 days of symptom onset, especially for those at high risk of severe illness. Antiviral medications like Paxlovid can reduce the risk of hospitalization and severe outcomes."
+  },
+  {
+    "question": "Are COVID-19 vaccines effective against variants?",
+    "answer": "COVID-19 vaccines provide strong protection against severe illness, hospitalization, and death, even as new variants emerge. Staying up to date with recommended vaccine doses is crucial for ongoing protection."
+  }
+]

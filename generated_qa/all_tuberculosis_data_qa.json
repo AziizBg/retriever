@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What is the primary cause of tuberculosis (TB)?",
+    "answer": "Tuberculosis is caused by the bacterium Mycobacterium tuberculosis, which primarily affects the lungs but can also affect other parts of the body."
+  },
+  {
+    "question": "What are the two main types of TB-related conditions?",
+    "answer": "The two main types are inactive TB (latent TB infection), where the bacteria are present but do not cause symptoms, and active TB disease, where the bacteria multiply and cause illness."
+  },
+  {
+    "question": "How does TB spread from person to person?",
+    "answer": "TB spreads through the air when a person with active TB disease of the lungs or throat coughs, speaks, or sings, releasing bacteria that can be inhaled by others."
+  },
+  {
+    "question": "What are common symptoms of active TB disease?",
+    "answer": "Symptoms include a persistent cough lasting three weeks or more, chest pain, coughing up blood, weakness, fatigue, weight loss, loss of appetite, chills, fever, and night sweats."
+  },
+  {
+    "question": "Who is at higher risk of developing active TB disease after infection?",
+    "answer": "Individuals with weakened immune systems due to conditions like HIV, diabetes, or those taking immunosuppressive medications, as well as young children and the elderly."
+  },
+  {
+    "question": "What is the role of the BCG vaccine in TB prevention?",
+    "answer": "The BCG vaccine is primarily used in countries with high TB prevalence to protect infants and young children from severe forms of TB, such as TB meningitis. It is not routinely used in the United States."
+  },
+  {
+    "question": "How is TB diagnosed?",
+    "answer": "Diagnosis involves TB blood tests (IGRAs) or a TB skin test, followed by additional tests like chest X-rays or sputum analysis to distinguish between inactive and active TB."
+  },
+  {
+    "question": "What is the treatment approach for inactive TB?",
+    "answer": "Treating inactive TB with antibiotics, such as isoniazid, is crucial to prevent progression to active TB disease. Treatment typically lasts several months."
+  },
+  {
+    "question": "Why is completing the full course of TB treatment important?",
+    "answer": "Completing the full treatment course prevents the development of drug-resistant TB and ensures the infection is fully cleared, reducing the risk of transmission."
+  },
+  {
+    "question": "What preventive measures can reduce the spread of TB in healthcare settings?",
+    "answer": "Measures include administrative controls, environmental controls (e.g., good ventilation), and the use of respiratory protective equipment by healthcare workers."
+  },
+  {
+    "question": "When should someone get tested for TB?",
+    "answer": "Testing is recommended for individuals with symptoms of TB, those exposed to someone with active TB, or those at higher risk due to medical conditions, travel, or living situations."
+  }
+]

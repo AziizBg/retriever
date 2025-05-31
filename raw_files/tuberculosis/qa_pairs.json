@@ -1,0 +1,50 @@
+[
+    {
+        "question": "What bacterium is primarily responsible for causing tuberculosis (TB) in the United States?",
+        "answer": "Mycobacterium tuberculosis. Other mycobacteria, such as Mycobacterium bovis, can also cause TB disease in people."
+    },
+    {
+        "question": "What are the two main TB-related conditions?",
+        "answer": "Inactive TB (latent TB infection) and active TB disease. In inactive TB, the germs are present but do not cause symptoms, whereas active TB disease involves symptoms and can be fatal if untreated."
+    },
+    {
+        "question": "Can inactive TB develop into active TB disease?",
+        "answer": "Yes, without treatment, people with inactive TB can develop active TB disease at any time, especially if their immune system weakens."
+    },
+    {
+        "question": "What are common symptoms of active TB disease?",
+        "answer": "Symptoms include a persistent cough lasting three weeks or longer, chest pain, coughing up blood or sputum, weakness, weight loss, loss of appetite, chills, fever, and night sweats."
+    },
+    {
+        "question": "Who is at a higher risk of contracting TB?",
+        "answer": "Individuals born in or frequently traveling to TB-endemic countries, those living in crowded settings (e.g., shelters, prisons), recent contacts of active TB patients, and people with weakened immune systems due to conditions like diabetes, cancer, or HIV."
+    },
+    {
+        "question": "How does TB typically spread from person to person?",
+        "answer": "TB spreads through the air when a person with active TB disease of the lungs or throat coughs, speaks, or sings, releasing germs that can be inhaled by others, especially in poorly ventilated areas."
+    },
+    {
+        "question": "What is the recommended prevention strategy for individuals diagnosed with inactive TB?",
+        "answer": "Treatment is available to protect against progression to active TB disease, which should be completed as directed by a healthcare provider."
+    },
+    {
+        "question": "What types of tests are recommended for TB diagnosis?",
+        "answer": "Two types of tests are used: the TB blood test (Interferon-Gamma Release Assay, IGRA) and the TB skin test. The blood test is preferred for those who have received the BCG vaccine to avoid false positives."
+    },
+    {
+        "question": "What happens after a positive TB test result?",
+        "answer": "Additional tests, such as a chest x-ray and sputum analysis, are conducted to determine whether the infection is inactive or has progressed to active TB disease."
+    },
+    {
+        "question": "Is treatment for active TB disease effective?",
+        "answer": "Yes, active TB disease can be treated with medicine, but it is crucial to complete the full treatment course as prescribed to ensure recovery and prevent transmission to others."
+    },
+    {
+        "question": "What is the role of the BCG vaccine in TB prevention?",
+        "answer": "The BCG vaccine is primarily used in countries with high TB prevalence to protect infants and young children from severe forms of TB, such as TB meningitis. It is not routinely used in the United States."
+    },
+    {
+        "question": "Why is it important to inform healthcare providers about receiving the BCG vaccine?",
+        "answer": "Disclosure is necessary because the BCG vaccine can cause a false-positive reaction in the TB skin test, so a blood test is recommended for individuals who have been vaccinated."
+    }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "question": "What is pneumonia?",
+    "answer": "Pneumonia is an infection of the lungs that can be caused by bacteria, viruses, fungi, or parasites, leading to inflammation and fluid or pus accumulation in the air sacs (alveoli), which can cause symptoms such as cough, fever, and difficulty breathing."
+  },
+  {
+    "question": "What are the main types of pneumonia?",
+    "answer": "The main types of pneumonia are community-acquired pneumonia (developed outside a hospital), healthcare-acquired pneumonia (developed in a healthcare setting), and ventilator-associated pneumonia (developed after being on a ventilator)."
+  },
+  {
+    "question": "What are common symptoms of pneumonia?",
+    "answer": "Common symptoms of pneumonia include chest pain when breathing or coughing, altered mental status, cough, fatigue, fever or chills, nausea, vomiting, diarrhea, and shortness of breath."
+  },
+  {
+    "question": "Who is at increased risk for pneumonia?",
+    "answer": "People at increased risk for pneumonia include those at certain ages (children under 5, adults 65 and older), those with chronic medical conditions (e.g., heart disease, diabetes), weakened immune systems, and those with behaviors such as smoking or excessive alcohol consumption."
+  },
+  {
+    "question": "What are the primary causes of pneumonia?",
+    "answer": "Pneumonia can be caused by bacterial infections (e.g., Streptococcus pneumoniae, Mycoplasma pneumoniae), viral infections (e.g., influenza, COVID-19, RSV), and fungal infections (e.g., Pneumocystis jirovecii), with bacterial infections being the most common cause in adults."
+  },
+  {
+    "question": "How can pneumonia be prevented?",
+    "answer": "Pneumonia prevention strategies include vaccination (e.g., pneumococcal, flu, Hib vaccines), practicing good hygiene (handwashing, avoiding close contact with the sick), quitting smoking, and maintaining a healthy lifestyle with a balanced diet and regular physical activity."
+  },
+  {
+    "question": "What is the typical recovery time for pneumonia?",
+    "answer": "Recovery time for pneumonia varies; some people may feel better within 1-2 weeks, while others may take a month or longer, with fatigue often persisting for about a month."
+  },
+  {
+    "question": "What are potential complications of untreated pneumonia?",
+    "answer": "Complications of untreated pneumonia can include acute respiratory distress syndrome (ARDS), respiratory failure, kidney or liver damage, necrotizing pneumonia, pleural disorders, and sepsis, particularly in high-risk populations such as children, older adults, and those with compromised immune systems."
+  },
+  {
+    "question": "How is pneumonia diagnosed?",
+    "answer": "Pneumonia diagnosis involves a medical history review, physical examination, and diagnostic tests such as chest X-rays, blood tests (e.g., CBC, pulse oximetry), and may include sputum tests, blood cultures, PCR tests, or bronchoscopy in more severe or complex cases."
+  },
+  {
+    "question": "What are the treatment options for pneumonia?",
+    "answer": "Treatment for pneumonia depends on the cause and severity, including antibiotics for bacterial pneumonia, antivirals for viral pneumonia, antifungals for fungal pneumonia, and may involve hospitalization with IV fluids and oxygen therapy for severe cases."
+  }
+]

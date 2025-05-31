@@ -1,0 +1,46 @@
+[
+  {
+    "question": "What are the common symptoms of asthma?",
+    "answer": "Common symptoms of asthma include wheezing, breathlessness, chest tightness, and coughing, especially at night or early in the morning. These symptoms can worsen during an asthma attack, making it harder to breathe."
+  },
+  {
+    "question": "How is asthma diagnosed?",
+    "answer": "Asthma diagnosis involves a doctor evaluating symptoms, medical history, and performing tests such as spirometry to assess lung function. Challenge tests and allergy tests may also be used to identify triggers and confirm the diagnosis."
+  },
+  {
+    "question": "What is the role of spirometry in asthma diagnosis?",
+    "answer": "Spirometry measures how much and how fast air can be exhaled, helping to assess lung function and confirm an asthma diagnosis. It is often performed before and after using a bronchodilator to evaluate improvement in airflow."
+  },
+  {
+    "question": "How can asthma be managed and controlled?",
+    "answer": "Asthma management involves taking prescribed medications as directed, avoiding triggers, monitoring symptoms, and using an asthma action plan. This includes using controller medications for long-term management and reliever medications for acute symptoms."
+  },
+  {
+    "question": "What are common asthma triggers?",
+    "answer": "Common asthma triggers include allergens (e.g., pollen, dust mites, pet dander), respiratory infections, air pollution, tobacco smoke, exercise, and cold air. Identifying and avoiding these triggers helps prevent asthma attacks."
+  },
+  {
+    "question": "What is an asthma action plan?",
+    "answer": "An asthma action plan is a written guide developed with a healthcare provider that outlines how to manage asthma, including when to take medications, how to recognize worsening symptoms, and when to seek emergency care."
+  },
+  {
+    "question": "How do quick-relief medications help during an asthma attack?",
+    "answer": "Quick-relief medications, such as short-acting beta2-agonists (SABAs), help relax airway muscles and improve breathing during an asthma attack. They provide temporary relief but do not control long-term inflammation."
+  },
+  {
+    "question": "What are the long-term control medications for asthma?",
+    "answer": "Long-term control medications, such as inhaled corticosteroids and leukotriene modifiers, reduce airway inflammation and prevent asthma attacks. They are used daily to manage symptoms and maintain lung function."
+  },
+  {
+    "question": "How does obesity affect asthma management?",
+    "answer": "Obesity can worsen asthma symptoms and make the condition harder to control. Maintaining a healthy weight through diet and exercise may help improve asthma management and reduce symptom severity."
+  },
+  {
+    "question": "What should be done during an asthma attack?",
+    "answer": "During an asthma attack, use a reliever inhaler as prescribed, follow the asthma action plan, and seek emergency care if symptoms do not improve or worsen. Delaying treatment can lead to severe complications."
+  },
+  {
+    "question": "Can asthma be cured?",
+    "answer": "Asthma cannot be cured, but it can be effectively managed with proper treatment, lifestyle adjustments, and avoidance of triggers. Early diagnosis and adherence to an asthma action plan are crucial for controlling the condition."
+  }
+]
