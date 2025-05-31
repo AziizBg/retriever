@@ -105,13 +105,13 @@ OVERALL FEEDBACK: [average score] and 2-3 sentences summarizing the evaluation]
             full_evaluation += content
 
     # Extract scores from the complete evaluation
-    scores["clarity_score"] = re.findall(r"CLARITY: (\d+)/10", full_evaluation)
-    scores["exactitude_score"] = re.findall(r"EXACTITUDE: (\d+)/10", full_evaluation)
-    scores["context_adherence_score"] = re.findall(r"CONTEXT ADHERENCE: (\d+)/10", full_evaluation)
-    scores["relevance_score"] = re.findall(r"RELEVANCE: (\d+)/10", full_evaluation)
-    scores["completeness_score"] = re.findall(r"COMPLETENESS: (\d+)/10", full_evaluation)
-    scores["logical_flow_score"] = re.findall(r"LOGICAL FLOW: (\d+)/10", full_evaluation)
-    scores["uncertainty_handling_score"] = re.findall(r"UNCERTAINTY HANDLING: (\d+)/10", full_evaluation)
+    scores["clarity_score"] = re.findall(r"CLARITY: (\d+(?:\.\d+)?)", full_evaluation)
+    scores["exactitude_score"] = re.findall(r"EXACTITUDE: (\d+(?:\.\d+)?)", full_evaluation)
+    scores["context_adherence_score"] = re.findall(r"CONTEXT ADHERENCE: (\d+(?:\.\d+)?)", full_evaluation)
+    scores["relevance_score"] = re.findall(r"RELEVANCE: (\d+(?:\.\d+)?)", full_evaluation)
+    scores["completeness_score"] = re.findall(r"COMPLETENESS: (\d+(?:\.\d+)?)", full_evaluation)
+    scores["logical_flow_score"] = re.findall(r"LOGICAL FLOW: (\d+(?:\.\d+)?)", full_evaluation)
+    scores["uncertainty_handling_score"] = re.findall(r"UNCERTAINTY HANDLING: (\d+(?:\.\d+)?)", full_evaluation)
     scores["overall_feedback"] = re.findall(r"OVERALL FEEDBACK: (.*?)(?=\n|$)", full_evaluation)
 
     # Convert list matches to single values
