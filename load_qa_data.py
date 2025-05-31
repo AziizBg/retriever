@@ -13,12 +13,27 @@ def load_qa():
 
     # Load data from each file
     for file_path in qa_files:
-        with open(file_path, 'r', encoding='utf-8') as f:
-            data = json.load(f)
-            all_questions.extend(data['questions'])
-            all_answers.extend(data['answers'])
+        try:
+            with open(file_path, 'r', encoding='utf-8') as f:
+                data = json.load(f)
 
-    print(f"Total number of QA pairs loaded: {len(all_questions)}")
-    print("\nSample questions:")
-    for i, q in enumerate(all_questions[:5]):
-        print(f"{i+1}. {q}")        
+            # Check if the loaded data is a list
+            if isinstance(data, list):
+                # Iterate through the list of Q&A pairs
+                for qa_pair in data:
+                    # Ensure each item in the list is a dictionary with 'question' and 'answer' keys
+                    if isinstance(qa_pair, dict) and 'question' in qa_pair and 'answer' in qa_pair:
+                        all_questions.append(qa_pair['question'])
+                        all_answers.append(qa_pair['answer'])
+                    else:
+                        print(f"Warning: Skipping invalid item in {file_path}: {qa_pair}")
+            else:
+                 print(f"Warning: Data in {file_path} is not a list. Skipping file.")
+
+        except json.JSONDecodeError as e:
+            print(f"Error decoding JSON from {file_path}: {e}")
+        except Exception as e:
+            print(f"Error loading {file_path}: {e}")
+
+        # return questions and answers
+        return all_questions, all_answers
