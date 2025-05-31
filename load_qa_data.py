@@ -14,6 +14,8 @@ def load_qa():
     # Load data from each file
     for file_path in qa_files:
         try:
+            print("loading file ", file_path)
+            # Load JSON data from the file
             with open(file_path, 'r', encoding='utf-8') as f:
                 data = json.load(f)
 
@@ -35,5 +37,5 @@ def load_qa():
         except Exception as e:
             print(f"Error loading {file_path}: {e}")
 
-        # return questions and answers
-        return all_questions, all_answers
+    # return questions and answers
+    return all_questions, all_answers
