@@ -1,3 +1,118 @@
+import os
+import pandas as pd
+import numpy as np
+from tqdm import tqdm
+import torch
+from torch_geometric.data import Data
+import json
+import gensim
+from torch import nn
+import torch.nn.functional as F
+from transformers import AutoModel, AutoTokenizer
+from torch.utils.data import DataLoader
+from pcst_fast import pcst_fast
+import re
+from pymilvus import MilvusClient, DataType, FieldSchema, CollectionSchema
+
+# Model configuration
+pretrained_repo = 'sentence-transformers/all-roberta-large-v1'
+batch_size = 1024  # Adjust the batch size as needed
+model_name = 'sbert'
+
+# Path configuration
+path = '.'
+path_nodes = f'{path}/nodes'
+path_edges = f'{path}/edges'
+path_graphs = f'{path}/graphs'
+
+# Milvus configuration
+CLUSTER_ENDPOINT = "https://in03-7a5f9d2a1aa84ef.serverless.gcp-us-west1.cloud.zilliz.com"
+API_KEY = "a73c79fb1924d05aeb410abc0d5669293cc33be37a123953be640725aa42198ef5c1e499cc07f231977c742ad6e6977c6eddec05"
+milvus_client = MilvusClient(uri=CLUSTER_ENDPOINT, token=API_KEY)
+COLLECTION_NAME = "graph_embeddings"
+VECTOR_DIM = 1024  # SBERT default
+METRIC_TYPE = "COSINE"
+
+# Dataset class for text embedding
+class Dataset(torch.utils.data.Dataset):
+    def __init__(self, input_ids=None, attention_mask=None):
+        super().__init__()
+        self.data = {
+            "input_ids": input_ids,
+            "att_mask": attention_mask,
+        }
+
+    def __len__(self):
+        return self.data["input_ids"].size(0)
+
+    def __getitem__(self, index):
+        if isinstance(index, torch.Tensor):
+            index = index.item()
+        batch_data = dict()
+        for key in self.data.keys():
+            if self.data[key] is not None:
+                batch_data[key] = self.data[key][index]
+        return batch_data
+
+# Sentence Transformer model
+class Sentence_Transformer(nn.Module):
+    def __init__(self, pretrained_repo):
+        super(Sentence_Transformer, self).__init__()
+        print(f"inherit model weights from {pretrained_repo}")
+        self.bert_model = AutoModel.from_pretrained(pretrained_repo)
+
+    def mean_pooling(self, model_output, attention_mask):
+        token_embeddings = model_output[0]
+        data_type = token_embeddings.dtype
+        input_mask_expanded = attention_mask.unsqueeze(-1).expand(token_embeddings.size()).to(data_type)
+        return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
+
+    def forward(self, input_ids, att_mask):
+        bert_out = self.bert_model(input_ids=input_ids, attention_mask=att_mask)
+        sentence_embeddings = self.mean_pooling(bert_out, att_mask)
+        sentence_embeddings = F.normalize(sentence_embeddings, p=2, dim=1)
+        return sentence_embeddings
+
+def load_sbert():
+    model = Sentence_Transformer(pretrained_repo)
+    tokenizer = AutoTokenizer.from_pretrained(pretrained_repo)
+
+    if torch.cuda.device_count() > 1:
+        print(f'Using {torch.cuda.device_count()} GPUs')
+        model = nn.DataParallel(model)
+
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+    model.to(device)
+    model.eval()
+    return model, tokenizer, device
+
+def sbert_text2embedding(model, tokenizer, device, text):
+    if len(text) == 0:
+        return torch.zeros((0, 1024))
+
+    encoding = tokenizer(text, padding=True, truncation=True, return_tensors='pt')
+    dataset = Dataset(input_ids=encoding.input_ids, attention_mask=encoding.attention_mask)
+    dataloader = DataLoader(dataset, batch_size=batch_size, shuffle=False)
+    all_embeddings = []
+
+    with torch.no_grad():
+        for batch in dataloader:
+            batch = {key: value.to(device) for key, value in batch.items()}
+            embeddings = model(input_ids=batch["input_ids"], att_mask=batch["att_mask"])
+            all_embeddings.append(embeddings)
+
+    all_embeddings = torch.cat(all_embeddings, dim=0).cpu()
+    return all_embeddings
+
+# Model loading functions
+load_model = {
+    'sbert': load_sbert,
+}
+
+load_text2embedding = {
+    'sbert': sbert_text2embedding,
+}
+
 def retrieval_via_pcst(graph, q_emb, textual_nodes, textual_edges, topk=3, topk_e=3, cost_e=0.5):
     c = 0.01
     if len(textual_nodes) == 0 or len(textual_edges) == 0:
@@ -96,6 +211,9 @@ def retrieval_via_pcst(graph, q_emb, textual_nodes, textual_edges, topk=3, topk_
 
 
 def retreival(question, k=3):
+    load_model = {
+        'sbert': load_sbert,
+    }
     model, tokenizer, device = load_model[model_name]()
     text2embedding = load_text2embedding[model_name]
     # Encode question

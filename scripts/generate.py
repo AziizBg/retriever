@@ -1,5 +1,3 @@
-from retrieve import retrieval
-
 def construct_rag_prompt(question, descriptions):
     """
     Constructs a prompt for RAG using the retrieved knowledge graph descriptions.
@@ -30,6 +28,8 @@ say I don't know. Be precise and factual in your responses. Don't cite the node 
     return prompt
 
 def generate_response(client, question):
+  from retrieve import retrieval
+
   sub_graphs, descriptions = retreival(question, k=3)
   rag_prompt = construct_rag_prompt(question, descriptions)
 
