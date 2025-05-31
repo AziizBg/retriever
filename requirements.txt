@@ -22,3 +22,6 @@ gensim
 scipy==1.12
 protobuf
 pymilvus
+
+requests>=2.31.0
+python-dotenv>=1.0.0
