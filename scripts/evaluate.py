@@ -13,6 +13,7 @@ from torch.utils.data import DataLoader
 from pcst_fast import pcst_fast
 import re
 from datetime import datetime
+from load_qa_data import load_qa
 
 def evaluate_response(question, context, response, label=None, report=False):
     """
@@ -127,7 +128,6 @@ OVERALL FEEDBACK: [average score] and 2-3 sentences summarizing the evaluation]
             f.write("\n\n" + "="*50 + "\n\n")
     
     return scores
-
 
 
 # # Example usage:
